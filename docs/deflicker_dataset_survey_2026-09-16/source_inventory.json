@@ -1,0 +1,1074 @@
+{
+  "checked_date": "2026-09-16",
+  "scope": "Cited source URLs; inclusion does not imply a complete dataset download or full-text review. Evidence levels are stated in the reports.",
+  "sources": [
+    {
+      "url": "https://arxiv.org/abs/2205.08090",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文"
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.08120",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文 §4"
+        },
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "All-In-One-Deflicker 的相关工作部分"
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.01559",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文"
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.22794",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文"
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/html/2509.24644v4",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "v4 正文 §4.1.2、§5.1"
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/html/2605.21079v2",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文 §4 和局限"
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/html/2606.29845",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文 §3.2、实验设置"
+        }
+      ]
+    },
+    {
+      "url": "https://cie.co.at/datatable/relative-spectral-power-distributions-illuminants-representing-typical-led-lamps",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "CIE LED 光谱"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.blender.org/api/4.3/bpy.types.AreaLight.html",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "AreaLight API"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.blender.org/api/4.3/bpy.types.Scene.html#bpy.types.Scene.frame_set",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Scene.frame_set API"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.3/render/color_management.html",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "Blender 线性颜色工作流"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.3/render/cycles/render_settings/motion_blur.html",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "官方 Motion Blur 文档"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.3/render/layers/passes.html",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "官方说明"
+        }
+      ]
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.3/render/lights/light_object.html",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "Blender 灯功率说明"
+        }
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1088/1361-6501/ada1eb",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "出版 DOI"
+        }
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1088/1361-6501/ae16c7",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "出版方摘要"
+        }
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1109/TIP.2005.860328",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者论文"
+        }
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1117/12.2008271",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "出版 DOI"
+        }
+      ]
+    },
+    {
+      "url": "https://francois.pitie.net/deflicker/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者项目"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/AyushJam/iset-lfm",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "代码"
+        },
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "ISET-LFM"
+        },
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "ISET-LFM"
+        },
+        {
+          "report": "README.md",
+          "label": "生成框架"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ChenyangLEI/All-In-One-Deflicker",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/YChenL/DFCG",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/YChenL/DFCG/blob/main/Dataset/synthesize_data.py",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "生成脚本"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ZZH-qwq/BRACE",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ZhiyiZZhou/VDFP",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "Kubric/GSO 等资产入口"
+        },
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "google-research/kubric"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/challenges/movi/movi_def_worker.py#L291",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "MOVi 后处理"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/challenges/movi/movi_def_worker.py#L72",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "MOVi 初始化"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/challenges/movi/movi_def_worker.py#L86",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "MOVi 环境设置"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/docker/Blender.Dockerfile#L48",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Blender Dockerfile"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/docs/source/0_installing.rst",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "安装文档"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/assets/asset_source.py#L167",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "create"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/assets/asset_source.py#L243",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "划分"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/assets/asset_source.py#L63",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "AssetSource"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/assets.py#L85",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "关键帧与插值"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/cameras.py#L71",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "相机类"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/lights.py#L27",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "`core/lights.py`"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/materials.py#L31",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "`core/materials.py`"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/objects.py#L289",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "动画资产说明"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/scene.py#L135",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Scene.add"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/scene.py#L172",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Scene.from_flags"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/scene.py#L49",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Scene 类型和校验"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/core/view.py#L61",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "View.add"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/file_io.py#L310",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "writer 注册表"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L102",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Blender 初始化"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L123",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "默认通道表"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L286",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Blender.render"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L343",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "postprocess"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L440",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "GLB 处理"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L519",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "`renderer/blender.py:519–580`"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L569",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "点光转换"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L622",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "`blender.py:622`"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L703",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "环境节点"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L806",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Blender 关键帧转发"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender.py#L88",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "custom_scene 的边界"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender_utils.py#L114",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "对应源码"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender_utils.py#L220",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "EXR 解码"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/renderer/blender_utils.py#L472",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "RGB 后处理"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/simulator/pybullet.py#L221",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "PyBullet.run"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/utils.py#L132",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "metadata"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/blob/61f2422c84bab75006df33c6989e0b483db3ccfe/kubric/utils.py#L43",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "ArgumentParser 与 setup"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/commit/61f2422c84bab75006df33c6989e0b483db3ccfe",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "本次提交"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/kubric/tree/61f2422c84bab75006df33c6989e0b483db3ccfe/challenges/complex_brdf",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "`challenges/complex_brdf`"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/libozhu03/RIFLE",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/qulishen/BurstDeflicker",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方代码与数据入口"
+        },
+        {
+          "report": "README.md",
+          "label": "论文与代码入口"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/qulishen/Flickerformer",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ziweiWWANG/EFR",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "官方仓库"
+        }
+      ]
+    },
+    {
+      "url": "https://helpguide.sony.net/ilc/1960/v1/zh-cn/contents/TP0002935717.html",
+      "citations": [
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "α9 II 中文帮助"
+        }
+      ]
+    },
+    {
+      "url": "https://helpguide.sony.net/ilc/2440/v1/zh-cn/contents/201h_anti_flicker_comparison.html",
+      "citations": [
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "α1 II 中文帮助"
+        }
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/xrenaa/Blind-Video-Deflickering-Dataset",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者提供的数据镜像"
+        }
+      ]
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10006737",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文"
+        }
+      ]
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/6937311",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "出版页"
+        }
+      ]
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317758",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "出版方全文"
+        }
+      ]
+    },
+    {
+      "url": "https://libozhu03.github.io/CLEAR/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者项目页"
+        }
+      ]
+    },
+    {
+      "url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/32/16/art00001",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "全文"
+        }
+      ]
+    },
+    {
+      "url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/38/16/AVM-105",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文"
+        }
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11042-020-10385-8",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "出版方"
+        }
+      ]
+    },
+    {
+      "url": "https://mitsuba.readthedocs.io/en/latest/src/generated/plugins_sensors.html",
+      "citations": [
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Mitsuba 传感器"
+        }
+      ]
+    },
+    {
+      "url": "https://mitsuba.readthedocs.io/en/latest/src/key_topics/variants.html",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "Mitsuba 变体"
+        },
+        {
+          "report": "03_kubric_pipeline_audit.md",
+          "label": "Mitsuba 变体说明"
+        }
+      ]
+    },
+    {
+      "url": "https://ncsu-wong.org/docs/2018_ICASSP.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者论文入口"
+        }
+      ]
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Fulari_Unsupervised_Model-Based_Learning_for_Simultaneous_Video_Deflickering_and_Deblotching_WACV_2024_paper.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文 §4.1"
+        }
+      ]
+    },
+    {
+      "url": "https://pages.cs.huji.ac.il/danix-lab/cglab/projects/tonestab/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者项目与原视频"
+        }
+      ]
+    },
+    {
+      "url": "https://pbr-book.org/4ed/Radiometry,_Spectra,_and_Color/Representing_Spectral_Distributions",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "PBRT 光谱表示"
+        }
+      ]
+    },
+    {
+      "url": "https://polyhaven.com/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "Poly Haven"
+        }
+      ]
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文 PDF，§3、图 5"
+        }
+      ]
+    },
+    {
+      "url": "https://purl.stanford.edu/wd776hn7919",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "数据 DOI 与许可"
+        }
+      ]
+    },
+    {
+      "url": "https://research.uni-hannover.de/de/publications/real-time-led-flicker-detection-and-mitigation-architecture-and-f/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者单位记录"
+        }
+      ]
+    },
+    {
+      "url": "https://research.universityofgalway.ie/en/publications/led-flicker-root-cause-impact-and-measurement-for-automotive-imag-4/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者大学记录"
+        }
+      ]
+    },
+    {
+      "url": "https://rgl.epfl.ch/materials",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "RGL"
+        }
+      ]
+    },
+    {
+      "url": "https://rgl.epfl.ch/publications/Dupuy2018Adaptive",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "RGL 光谱材质库"
+        }
+      ]
+    },
+    {
+      "url": "https://sigport.org/sites/default/files/docs/ICASSP_Poster_v6.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者海报"
+        }
+      ]
+    },
+    {
+      "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/en/",
+      "citations": [
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "ILCE-9M2 — Understanding flicker"
+        }
+      ]
+    },
+    {
+      "url": "https://tore.tuhh.de/entities/publication/9972596e-2a16-4eeb-a7cc-4eac3d57c201",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "大学出版记录"
+        }
+      ]
+    },
+    {
+      "url": "https://webee.technion.ac.il/Sites/People/yoav/publications/supplement_ACam_docCVPR.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "补充材料与灯具表"
+        },
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "DELIGHT 实测灯具表"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cie.co.at/data-tables",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "CIE 数据目录"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cs.toronto.edu/~kyros/pubs/17.cvpr.acam.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "正文"
+        },
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "ACam 正文 §2–3"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dgp.toronto.edu/ACam/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "项目页"
+        },
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "DELIGHT"
+        },
+        {
+          "report": "README.md",
+          "label": "作者资料"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02526.pdf",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "论文 §5.1"
+        }
+      ]
+    },
+    {
+      "url": "https://www.emva.org/standards-technology/emva-1288/emva-standard-1288-downloads-2/",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "EMVA 1288 的相机响应定义"
+        }
+      ]
+    },
+    {
+      "url": "https://www.emva.org/standards-technology/emva-1288/emva-standard-1288/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "EMVA 1288"
+        }
+      ]
+    },
+    {
+      "url": "https://www.energy.gov/cmei/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "DOE 提供全文"
+        },
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "DOE 综述"
+        }
+      ]
+    },
+    {
+      "url": "https://www.energy.gov/cmei/ssl/flicker-research",
+      "citations": [
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "DOE 背景"
+        }
+      ]
+    },
+    {
+      "url": "https://www.gujinwei.org/research/camspec/db.html",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "Camera Spectral Sensitivity Database"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ims.uni-hannover.de/en/forschung/fachgebiet-architekturen-und-systeme/architectures-and-systems-group-publications",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "作者单位书目"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mdpi.com/1424-8220/20/5/1390",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "Sensors 正文入口"
+        }
+      ]
+    },
+    {
+      "url": "https://www.merl.com/research/downloads/BRDF/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "MERL BRDF"
+        },
+        {
+          "report": "02_physical_model_and_coverage.md",
+          "label": "MERL"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sony-semicon.com/cn/technology/automotive/lfm.html",
+      "citations": [
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "车载 LED 防闪烁技术"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sony.com/electronics/support/a-mount-body-dslr-a800-series/dslr-a850/articles/00280549",
+      "citations": [
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "官方 HSS 条带说明"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sony.com/electronics/support/articles/00008839",
+      "citations": [
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "官方原因说明"
+        },
+        {
+          "report": "04_sony_official_findings.md",
+          "label": "官方快门示意"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vsl.nl/en/mettlm/results/",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "MetTLM 项目结果"
+        },
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "MetTLM waveform set 1 / 项目资料"
+        }
+      ]
+    },
+    {
+      "url": "https://www2.securecms.com/ICIP2017/Papers/ViewPapers.asp?PaperNum=2448",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "会议记录"
+        }
+      ]
+    },
+    {
+      "url": "https://zenodo.org/records/7844492",
+      "citations": [
+        {
+          "report": "01_literature_and_datasets.md",
+          "label": "公开报告"
+        }
+      ]
+    }
+  ]
+}

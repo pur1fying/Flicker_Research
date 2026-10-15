@@ -1,0 +1,4279 @@
+[
+  {
+    "id": "Q001",
+    "date": "2026-09-16",
+    "topic": "成因",
+    "channel": "学术发现",
+    "query": "illumination flicker photometric stabilization rolling shutter survey dataset",
+    "candidates": [
+      {
+        "title": "A review of IEEE P2020 flicker metrics - University of Galway",
+        "url": "https://research.universityofgalway.ie/en/publications/a-review-of-ieee-p2020-flicker-metrics/"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/ei/articles/34/16/AVM-108"
+      },
+      {
+        "title": "(PDF) Illumination flicker frequency classification in rolling shutter camera systems",
+        "url": "https://www.researchgate.net/publication/221094530_Illumination_flicker_frequency_classification_in_rolling_shutter_camera_systems"
+      },
+      {
+        "title": "[Abstract] Illumination Flicker Frequency Classification in Rolling Shutter Camera Systems",
+        "url": "https://www.actapress.com/Abstract.aspx?paperId=31083"
+      },
+      {
+        "title": "(Open Access) Illumination flicker frequency classification in rolling shutter camera systems (2007) | Touraj Tajbakhsh | 4 Citations",
+        "url": "https://scispace.com/papers/illumination-flicker-frequency-classification-in-rolling-5a0xg8j1jh"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://papers.nips.cc/paper_files/paper/2025/hash/4e60c211b3aec6cf8e4866893931efa6-Abstract-Datasets_and_Benchmarks_Track.html"
+      },
+      {
+        "title": "(PDF) A review of IEEE P2020 flicker metrics",
+        "url": "https://www.researchgate.net/publication/359828026_A_review_of_IEEE_P2020_flicker_metrics"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://arxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "GitHub - AyushJam/iset-lfm: LED Flicker Modeling with ISET · GitHub",
+        "url": "https://github.com/AyushJam/iset-lfm"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf"
+      },
+      {
+        "title": "A survey of day-night illumination domain translation for outdoor vision: Methods, datasets, and evaluation protocols | Machine Vision and Applications | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1007/s00138-026-01843-8"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/ei/articles/38/16/AVM-105"
+      },
+      {
+        "title": "Rolling Shutter Rectification Dataset",
+        "url": "https://www.cvl.isy.liu.se/en/research/datasets/rs-dataset/"
+      },
+      {
+        "title": "Challenges in Monocular Visual Odometry: Photometric Calibration, Motion Bias and Rolling Shutter Effect",
+        "url": "https://arxiv.org/abs/1705.04300"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://openreview.net/pdf?id=ZSUpwHviwS"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://thrlvemurket.com/?_=%2Fpdf%2F2510.09996%232LHwtQTrZ4XkLaecG94sHNc%3D"
+      },
+      {
+        "title": "<visual_element id=\"e1\">",
+        "url": "https://openreview.net/pdf/83b76a511a001ced7478b6dd7b93f299855de956.pdf"
+      },
+      {
+        "title": "22-PID5305653-copyright",
+        "url": "https://www.cs.toronto.edu/~kyros/pubs/18.iccp.rolling-ac.pdf"
+      },
+      {
+        "title": "Rolling-Shutter Modelling for Direct Visual-Inertial Odometry",
+        "url": "https://arxiv.org/abs/1911.01015"
+      },
+      {
+        "title": "<visual_element id=\"e1\">",
+        "url": "https://webee.technion.ac.il/people/yoav/publications/Mark%20-%20Rolling%20Shutter%20Imaging%20on%20The%20Electric%20Grid%202018.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q002",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:support.d-imaging.sony.co.jp flicker understanding shutter",
+    "candidates": [
+      {
+        "title": "Understanding flicker | ILCE-9M2 Reducing issues from high-frequency flicker | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/en/"
+      },
+      {
+        "title": "Shooting with functions to reduce issues from high-frequency flicker | ILCE-9M2 Reducing issues from high-frequency flicker | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/en/shooting.html"
+      },
+      {
+        "title": "フリッカーとは | ILCE-9M2 高周波フリッカーレス機能 | デジタル一眼カメラ α（アルファ） | サポート・お問い合わせ | ソニー",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/ja/"
+      },
+      {
+        "title": "Single Live View | How to use | Remote Camera Tool | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/app/remotecameratool/en/instruction/2_operation.php"
+      },
+      {
+        "title": "Compreender a cintilação | ILCE-9M2 Reduzir os problemas relacionados com a cintilação de alta frequência | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/pt-br/"
+      },
+      {
+        "title": "Was ist Flimmern? | ILCE-9M2 Reduzieren von durch Hochfrequenzflimmern verursachten Problemen | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/de/"
+      },
+      {
+        "title": "Qué es el parpadeo | ILCE-9M2 Reducción de problemas de parpadeo de alta frecuencia | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/es/"
+      },
+      {
+        "title": "고주파수 깜박임의 문제를 줄이는 기능을 사용하여 촬영하기 | ILCE-9M2 고주파수 깜박임의 문제 줄이기 | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/ko/shooting.html"
+      },
+      {
+        "title": "Overview | Customization guide - ILCE-1M2",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/custom/08/en/"
+      },
+      {
+        "title": "깜박임 알아보기 | ILCE-9M2 고주파수 깜박임의 문제 줄이기 | Sony",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/ko/"
+      },
+      {
+        "title": "Overview | Customization guide - ILCE-1",
+        "url": "https://support.d-imaging.sony.co.jp/support/ilc/custom/04/en/index.html"
+      }
+    ]
+  },
+  {
+    "id": "Q003",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "学术发现",
+    "query": "temporal light modulation bulb response function LED fluorescent ballast waveform dataset",
+    "candidates": [
+      {
+        "title": "MetTLM TLM waveform set 1 - Welcome to DTU Research Database",
+        "url": "https://orbit.dtu.dk/en/datasets/mettlm-tlm-waveform-set-1/"
+      },
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps - S Safranek, J Kelly, A Orman, M Royer, A Wilkerson, L Irvin, 2026",
+        "url": "https://journals.sagepub.com/doi/10.1177/14771535261430362"
+      },
+      {
+        "title": "The instantaneous light-intensity function of a fluorescent lamp - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0375960106004051"
+      },
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps - S Safranek, J Kelly, A Orman, M Royer, A Wilkerson, L Irvin, 2026",
+        "url": "https://journals.sagepub.com/doi/full/10.1177/14771535261430362"
+      },
+      {
+        "title": "MetTLM 20NRM01 - D1 Waveforms for the validation of calculated temporal light modulation metrics | Zenodo",
+        "url": "https://zenodo.org/records/7844492"
+      },
+      {
+        "title": "Results - VSL",
+        "url": "https://www.vsl.nl/en/mettlm/results/"
+      },
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps - S Safranek, J Kelly, A Orman, M Royer, A Wilkerson, L Irvin, 2026",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/14771535261430362"
+      },
+      {
+        "title": "Optical Lock-in Spectrometry Reveals Useful Spectral Features of Temporal Light Modulation in Several Light Source Technologies: LEUKOS: Vol 19 , No 2 - Get Access",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/15502724.2022.2077754"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/eere/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/sites/default/files/2023-05/ssl-miller-etal-2022-LRT-flicker-review-tlm-stimulus-response.pdf"
+      },
+      {
+        "title": "Temporal Light Modulation Guide | PDF | Computers",
+        "url": "https://www.scribd.com/document/608954675/CIE-TN-012-2021"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/sites/default/files/2022-08/ssl-miller-etal-2022-LRT-flicker-review-tlm-stimulus-response.pdf"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/cmei/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures"
+      },
+      {
+        "title": "2017 IEEE Conference on Computer Vision and Pattern Recognition",
+        "url": "https://www.cs.utoronto.ca/~kyros/pubs/17.cvpr.acam.pdf"
+      },
+      {
+        "title": "Flicker and Temporal",
+        "url": "https://lightcollaboration.net/wp-content/uploads/2023/12/Flicker-and-TLM_Lighting-Days_J.Linden-231208.pdf"
+      },
+      {
+        "title": "EMPIR 15SIB07 PhotoLED - Database of LED product spectra",
+        "url": "https://data.dtu.dk/articles/dataset/EMPIR_15SIB07_PhotoLED_-_Database_of_LED_product_spectra/12783389"
+      },
+      {
+        "title": "Measurement of Temporal Light Modulation Interlaboratory Comparison 2023 (IC 2023) Final Report - 4E Energy Efficient End-use Equipment",
+        "url": "https://www.iea-4e.org/ssl/publications/measurement-of-temporal-light-modulation-interlaboratory-comparison-2023-ic-2023-final-report/"
+      },
+      {
+        "title": "Experimental study of light intensity variation of LED lamp with flicker and statistical characteristics - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0030402619309003"
+      },
+      {
+        "title": "Temporal light artefacts",
+        "url": "https://en.wikipedia.org/wiki/Temporal_light_artefacts"
+      },
+      {
+        "title": "Temporal light effects",
+        "url": "https://en.wikipedia.org/wiki/Temporal_light_effects"
+      },
+      {
+        "title": "Stroboscopic effect",
+        "url": "https://en.wikipedia.org/wiki/Stroboscopic_effect"
+      },
+      {
+        "title": "Temporal light interference",
+        "url": "https://en.wikipedia.org/wiki/Temporal_light_interference"
+      },
+      {
+        "title": "Here's why your current LED panel may be far worse than the notourous bad fluorescent light",
+        "url": "https://www.reddit.com/r/PWM_Sensitive/comments/13s22br"
+      }
+    ]
+  },
+  {
+    "id": "Q004",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "学术发现",
+    "query": "spectral temporal light modulation chromatic flicker hyperspectral camera",
+    "candidates": [
+      {
+        "title": "This is an electronic reprint of the original article.",
+        "url": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/06bdffed-924e-4cda-beb2-4655d43bfcf7/content"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - IOPscience",
+        "url": "https://doi.org/10.1088/1361-6501/ae16c7"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - Aalto University's research portal",
+        "url": "https://research.aalto.fi/en/publications/measurement-of-temporal-light-modulation-using-a-hyperspectral-ca/"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - VTT's Research Information Portal",
+        "url": "https://cris.vtt.fi/en/publications/measurement-of-temporal-light-modulation-using-a-hyperspectral-ca/"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera",
+        "url": "https://aaltodoc.aalto.fi/items/e1b2f67f-8ca1-46af-aa7d-056eee343d73"
+      },
+      {
+        "title": "(PDF) Measurement of temporal light modulation using a hyperspectral camera",
+        "url": "https://www.researchgate.net/publication/396843981_Measurement_of_temporal_light_modulation_using_a_hyperspectral_camera"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/public/202602215088670105"
+      },
+      {
+        "title": "Fast hyperspectral single-pixel imaging via frequency-division multiplexed illumination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36236798/"
+      },
+      {
+        "title": "Conversion of RGB Camera into Hyperspectral Imager Using a Liquid Crystal Spectral Modulator and Artificial Intelligence | ACS Photonics | ACS Publications",
+        "url": "https://doi.org/10.1021/acsphotonics.6c00774"
+      },
+      {
+        "title": "A Spatiotemporal Tunable Filter Array Chip for Video-Rate Hyperspectral Imaging | Nano Letters | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.4c05603"
+      },
+      {
+        "title": "Spectrum from Defocus: Fast Spectral Imaging with Chromatic Focal Stack",
+        "url": "https://arxiv.org/abs/2503.20184"
+      },
+      {
+        "title": "A broadband hyperspectral image sensor with high spatio-temporal resolution | Nature",
+        "url": "https://www.nature.com/articles/s41586-024-08109-1"
+      },
+      {
+        "title": "Conversion of RGB Camera into Hyperspectral Imager Using a Liquid Crystal Spectral Modulator and Artificial Intelligence | ACS Photonics | ACS Publications",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsphotonics.6c00774"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera",
+        "url": "https://eurekamag.com/research/104/999/104999648.php"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/sites/default/files/2023-05/ssl-miller-etal-2022-LRT-flicker-review-tlm-stimulus-response.pdf"
+      },
+      {
+        "title": "Measurements of temporally",
+        "url": "https://aaltodoc.aalto.fi/bitstreams/169dbc09-fe6c-481f-9d9f-0a6d7bbe56c5/download"
+      },
+      {
+        "title": "Flicker (light)",
+        "url": "https://en.wikipedia.org/wiki/Flicker_%28light%29"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/eere/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures"
+      },
+      {
+        "title": "ChromaFlash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras",
+        "url": "https://dhruv-verma.com/docs/ChromaFlash_ACM_IMWUT_2024.pdf"
+      },
+      {
+        "title": "Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels",
+        "url": "https://arxiv.org/abs/2602.22140"
+      },
+      {
+        "title": "Programmable Spectral Filter Arrays using Phase Spatial Light Modulator",
+        "url": "https://arxiv.org/abs/2109.14450"
+      },
+      {
+        "title": "Temporal light interference",
+        "url": "https://en.wikipedia.org/wiki/Temporal_light_interference"
+      },
+      {
+        "title": "A broadband hyperspectral image sensor with high spatio-temporal resolution",
+        "url": "https://arxiv.org/abs/2306.11583"
+      },
+      {
+        "title": "Temporal light effects",
+        "url": "https://en.wikipedia.org/wiki/Temporal_light_effects"
+      },
+      {
+        "title": "Temporal light artefacts",
+        "url": "https://en.wikipedia.org/wiki/Temporal_light_artefacts"
+      },
+      {
+        "title": "Stroboscopic effect",
+        "url": "https://en.wikipedia.org/wiki/Stroboscopic_effect"
+      },
+      {
+        "title": "Spectral imaging",
+        "url": "https://en.wikipedia.org/wiki/Spectral_imaging"
+      }
+    ]
+  },
+  {
+    "id": "Q005",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "学术发现",
+    "query": "flicker light transport specular reflection multiple illumination ACam",
+    "candidates": [
+      {
+        "title": "<visual_element id=\"e1\">",
+        "url": "https://www.dgp.toronto.edu/ACam/17.cvpr.acam.pdf"
+      },
+      {
+        "title": "Computational Imaging on the Electric Grid",
+        "url": "https://webee.technion.ac.il/Sites/People/yoav/publications/supplement_ACam_docCVPR.pdf"
+      },
+      {
+        "title": "U.S. Patent for Computational imaging of the electric grid Patent (Patent # 11,212,459 issued December 28, 2021) - Justia Patents Search",
+        "url": "https://patents.justia.com/patent/11212459"
+      },
+      {
+        "title": "plays [49], flashes [28] and arrays of point sources [8, 45], etc.) in order to impose predictable structure on an otherwise-unstructured visual world. Two lines of research in this area are particularly close to ours. First, methods for computational light transport [7] express the linear relation between controllable light sources and images as a transport matrix that can be acquired [33] or probed [26]. We adopt and extend the transport matrix formulation to AC light sources, and demonstrate scene re-lighting without any access to a programmable source. Second, recent work has treated the imaging process as a radio-like communication channel between active sources and cameras [15, 19]. These techniques transmit periodic signals between lights and cameras at high speed but, like all active methods, they reject ambient AC light rather than use it.",
+        "url": "https://webee.technion.ac.il/Sites/People/yoav/publications/ACam_CVPR.pdf"
+      },
+      {
+        "title": "2017 IEEE Conference on Computer Vision and Pattern Recognition",
+        "url": "https://www.cs.utoronto.ca/~kyros/pubs/17.cvpr.acam.pdf"
+      },
+      {
+        "title": "Computational Imaging on the Electric Grid",
+        "url": "https://webee.technion.ac.il/~yoav/publications/ACam_CVPR.pdf"
+      },
+      {
+        "title": "Optics & Photonics News - Flickering Lights Yield a Trove of Information",
+        "url": "https://www.optica-opn.org/home/newsroom/2017/july/flickering_lights_yield_a_trove_of_information/"
+      },
+      {
+        "title": "Temporal Coherence for Metropolis Light Transport",
+        "url": "https://graphics.cs.kuleuven.be/publications/WFBD2017TCFMLT/"
+      },
+      {
+        "title": "Manuscript.dvi",
+        "url": "https://www.doc.ic.ac.uk/research/technicalreports/2010/DTR10-4.pdf"
+      },
+      {
+        "title": "11.Illum",
+        "url": "https://userpages.cs.umbc.edu/rheingan/435/pages/res/gen-11.Illum-single-page-0.html"
+      },
+      {
+        "title": "Specular lighting - UWP applications | Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/windows/uwp/graphics-concepts/specular-lighting"
+      },
+      {
+        "title": "Specular Reflection - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/computer-science/specular-reflection"
+      },
+      {
+        "title": "Display Quality Assurance - The Report of AAPM Task Group 270",
+        "url": "https://www.readkong.com/page/display-quality-assurance-the-report-of-aapm-4093284"
+      },
+      {
+        "title": "WO2018211511A1 - Computational imaging of the electric grid - Google Patents",
+        "url": "https://patents.google.com/patent/WO2018211511A1/zh"
+      },
+      {
+        "title": "An Improved Illumination Model For Shaded Display: Turner Whitted Bell Laboratories Holmdel, New Jersey | PDF | Shader | Rendering (Computer Graphics)",
+        "url": "https://www.scribd.com/document/64212120/10-1-1-114"
+      },
+      {
+        "title": "Flicker Research | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/flicker-research"
+      },
+      {
+        "title": "A frequency analysis of light transport | ACM Transactions on Graphics",
+        "url": "https://doi.org/10.1145/1073204.1073320"
+      },
+      {
+        "title": "Assessment of display performance for medical imaging systems: Executive summary of AAPM TG18 report - Samei - 2005 - Medical Physics - Wiley Online Library",
+        "url": "https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.1861159"
+      },
+      {
+        "title": "Polarimetric Light Transport Analysis for Specular Inter-reflection",
+        "url": "https://arxiv.org/abs/2312.04140"
+      },
+      {
+        "title": "Flicker (light)",
+        "url": "https://en.wikipedia.org/wiki/Flicker_%28light%29"
+      },
+      {
+        "title": "Joint Material and Illumination Estimation from Photo Sets in the Wild",
+        "url": "https://arxiv.org/abs/1710.08313"
+      },
+      {
+        "title": "PureLight: Learning Complex Luminaires with Light Tracing",
+        "url": "https://arxiv.org/abs/2606.04319"
+      },
+      {
+        "title": "Light transport theory",
+        "url": "https://en.wikipedia.org/wiki/Light_transport_theory"
+      },
+      {
+        "title": "Computer graphics lighting",
+        "url": "https://en.wikipedia.org/wiki/Computer_graphics_lighting"
+      },
+      {
+        "title": "Inverse Path Tracing for Joint Material and Lighting Estimation",
+        "url": "https://arxiv.org/abs/1903.07145"
+      }
+    ]
+  },
+  {
+    "id": "Q006",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "学术发现",
+    "query": "image burst video flicker removal deflickering 2025 2026 dataset",
+    "candidates": [
+      {
+        "title": "GitHub - qulishen/BurstDeflicker · GitHub",
+        "url": "https://github.com/qulishen/BurstDeflicker"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/4e60c211b3aec6cf8e4866893931efa6-Abstract-Datasets_and_Benchmarks_Track.html"
+      },
+      {
+        "title": "dblp: BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes.",
+        "url": "https://dblp1.uni-trier.de/rec/conf/nips/QuLZLLZZY25.html"
+      },
+      {
+        "title": "Paper page - BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://huggingface.co/papers/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes - proceedings.com",
+        "url": "https://www.proceedings.com/085713-1821.html"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://arxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://qulishen.top/project/BurstDeflicker.html"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/overview/2510.09996"
+      },
+      {
+        "title": "GitHub - qulishen/Flickerformer: The official code for the paper \"It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal\". · GitHub",
+        "url": "https://github.com/qulishen/Flickerformer"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "GitHub - ZhiyiZZhou/VDFP · GitHub",
+        "url": "https://github.com/ZhiyiZZhou/VDFP"
+      },
+      {
+        "title": "BurstDeflicker:動的シーンにおけるフリッカ除去のためのベンチマークデータセット〖JST機械翻訳〗 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+        "url": "https://jglobal.jst.go.jp/public/202502201065383340"
+      },
+      {
+        "title": "BurstDeflicker：动态场景去闪烁基准数据集 | alphaXiv",
+        "url": "https://www.alphaxiv.org/zh/overview/2510.09996v1"
+      },
+      {
+        "title": "VDFP: Video Deflickering with Flicker-banding Priors",
+        "url": "https://arxiv.org/abs/2605.21079"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://arxiv.org/abs/2606.29845"
+      },
+      {
+        "title": "Blind Video Deflickering by Neural Filtering with a Flawed Atlas",
+        "url": "https://chenyanglei.github.io/deflicker/CVPR2023_deflicker_lowres.pdf"
+      },
+      {
+        "title": "Blind Video Deflickering by Neural Filtering With a Flawed Atlas",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_Blind_Video_Deflickering_by_Neural_Filtering_With_a_Flawed_Atlas_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene",
+        "url": "https://arxiv.org/abs/2512.11327"
+      },
+      {
+        "title": "flicker that can not be removed",
+        "url": "https://www.reddit.com/r/VideoEditing/comments/1l2829a"
+      },
+      {
+        "title": "Deflickering",
+        "url": "https://en.wikipedia.org/wiki/Deflickering"
+      },
+      {
+        "title": "Flickering issue on Timelapses",
+        "url": "https://www.reddit.com/r/premiere/comments/1k288n4"
+      }
+    ]
+  },
+  {
+    "id": "Q007",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "学术发现",
+    "query": "flicker dataset paired ground truth Bricker ISET-LFM BurstDeflicker",
+    "candidates": [
+      {
+        "title": "GitHub - AyushJam/iset-lfm: LED Flicker Modeling with ISET · GitHub",
+        "url": "https://github.com/AyushJam/iset-lfm"
+      },
+      {
+        "title": "GitHub - qulishen/BurstDeflicker · GitHub",
+        "url": "https://github.com/qulishen/BurstDeflicker"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/ei/articles/38/16"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf"
+      },
+      {
+        "title": "GitHub - qulishen/Flickerformer: The official code for the paper \"It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal\". · GitHub",
+        "url": "https://github.com/qulishen/Flickerformer"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://arxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/ei/articles"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://papers.nips.cc/paper_files/paper/2025/hash/4e60c211b3aec6cf8e4866893931efa6-Abstract-Datasets_and_Benchmarks_Track.html"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://openreview.net/pdf?id=ZSUpwHviwS"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/overview/2510.09996"
+      },
+      {
+        "title": "dblp: BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes.",
+        "url": "https://dblp1.uni-trier.de/rec/conf/nips/QuLZLLZZY25.html"
+      },
+      {
+        "title": "ISET-LFM: A Physics-based Simulation Framework and Dataset for LED Flicker in Automotive Imaging",
+        "url": "https://eurekamag.com/research/105/987/105987582.php"
+      },
+      {
+        "title": "(PDF) BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://www.researchgate.net/publication/396458298_BurstDeflicker_A_Benchmark_Dataset_for_Flicker_Removal_in_Dynamic_Scenes"
+      },
+      {
+        "title": "GitHub - ZZH-qwq/BRACE · GitHub",
+        "url": "https://github.com/ZZH-qwq/BRACE"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://arxiv.org/abs/2606.29845"
+      },
+      {
+        "title": "Flicker (light)",
+        "url": "https://en.wikipedia.org/wiki/Flicker_%28light%29"
+      }
+    ]
+  },
+  {
+    "id": "Q008",
+    "date": "2026-09-16",
+    "topic": "模拟",
+    "channel": "学术发现",
+    "query": "Kubric Blender spectral rendering rolling shutter exposure integration ISET calibration",
+    "candidates": [
+      {
+        "title": "kubric/kubric/renderer/blender.py at main · google-research/kubric · GitHub",
+        "url": "https://github.com/google-research/kubric/blob/main/kubric/renderer/blender.py"
+      },
+      {
+        "title": "GitHub - google-research/kubric: A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. · GitHub",
+        "url": "https://github.com/google-research/kubric"
+      },
+      {
+        "title": "GitHub - ethz-vlg/kubric: Kubric with multi-view point tracking data (check branches). · GitHub",
+        "url": "https://github.com/ethz-vlg/kubric"
+      },
+      {
+        "title": "kubric/examples/helloworld.py at main · google-research/kubric · GitHub",
+        "url": "https://github.com/google-research/kubric/blob/main/examples/helloworld.py"
+      },
+      {
+        "title": "kubric/docs/source/1_helloworld.rst at main · google-research/kubric · GitHub",
+        "url": "https://github.com/google-research/kubric/blob/main/docs/source/1_helloworld.rst"
+      },
+      {
+        "title": "Units & Colors - Blender Developer Documentation",
+        "url": "https://developer.blender.org/docs/features/cycles/units/"
+      },
+      {
+        "title": "Helloworld — Kubric None documentation",
+        "url": "https://kubric.readthedocs.io/en/latest/source/1_helloworld.html"
+      },
+      {
+        "title": "kubric/docs/source/2_simulator.rst at main · google-research/kubric · GitHub",
+        "url": "https://github.com/google-research/kubric/blob/main/docs/source/2_simulator.rst"
+      },
+      {
+        "title": "Kubric: A scalable dataset generator",
+        "url": "https://arxiv.org/abs/2203.03570"
+      },
+      {
+        "title": "Simulator — Kubric None documentation",
+        "url": "https://kubric.readthedocs.io/en/latest/source/2_simulator.html"
+      },
+      {
+        "title": "Home - ISET/iset3d GitHub Wiki",
+        "url": "https://github-wiki-see.page/m/ISET/iset3d/wiki"
+      },
+      {
+        "title": "Kubric — Kubric None documentation",
+        "url": "https://kubric.readthedocs.io/en/latest/"
+      },
+      {
+        "title": "Motion Blur - Blender 5.1 Manual",
+        "url": "https://docs.blender.org/UATEST/manual/en/dev/render/cycles/render_settings/motion_blur.html"
+      },
+      {
+        "title": "Blender (software)",
+        "url": "https://en.wikipedia.org/wiki/Blender_%28software%29"
+      },
+      {
+        "title": "UNIVERSITY OF CALIFORNIA",
+        "url": "https://escholarship.org/content/qt2jd3t40t/qt2jd3t40t_noSplash_7ab73185dca4555c17e5be7c442cb4b5.pdf"
+      },
+      {
+        "title": "Composing/Please help me make my setUp more complicated",
+        "url": "https://www.reddit.com/r/blenderhelp/comments/1kg97qo"
+      },
+      {
+        "title": "MINIMAL PERCEPTION",
+        "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/8d0e36ee-c76e-4cc0-b329-9aef6b5c0758/content"
+      },
+      {
+        "title": "1. Do spectral ray tracing using the Blender Cycles rendering engine where material surfaces and illuminants are defined by their spectral representations.",
+        "url": "https://trepo.tuni.fi/bitstream/10024/142881/2/YilmazOsman.pdf"
+      },
+      {
+        "title": "WIP Spectral Rendering in my hobby C/Vulkan Pathtracer!",
+        "url": "https://www.reddit.com/r/GraphicsProgramming/comments/1sa4fjx/wip_spectral_rendering_in_my_hobby_cvulkan/"
+      },
+      {
+        "title": "WIP Spectral Rendering in my hobby C/Vulkan Pathtracer!",
+        "url": "https://www.reddit.com/r/vulkan/comments/1sa48mo/wip_spectral_rendering_in_my_hobby_cvulkan/"
+      },
+      {
+        "title": "This electronic thesis or dissertation has been",
+        "url": "https://research-information.bris.ac.uk/ws/files/173020217/Final_Copy_2018_09_25_Gibb_A_PhD.pdf"
+      },
+      {
+        "title": "Spectral rendering",
+        "url": "https://en.wikipedia.org/wiki/Spectral_rendering"
+      },
+      {
+        "title": "Self-calibration-based Approach to Critical Motion Sequences of Rolling-shutter Structure from Motion",
+        "url": "https://arxiv.org/abs/1611.05476"
+      },
+      {
+        "title": "Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion",
+        "url": "https://arxiv.org/abs/2403.13327"
+      },
+      {
+        "title": "Osman Yilmaz",
+        "url": "https://trepo.tuni.fi/bitstream/handle/10024/142881/YilmazOsman.pdf?isAllowed=y&sequence=2"
+      },
+      {
+        "title": "Geometric Models of Rolling-Shutter Cameras",
+        "url": "https://arxiv.org/abs/cs/0503076"
+      }
+    ]
+  },
+  {
+    "id": "Q009",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:cam.start.canon flicker high frequency anti flicker shutter",
+    "candidates": [
+      {
+        "title": "Canon : Product Manual : EOS R6 Mark III : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/en/C022/manual/html/UG-04_Shooting_0220.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R5 Mark II : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/fa/C017/manual/html/UG-03_Shooting-1_0080.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R1 : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/hy/C018/manual/html/UG-03_Shooting-1_0080.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R5 Mark II : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/id/C017/manual/html/UG-03_Shooting-1_0080.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R1 : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/ky/C018/manual/html/UG-03_Shooting-1_0080.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R3 : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/he/C010/manual/html/UG-03_Shooting-1_0110.html"
+      },
+      {
+        "title": "High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/en/C022/manual/c022.pdf"
+      },
+      {
+        "title": "Canon : Product Manual : EOS Utility : Settings Configured in the Capture Window",
+        "url": "https://cam.start.canon/tr/S003/manual/html/UG-02_CameraSetting_0030.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R5 : Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/en/C003/manual/html/UG-03_Shooting-1_0250.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R8 : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/vi/C013/manual/html/UG-04_Shooting-1_0160.html"
+      },
+      {
+        "title": "High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/en/C018/manual/c018.pdf"
+      },
+      {
+        "title": "High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/en/C012/manual/c012.pdf"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R6 Mark II : High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/vi/C012/manual/html/UG-04_Shooting-1_0160.html"
+      },
+      {
+        "title": "High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/id/C022/manual/c022.pdf"
+      },
+      {
+        "title": "High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/id/C018/manual/c018.pdf"
+      },
+      {
+        "title": "High-Frequency Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/he/C010/manual/c010.pdf"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R50 : Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/en/C011/manual/html/UG-05_Shooting-1_0140.html"
+      },
+      {
+        "title": "Canon : Product Manual : EOS R5 Mark II : Anti-Flicker Shooting",
+        "url": "https://cam.start.canon/hy/C017/manual/html/UG-03_Shooting-1_0070.html"
+      }
+    ]
+  },
+  {
+    "id": "Q010",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:onlinemanual.nikonimglib.com high frequency flicker reduction",
+    "candidates": [
+      {
+        "title": "High-frequency flicker reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z5II/en/psm_high_frequency_flicker_reduction_144.html"
+      },
+      {
+        "title": "New Menu Item: “High-Frequency Flicker Reduction”",
+        "url": "https://onlinemanual.nikonimglib.com/z9/en/18_added_functions_300_05.html"
+      },
+      {
+        "title": "f2: Custom Controls (Shooting)",
+        "url": "https://onlinemanual.nikonimglib.com/z9/en/15_menu_guide_04_f02.html"
+      },
+      {
+        "title": "Frequency Setting Mode Added to High-Frequency Flicker Reduction Function",
+        "url": "https://onlinemanual.nikonimglib.com/z9/en/updating_high_frequency_flicker_reduction_375.html"
+      },
+      {
+        "title": "High-Frequency Flicker Reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z6III/en/psm_high_frequency_flicker_reduction_149.html"
+      },
+      {
+        "title": "High-frequency flicker reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z50II/en/09-03-41.html"
+      },
+      {
+        "title": "High-Frequency Flicker Reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z8/en/psm_high_frequency_flicker_reduction_140.html"
+      },
+      {
+        "title": "High-frequency flicker reduction",
+        "url": "https://onlinemanual.nikonimglib.com/zr/en/09-04-34.html"
+      },
+      {
+        "title": "High-Frequency Flicker Reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z9/en/psm_high_frequency_flicker_reduction_guid-bad72538-6eba-0dbb-f4db-19eaeabf9eb5_92.html"
+      },
+      {
+        "title": "High-frequency flicker reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z5II/en/vrm_high_frequency_flicker_reduction_185.html"
+      },
+      {
+        "title": "Menu Items and Defaults",
+        "url": "https://onlinemanual.nikonimglib.com/z6III/en/vrm_menu_items_and_initial_setting_170.html"
+      },
+      {
+        "title": "High-frequency flicker reduction",
+        "url": "https://onlinemanual.nikonimglib.com/z50II/en/09-04-34.html"
+      },
+      {
+        "title": "[N-Log] Tone Mode: Restrictions",
+        "url": "https://onlinemanual.nikonimglib.com/technicalguide/log_raw/video_recording_editing/en/pdf/TG_Log-RAW_%28En%2902.pdf"
+      },
+      {
+        "title": "NikonZ 6 Ⅲ  Professional",
+        "url": "https://onlinemanual.nikonimglib.com/technicalguide/z6III/pixelshift/en/pdf/Z6III_TG_Pixelshift_%28En%2901.pdf"
+      },
+      {
+        "title": "When You Shoot Subjects that Cause Moiré",
+        "url": "https://onlinemanual.nikonimglib.com/technicalguide/z8/pixelshift/en/pdf/Z8_TG_Pixelshift_%28En%2902.pdf"
+      },
+      {
+        "title": "Professional",
+        "url": "https://onlinemanual.nikonimglib.com/technicalguide/zf/pixelshift/en/pdf/Zf_TG_Pixelshift_%28En%2901.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q011",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:eww.pavc.panasonic.co.jp synchro scan flicker shutter",
+    "candidates": [
+      {
+        "title": "[Synchro Scan]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-BGH1/GT_GD/DC-BGH1_DVQP2287_eng/chapter07_07.htm"
+      },
+      {
+        "title": "Synchro Scan Functions Added",
+        "url": "https://eww.pavc.panasonic.co.jp/hdw/oi/HC-X2100/html/HC-X2100_X1600_X1200_DVQP3330_eng/0141.html"
+      },
+      {
+        "title": "[Shutter Type]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-L10/html/DC-L10_DVQP3497_eng/0058.html"
+      },
+      {
+        "title": "[Shutter Type]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-S1RM2/html/DC-S1RM2_DVQP3245_eng/0059.html"
+      },
+      {
+        "title": "[Synchro Scan(Video)]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-S9/html/DC-S9_DVQP3138_eng/0092.html"
+      },
+      {
+        "title": "DC-GH5M2",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH5M2/pdf/DC-GH5M2_DVQP2464_full_eng.pdf"
+      },
+      {
+        "title": "[Synchro Scan(Photo)]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-S9/html/DC-S9_DVQP3138_eng/0055.html"
+      },
+      {
+        "title": "[Shutter Type]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH7/html/DC-GH7_DVQP3109_eng/0058.html"
+      },
+      {
+        "title": "DC-GH5M2",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH5M2/pdf/DC-GH5M2_DVQP2461_full_eng.pdf"
+      },
+      {
+        "title": "[Synchro Scan]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH5M2/html/DC-GH5M2_DVQP2477_eng/0086.html"
+      },
+      {
+        "title": "Setting the shutter speed",
+        "url": "https://eww.pavc.panasonic.co.jp/hdw/oi/AG-X2/html/AG-X2-X20_DVQP2773_eng/0055.html"
+      },
+      {
+        "title": "DC-GH6",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH6/pdf/DC-GH6_DVQP2441_full_eng.pdf"
+      },
+      {
+        "title": "[Synchro Scan]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH6/html/DC-GH6_DVQP2441_eng/0093.html"
+      },
+      {
+        "title": "[Synchro Scan(Video)]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-S1RM2/html/DC-S1RM2_DVQP3245_eng/0102.html"
+      },
+      {
+        "title": "[Synchro Scan(Video)]",
+        "url": "https://eww.pavc.panasonic.co.jp/dscoi/DC-GH7/html/DC-GH7_DVQP3109_eng/0100.html"
+      }
+    ]
+  },
+  {
+    "id": "Q012",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:fujifilm-dsc.com flicker reduction shutter speed",
+    "candidates": [
+      {
+        "title": "The Shooting Menus (SHOOTING SETTING)",
+        "url": "https://fujifilm-dsc.com/en/manual/gfx100/menu_shooting/shooting_setting/index.html"
+      },
+      {
+        "title": "The Shooting Menus (SHOOTING SETTING)",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-h1/menu_shooting/shooting_setting/index.html"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://fujifilm-dsc.com/en/manual/x-m5/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-t5/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://fujifilm-dsc.com/en/manual/x-h2/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-t30-iii/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-h2s/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "[SHOOTING SETTING] (Still Photography)",
+        "url": "https://fujifilm-dsc.com/en-int/manual/x-t5/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "The Shooting Menus ([SHOOTING SETTING])",
+        "url": "https://fujifilm-dsc.com/en-int/manual/gfx50s/menu_shooting/shooting_setting/index.html"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-e5/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "[SHOOTING SETTING] (Still Photography)",
+        "url": "https://fujifilm-dsc.com/en-int/manual/x100vi/menu_shooting/shooting_setting/"
+      },
+      {
+        "title": "[SHOOTING SETTING] (Still Photography)",
+        "url": "https://app.fujifilm-dsc.com/en-int/manual/gfx100ii/menu_shooting/shooting_setting/index.html"
+      },
+      {
+        "title": "FLICKER REDUCTION",
+        "url": "https://app.fujifilm-dsc.com/en-int/manual/x-h1/x-h1_omw_en_s_f.pdf"
+      },
+      {
+        "title": "FLICKER REDUCTION",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-h2s/x-h2s_manual_en_s_f.pdf"
+      },
+      {
+        "title": "SHOOTING SETTING (Still Photography)",
+        "url": "https://fujifilm-dsc.com/en-int/manual/x-m5/x-m5_manual_en_s_f.pdf"
+      },
+      {
+        "title": "FLICKER REDUCTION",
+        "url": "https://fujifilm-dsc.com/en/manual/gfx100/gfx100_omw_en_s_f.pdf"
+      },
+      {
+        "title": "SHOOTING SETTING",
+        "url": "https://app.fujifilm-dsc.com/en/manual/x-t30/x-t30_omw_en_s_f.pdf"
+      },
+      {
+        "title": "SHOOTING SETTING",
+        "url": "https://fujifilm-dsc.com/en/manual/x-t30/x-t30_omw_en_s_f.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q013",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:documents.blackmagicdesign.com flicker shutter angle frequency",
+    "candidates": [
+      {
+        "title": " Black",
+        "url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicMicroStudioCamera4KG2Manual.pdf?_v=1701331210000"
+      },
+      {
+        "title": " Blac",
+        "url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicStudioCameraManual4k.pdf?_v=1687158010000"
+      },
+      {
+        "title": "October 2023",
+        "url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicCinemaCameraManual.pdf?_v=1694761213000"
+      },
+      {
+        "title": " Blac",
+        "url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicPocketCinemaCamera4KManual.pdf?_v=1742540411000"
+      },
+      {
+        "title": "August 2024",
+        "url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicURSACineManual.pdf?_v=1725260410000"
+      },
+      {
+        "title": "Installation and Operation Manual",
+        "url": "https://documents.blackmagicdesign.com/UserManuals/BlackmagicURSABroadcastManual.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q014",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:docs.baslerweb.com light source anti flicker rolling shutter",
+    "candidates": [
+      {
+        "title": "Light Control | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/light-control"
+      },
+      {
+        "title": "Light Source Preset | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/light-source-preset"
+      },
+      {
+        "title": "Electronic Shutter Types | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/electronic-shutter-types"
+      },
+      {
+        "title": "Line Source | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/line-source"
+      },
+      {
+        "title": "PLCamera.AutoFunctionProfileEnum Class | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/pylonapi/net/T_Basler_Pylon_PLCamera_AutoFunctionProfileEnum"
+      },
+      {
+        "title": "Use Case 3 - Simple Light | Basler Product Documentation",
+        "url": "https://ja.docs.baslerweb.com/driver-board-uc003-simple-light"
+      },
+      {
+        "title": "Exposure Time | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/exposure-time"
+      },
+      {
+        "title": "a2A3536-9gmPRO | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/a2a3536-9gmpro"
+      },
+      {
+        "title": "Light Control | Basler 製品ドキュメント",
+        "url": "https://ja.docs.baslerweb.com/light-control"
+      },
+      {
+        "title": "a2A3536-31umPRO | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/a2a3536-31umpro"
+      },
+      {
+        "title": "a2A3536-9gmBAS | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/a2a3536-9gmbas"
+      },
+      {
+        "title": "PLCamera Class | Basler Product Documentation",
+        "url": "https://docs.baslerweb.com/pylonapi/net/T_Basler_Pylon_PLCamera"
+      },
+      {
+        "title": "6.1. Camera module",
+        "url": "https://docs.baslerweb.com/stereovisard/rc_cube/pdf/rc_cube_manual_en.pdf"
+      },
+      {
+        "title": "CXP-12 Interface Card 4C",
+        "url": "https://docs.baslerweb.com/pdf/enhanced-applets/cxp12-ic-4c/Enh_SingleCXP12Area_fglib_IC4.pdf"
+      },
+      {
+        "title": "imaFlex CXP-12 Quad",
+        "url": "https://zh.docs.baslerweb.com/frame-grabbers/pdf/if-cxp12-q/Acq_SingleCXP12Area_gentl.pdf"
+      },
+      {
+        "title": "CXP-12 Interface Card 4C",
+        "url": "https://zh.docs.baslerweb.com/pdf/enhanced-applets/cxp12-ic-4c/Enh_SingleCXP12Area_gentl_IC4.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q015",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:photron.com flicker lighting high speed fluorescent",
+    "candidates": [
+      {
+        "title": "Orion | Photron",
+        "url": "https://photron.com/orion/"
+      },
+      {
+        "title": "Photron FASTCAM Viewer",
+        "url": "https://photron.com/wp-content/uploads/2025/12/PFV4_Releasenote_Ver4600en.pdf"
+      },
+      {
+        "title": "PFV4_Releasenotes_Ver4600eng",
+        "url": "https://photron.com/wp-content/uploads/2026/02/PFV4_Releasenote_Ver4600en.pdf"
+      },
+      {
+        "title": "Pharsighted E9 Series | Photron",
+        "url": "https://photron.com/pharsighted/"
+      },
+      {
+        "title": "Laser Illumination | Photron",
+        "url": "https://photron.com/laserillumination/"
+      },
+      {
+        "title": "Pharsighted E9 Series – Photron",
+        "url": "https://photron.com/fr/pharsighted/"
+      },
+      {
+        "title": "Fluid Dynamics – Photron",
+        "url": "https://photron.com/fluid-dynamics-2/"
+      },
+      {
+        "title": "FASTCAM MINI AX | Photron",
+        "url": "https://photron.com/fastcam-mini-ax/"
+      },
+      {
+        "title": "Schlieren | Photron",
+        "url": "https://photron.com/schlieren/"
+      },
+      {
+        "title": "FASTCAM NOVA S20 | Photron",
+        "url": "https://photron.com/de/fastcam-nova-s20/"
+      },
+      {
+        "title": "FASTCAM NOVA S | Photron",
+        "url": "https://photron.com/fastcam-nova-s/"
+      },
+      {
+        "title": "PFV4_Users_Manual_Ver4400eng",
+        "url": "https://photron.com/wp-content/uploads/2025/04/PFV4_Users_Manual_Ver4400eng.pdf"
+      },
+      {
+        "title": "Product Manuals – Photron",
+        "url": "https://photron.com/fr/product-manuals/"
+      },
+      {
+        "title": "FASTCAM Mini R5-4K | Photron",
+        "url": "https://photron.com/fastcam-mini-r5-4k/"
+      },
+      {
+        "title": "Photron — Datasheet",
+        "url": "https://photron.com/wp-content/uploads/2014/05/SA-X2-REV17.03.03_LR.pdf"
+      },
+      {
+        "title": "FASTCAM Nova Series | Photron",
+        "url": "https://photron.com/fastcam-nova-series/"
+      },
+      {
+        "title": "PFV4_Users_Manual_Ver4300a_eng",
+        "url": "https://photron.com/wp-content/uploads/2024/12/PFV4_Users_Manual_Ver4300a_eng.pdf"
+      },
+      {
+        "title": "FASTCAM_Mini_R_Series_HW_Manual_Rev403eng",
+        "url": "https://photron.com/wp-content/uploads/2025/01/FASTCAM_Mini_R_Series_HW_Manual_Rev403eng.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q016",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:sony-semicon.com LED flicker mitigation exposure",
+    "candidates": [
+      {
+        "title": "LED Flicker Mitigation Technology for Automotive Use | Image Sensor for Automotive Use | Technology | Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/technology/automotive/lfm.html"
+      },
+      {
+        "title": "車載用LEDフリッカー抑制技術 | 車載用イメージセンサー | 技術 | ソニーセミコンダクタソリューションズグループ",
+        "url": "https://www.sony-semicon.com/ja/technology/automotive/lfm.html"
+      },
+      {
+        "title": "Sony Semiconductor Solutions to Release CMOS Image Sensor for Automotive Cameras with Industry-Leading 17.42-Effective MegapixelsDelivering sophisticated sensing and recognition performance and contributing to safe, secure automated driving｜News Releases｜Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/news/2023/2023091201.html"
+      },
+      {
+        "title": "Sony Semiconductor Solutions to Release the Industry’s First CMOS Image Sensor for Automotive Cameras That Can Simultaneously Process and Output RAW and YUV Images Contributing to Simplified Systems by Expanding Single-Camera Applications｜News Releases｜Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/news/2024/2024100401.html"
+      },
+      {
+        "title": "车载用LED防闪烁技术 | 车载用图像传感器 | 技术 | Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/cn/technology/automotive/lfm.html"
+      },
+      {
+        "title": "Image Sensor for Automotive Use [Product] | Image Sensor for Automotive Use [Overview] | Image Sensor | Products & Solutions | Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/products/is/automotive/automotive.html"
+      },
+      {
+        "title": "Sony Semiconductor Solutions to Release LOFIC-Equipped CMOS Image Sensor for Mobile Applications with 100 dB Dynamic Range and Low Power Consumption｜Information｜Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/info/2026/2026061701.html"
+      },
+      {
+        "title": "Technology | Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/technology/index.html"
+      },
+      {
+        "title": "IMX490-1",
+        "url": "https://www.sony-semicon.com/files/62/pdf/p-15_IMX490.pdf"
+      },
+      {
+        "title": "Automotive Camera/LiDAR | Automotive | Applications | Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/application/mobility/camera.html"
+      },
+      {
+        "title": "I",
+        "url": "https://www.sony-semicon.com/files/62/pdf/p-15_IMX390.pdf"
+      },
+      {
+        "title": "High Dynamic Range (HDR) Technology for Automotive Use | Image Sensor for Automotive Use | Technology | Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/technology/automotive/hdr.html"
+      },
+      {
+        "title": "車載用イメージセンサー [製品] | 車載用イメージセンサー [概要] | イメージセンサー | 製品・ソリューション | ソニーセミコンダクタソリューションズグループ",
+        "url": "https://www.sony-semicon.com/ja/products/is/automotive/automotive.html"
+      },
+      {
+        "title": "Sony Semiconductor Solutions to Release Industry’s First CMOS Image Sensor for Automotive Applications with Built-in MIPI A-PHY Interface Delivering high HDR performance and low power consumption for next-generation automotive cameras｜News Releases｜Sony Semiconductor Solutions Group",
+        "url": "https://www.sony-semicon.com/en/news/2025/2025102801.html"
+      },
+      {
+        "title": "7.2　レーザーダイオード",
+        "url": "https://www.sony-semicon.com/files/62/Handbook_j_202004.pdf"
+      },
+      {
+        "title": "Diagonal 3.9 mm (T",
+        "url": "https://www.sony-semicon.com/files/62/flyer_industry/IMX637-AAMR-Flyer.pdf"
+      },
+      {
+        "title": "7.2  Laser Diodes",
+        "url": "https://www.sony-semicon.com/files/62/Handbook_e_202004.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q017",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:onsemi.com LED flicker mitigation HDR exposure",
+    "candidates": [
+      {
+        "title": "AR0341 Power Tree | onsemi",
+        "url": "https://www.onsemi.com/design/power-trees/hyperlux-image-sensor-power-trees/ar0341-power-design"
+      },
+      {
+        "title": "AR0341 Power Tree | onsemi",
+        "url": "https://www.onsemi.com/design/power-trees/hyperlux-image-sensor-power-trees/ar0341"
+      },
+      {
+        "title": "Automotive 3 \u0002m HDR Ima",
+        "url": "https://www.onsemi.com/pub/collateral/tnd6372-d.pdf"
+      },
+      {
+        "title": "Video: Hayabusa Super-Exposure HDR Imaging with LED Flicker Mitigation",
+        "url": "https://www.onsemi.com/design/video-library/hayabusa-super-exposure-hdr-imaging-with-led-flicker-mitigation"
+      },
+      {
+        "title": "Enhancing Dash Cams with Image Sensors | onsemi",
+        "url": "https://www.onsemi.com/company/newsroom/blog/industrial/enhancing-dash-cams-with-image-sensors"
+      },
+      {
+        "title": "AND9338 - AP0102AT Developer Guide",
+        "url": "https://www.onsemi.com/download/application-notes/pdf/and9338-d.pdf"
+      },
+      {
+        "title": "Video: Hayabusa Super-Exposure HDR Imaging with LED Flicker Mitigation",
+        "url": "https://www.onsemi.com/PowerSolutions/video.do?method=detail&videoId=hayabusa-super-exposure-hdr-imaging-with-led-flicker-mitigation"
+      },
+      {
+        "title": "Video Library search for - ar0233at",
+        "url": "https://www.onsemi.com/design/video-library/search/ar0233at"
+      },
+      {
+        "title": "ADAS Side and Surround Camera | onsemi",
+        "url": "https://www.onsemi.com/solutions/automotive/adas/side-and-surround-sensing"
+      },
+      {
+        "title": "TND6449 - Super-Exposure Pixels Mitigate LED Flicker in the Most Demanding Automotive Environments",
+        "url": "https://www.onsemi.com/download/white-papers/pdf/tnd6449-d.pdf"
+      },
+      {
+        "title": "Video: Super-Exposure, HDR, & Flicker Mitigation",
+        "url": "https://www.onsemi.com/design/video-library/super-exposure-hdr-flicker-mitigation"
+      },
+      {
+        "title": "ADAS Front Camera | onsemi",
+        "url": "https://www.onsemi.com/solutions/automotive/adas/front-camera"
+      },
+      {
+        "title": "Automotive High Dynamic Range Image Sensors with LED Flicker Mitigation",
+        "url": "https://www.onsemi.com/company/events/webinars/automotive-high-dynamic-range-image-sensors-with-led-flicker-mitigation"
+      },
+      {
+        "title": "AR0823 Power Tree | onsemi",
+        "url": "https://www.onsemi.com/design/power-tree-designs/hyperlux-image-sensor-power-trees/ar0823-power-design"
+      },
+      {
+        "title": "AP0100CS - AP0100CS High-Dynamic Range (HDR) Image Signal Processor (ISP)",
+        "url": "https://www.onsemi.com/download/data-sheet/pdf/ap0100cs-d.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q018",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商发现",
+    "query": "site:ovt.com LED flicker mitigation HDR image sensor",
+    "candidates": [
+      {
+        "title": "OX03J10",
+        "url": "https://www.ovt.com/products/ox03j10/"
+      },
+      {
+        "title": "OX08D10",
+        "url": "https://www.ovt.com/products/ox08d10"
+      },
+      {
+        "title": "OX01J10",
+        "url": "https://www.ovt.com/products/ox01j10"
+      },
+      {
+        "title": "OX03C10",
+        "url": "https://www.ovt.com/products/ox03c10/"
+      },
+      {
+        "title": "OX05D10",
+        "url": "https://www.ovt.com/products/ox05d10/"
+      },
+      {
+        "title": "OX01E20",
+        "url": "https://www.ovt.com/products/ox01e20/"
+      },
+      {
+        "title": "OX03H10",
+        "url": "https://www.ovt.com/products/ox03h10/"
+      },
+      {
+        "title": "Introduction",
+        "url": "https://www.ovt.com/wp-content/uploads/2023/09/A-New-Era-for-Single-Exposure-HDR-TheiaCel.pdf"
+      },
+      {
+        "title": "OMNIVISION Announces First 3MP SoC Image Sensor for LED Flicker-Free, High Dynamic Range Automotive Cameras | OMNIVISION",
+        "url": "https://www.ovt.com/press-releases/omnivision-announces-first-3mp-soc-image-sensor-for-led-flicker-free-high-dynamic-range-automotive-cameras/"
+      },
+      {
+        "title": "OMNIVISION Launches World’s First Image Sensor for Automotive Viewing Cameras with 140 dB HDR and Top LED Flicker Mitigation Performance | OMNIVISION",
+        "url": "https://www.ovt.com/press-releases/omnivision-launches-worlds-first-image-sensor-for-automotive-viewing-cameras-with-140-db-hdr-and-top-led-flicker-mitigation-performance/"
+      },
+      {
+        "title": "140 dB HDR with",
+        "url": "https://www.ovt.com/wp-content/uploads/2026/03/OX03J10-PB-v1.3-WEB.pdf"
+      },
+      {
+        "title": "OX01D10",
+        "url": "https://www.ovt.com/products/ox01d10/"
+      },
+      {
+        "title": "OX03F10",
+        "url": "https://www.ovt.com/products/ox03f10/"
+      },
+      {
+        "title": "OX08B40",
+        "url": "https://www.ovt.com/products/ox08b40/"
+      },
+      {
+        "title": "OX03C10  2.5MP product briefImage Sensor for Automotive Viewing Cameras with",
+        "url": "https://www.ovt.com/wp-content/uploads/2022/01/OX03C10-PB-v1.2-WEB.pdf"
+      },
+      {
+        "title": "OX03C10-PB-v1.3-WEB",
+        "url": "https://www.ovt.com/wp-content/uploads/2024/07/OX03C10-PB-v1.3-WEB.pdf"
+      },
+      {
+        "title": "OX01J10-PB-v1.0-WEB",
+        "url": "https://www.ovt.com/wp-content/uploads/2024/01/OX01J10-PB-v1.0-WEB.pdf"
+      },
+      {
+        "title": "140 dB HDR with",
+        "url": "https://www.ovt.com/wp-content/uploads/2023/01/OX03J10-PB-v1.0-WEB.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q019",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "厂商发现",
+    "query": "site:ti.com LED dimming PWM analog flicker frequency phosphor",
+    "candidates": [
+      {
+        "title": "TPS61177 data sheet, product information and support | TI.com",
+        "url": "https://www.ti.com/product/TPS61177"
+      },
+      {
+        "title": "TPS61177A data sheet, product information and support | TI.com",
+        "url": "https://www.ti.com/product/TPS61177A"
+      },
+      {
+        "title": "TPS92518: What is the maximum PWM frequency that can be input? - Power management forum - Power management - TI E2E support forums",
+        "url": "https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1457220/tps92518-what-is-the-maximum-pwm-frequency-that-can-be-input"
+      },
+      {
+        "title": "SSZTAY6 Technical article | TI.com",
+        "url": "https://www.ti.com/document-viewer/lit/html/SSZTAY6/GUID-1D2BF5CC-5E95-46BC-98FA-25DD8D454A3E"
+      },
+      {
+        "title": "How to use Analog Dimming with TPS6116x .",
+        "url": "https://www.ti.com/lit/an/slva471/slva471.pdf?ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS61165&ts=1778691996002"
+      },
+      {
+        "title": "Analog PWM Dimming in White-LED Drivers",
+        "url": "https://www.ti.com/lit/an/snva768/snva768.pdf?ts=1779904519572"
+      },
+      {
+        "title": "LED brightness adjustment: high-frequency PWM dimming",
+        "url": "https://www.ti.com/lit/ta/ssztay6/ssztay6.pdf?ref_url=https%253A%252F%252Fwww.ti.com%252Fsolution%252Fdriver-occupant-monitoring-ecu-with-remote-camera&ts=1777120774826"
+      },
+      {
+        "title": "TPS61177 のデータシート、製品情報、およびサポート | TI.com",
+        "url": "https://www.ti.com/product/ja-jp/TPS61177"
+      },
+      {
+        "title": "TPS92692-Q1: LED Flickering occurring below 9V in Analog-PWM dimming mode, Buck-Boost - Power management forum - Power management - TI E2E support forums",
+        "url": "https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1166142/tps92692-q1-led-flickering-occurring-below-9v-in-analog-pwm-dimming-mode-buck-boost"
+      },
+      {
+        "title": "Analog PWM Dimming in White-LED Drivers",
+        "url": "https://www.ti.com/lit/an/snva768/snva768.pdf?ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FLM3528&ts=1774158866299"
+      },
+      {
+        "title": "TPS40211 LED driver and camera flicker - Power management forum - Power management - TI E2E support forums",
+        "url": "https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/463769/tps40211-led-driver-and-camera-flicker"
+      },
+      {
+        "title": "TPS92690: PWM frequency dimming range - Power management forum - Power management - TI E2E support forums",
+        "url": "https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/568948/tps92690"
+      },
+      {
+        "title": "SSZT647 Technical article | TI.com",
+        "url": "https://www.ti.com/document-viewer/lit/html/SSZT647/GUID-B42F4989-AA4F-43DC-8333-DA8D9D9EAB78"
+      },
+      {
+        "title": "Backlight Dimming Algorithms | Video | TI.com",
+        "url": "https://www.ti.com/video/5772189869001"
+      },
+      {
+        "title": "Analog Applications Journal, 4Q 2011",
+        "url": "https://www.ti.com/lit/an/slyt437/slyt437.pdf?ts=1778220271891"
+      },
+      {
+        "title": "LP8866S-Q1: LP8866S Questions - Power management forum - Power management - TI E2E support forums",
+        "url": "https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1398408/lp8866s-q1-lp8866s-questions"
+      },
+      {
+        "title": "LP8556: LP8556 PWM Dimming Frequency Range - Power management forum - Power management - TI E2E support forums",
+        "url": "https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/582117/lp8556-lp8556-pwm-dimming-frequency-range"
+      }
+    ]
+  },
+  {
+    "id": "Q020",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "厂商发现",
+    "query": "site:infineon.com LED driver flicker dimming ripple application note",
+    "candidates": [
+      {
+        "title": "BCR601: 36 W dimmable and flicker-free linear LED drivers",
+        "url": "https://www.infineon.com/assets/row/public/documents/24/42/infineon-engineeringreport-lighting-ics-linear-led-driver-ic-with-bcr601-applicationnotes-en.pdf?fileId=5546d4627762291e017762ef7e7d6109"
+      },
+      {
+        "title": "BCR601: 36 W dimmable and flicker-free linear LED drivers",
+        "url": "https://www.infineon.com/dgdl/Infineon-EngineeringReport_Lighting_ICs_Linear_LED-Driver_IC_with_BCR601-ApplicationNotes-v01_00-EN.pdf?fileId=5546d4627762291e017762ef7e7d6109"
+      },
+      {
+        "title": "Reference board REF_ILD8150_DC_1.5A LED driver IC ILD8150 80V",
+        "url": "https://www.infineon.com/dgdl/Infineon-ApplicationNote_reference_design_REF_ILD8150_ILD8150E_DC_1.5A_LightingICs_LED_driver-ApplicationNotes-v02_00-EN.pdf?fileId=5546d462689a790c0168c39bfda86810"
+      },
+      {
+        "title": "Solutions for LED drivers | Infineon Technologies",
+        "url": "https://www.infineon.com/application/led-drivers?ef_id=EAIaIQobChMIhuKQoP-a3gIVnFcNCh3hTA1vEAAYAiAAEgK0NPD_BwE"
+      },
+      {
+        "title": "PWM dimming in a LED DC-DC Driver Module without microcontroller",
+        "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/How-to-implement-a-PWM-dimming-in-a-LED-DC-DC-Driver-Module-without/ta-p/325569"
+      },
+      {
+        "title": "How to deal with ILD8150 dynamic flicker and dimmi... - Infineon Developer Community",
+        "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/How-to-deal-with-ILD8150-dynamic-flicker-and-dimming-steps/ta-p/808090"
+      },
+      {
+        "title": "Solved: XDPL8210 power factor and output ripple current - Infineon Developer Community",
+        "url": "https://community.infineon.com/t5/LED-Driver-ICs/XDPL8210-power-factor-and-output-ripple-current/td-p/926351"
+      },
+      {
+        "title": "Linear LED driver IC | Infineon Technologies",
+        "url": "https://www.infineon.com/products/power/led-driver-ics/linear"
+      },
+      {
+        "title": "How to select O/P capacitor for LED driver in boost to ground topology?",
+        "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/How-to-select-O-P-capacitor-for-LED-driver-in-boost-to-ground-topology/ta-p/625879"
+      },
+      {
+        "title": "DEMO-BCR602-60V-ICTRL - Evaluation Boards | Infineon Technologies",
+        "url": "https://www.infineon.com/evaluation-board/DEMO-BCR602-60V-ICTRL"
+      },
+      {
+        "title": "XMC1200 | Infineon Technologies",
+        "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0/xmc1200"
+      },
+      {
+        "title": "ILD2111 - DC-DC LED driver IC | Infineon Technologies",
+        "url": "https://www.infineon.com/part/ILD2111"
+      },
+      {
+        "title": "Selecting a ripple current when DC current is requ... - Infineon Developer Community",
+        "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/Selecting-a-ripple-current-when-DC-current-is-required-through-the-LED-string/ta-p/247811"
+      },
+      {
+        "title": "Infineon LITIX Basic LED Drivers Application | Infineon",
+        "url": "https://www.infineon.com/cms/en/product/gated-document/litix-basic-led-driver-appnote-5546d46258fc0bc101596e80cbba4069/"
+      }
+    ]
+  },
+  {
+    "id": "Q021",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "厂商发现",
+    "query": "site:analog.com LED dimming PWM flicker camera",
+    "candidates": [
+      {
+        "title": "LT3965/LT3965-1 (Rev. B)",
+        "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3965-3965-1.pdf"
+      },
+      {
+        "title": "LT3965/LT3965-1 (Rev. B)",
+        "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt3965-3965-1.pdf"
+      },
+      {
+        "title": "LT3965 <BR>LT3965-1 Datasheet and Product Info | Analog Devices",
+        "url": "https://www.analog.com/en/products/lt3965.html"
+      },
+      {
+        "title": "How to Prevent Flicker Caused by Burst Dimming | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/2022/07/16/10/04/how-to-prevent-flicker-caused-by-burst-dimming.html"
+      },
+      {
+        "title": "Design Note 548: 60V Buck-Boost LED Driver with Up to 98% Efficiency Has Internal PWM Dimming and Spread Spectrum | Analog Devices",
+        "url": "https://www.analog.com/en/resources/design-notes/2017/09/14/04/06/60v-buck-boost-led-driver-with-up-to-98-percent-efficiency.html"
+      },
+      {
+        "title": "LED Driver for High Power Machine Vision Flash | Analog Devices",
+        "url": "https://www.analog.com/en/resources/analog-dialogue/articles/led-driver-for-high-power-machine-vision-flash.html"
+      },
+      {
+        "title": "Complete Power Solution for Digital Cameras and Other Complex Compact Portable Applications | Analog Devices",
+        "url": "https://www.analog.com/jp/resources/technical-articles/complete-power-solution-digital-cameras-other-complex-compact-portable-applications.html"
+      },
+      {
+        "title": "LED Driver with Integrated Spread Spectrum Reduces EMI without Adding Flicker | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/led-driver-with-integrated-spread-spectrum-reduces-emi.html?gated=1757276656798"
+      },
+      {
+        "title": "Accurate PWM LED Dimming without External Signal Generators, Clocks or µControllers | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/accurate-pwm-led-dimming.html"
+      },
+      {
+        "title": "LED Driver with Integrated Spread Spectrum Reduces EMI without Adding Flicker | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/led-driver-with-integrated-spread-spectrum-reduces-emi.html?gated=1754720183873"
+      },
+      {
+        "title": "Selecting HB LED Drivers for Automotive Lighting Applications | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/selecting-hb-led-drivers-for-automotive-lighting-applications.html"
+      },
+      {
+        "title": "Don’t Want to Hear It? Avoid the Audio Band with PWM LED Dimming at Frequencies Above 20kHz | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/avoid-the-audio-band-with-pwm-led-dimming.html?gated=1757157307709"
+      },
+      {
+        "title": "LT8393 (Rev. B)",
+        "url": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt8393.pdf"
+      },
+      {
+        "title": "Convert a Buck Regulator into a Smart LED Driver Including Dimming | Analog Devices",
+        "url": "https://www.analog.com/en/resources/analog-dialogue/articles/convert-a-buck-regulator.html"
+      },
+      {
+        "title": "DC2788A (Rev. 0)",
+        "url": "https://www.analog.com/media/en/technical-documentation/user-guides/dc2788a.pdf"
+      },
+      {
+        "title": "Buck-Boost LED Driver Reaches 98% Efficiency, Features Internal PWM Dimming and Spread Spectrum without Flicker | Analog Devices",
+        "url": "https://www.analog.com/en/resources/technical-articles/buck-boost-led-driver-reaches-98percent-efficiency.html"
+      },
+      {
+        "title": "Technical Article",
+        "url": "https://www.analog.com/media/en/technical-documentation/technical-articles/convert-a-buck-regulator-into-a-smart-led-driver-ms-2437.pdf"
+      },
+      {
+        "title": "EVALUATION KIT AVAILABLE",
+        "url": "https://www.analog.com/MAX25600/datasheet"
+      }
+    ]
+  },
+  {
+    "id": "Q022",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "厂商发现",
+    "query": "site:signify.com temporal light modulation flicker LED",
+    "candidates": [
+      {
+        "title": "Amplitude Modulation (AM) output dimming",
+        "url": "https://www.signify.com/api/assets/v1/file/Signify/content/SIG-Xitanium-Indoor-driver-Linear-DIG-A18-150w/SIG_Xitanium_Indoor_driver_Linear_DIG_A18_150w.pdf"
+      },
+      {
+        "title": "Is it all Flicker? | Signify Company Website",
+        "url": "https://www.signify.com/global/lighting-academy/browser/webinar/temporal-light-artifacts"
+      },
+      {
+        "title": "Temporal Light Artifacts (flicker & stroboscopic effects)",
+        "url": "https://www.signify.com/api/assets/v1/file/Signify/content/SIG-Xitanium-SR-driver-DIG-indoor-A07/Design_in_Guide.pdf"
+      },
+      {
+        "title": "Classified |",
+        "url": "https://www.signify.com/api/assets/v1/file/Signify/content/650V-DC-DIG-28012025/650V_DC_DIG_28012025.pdf"
+      },
+      {
+        "title": "Affordable human centric lighting system is available now | Signify Company Website",
+        "url": "https://www.signify.com/en-us/blog/archive/innovation/lighting-system"
+      },
+      {
+        "title": "Q&A March webinar ‘Is it all Flicker?’",
+        "url": "https://www.assets.signify.com/is/content/PhilipsConsumer/PDFDownloads/Global/ODL20160504_001_UPD_en_GL_Q%2BA_March_webinar_answers.pdf"
+      },
+      {
+        "title": "Flicker measur",
+        "url": "https://www.na.mytechnology.portal.signify.com/dam/jcr%3A24d1c6e4-7a8b-4cb9-b7b6-733b7047b11e/Flicker%20measurement%20NEMA77%20and%20IEEE1789%20White%20Paper.pdf"
+      },
+      {
+        "title": "Flicker and Stroboscopic effect",
+        "url": "https://www.assets.signify.com/is/content/Signify/Assets/philips-lighting/south-africa/20230417-philips-eyecomfort-whitepaper-2020.pdf"
+      },
+      {
+        "title": "Philips Tempo HE | BVP18X | Signify",
+        "url": "https://www.signify.com/global/prof/outdoor-luminaires/sports-and-area-floodlighting/area-and-recreational-floodlighting/philips-tempo-he/LP_CF_BVP18X_EU/family"
+      },
+      {
+        "title": "FlexTune | Advance",
+        "url": "https://www.signify.com/advance/en-us/solutions/experience-lighting/flextune"
+      },
+      {
+        "title": "Philips Tempo HE (Page 5) | BVP18X | Signify",
+        "url": "https://www.signify.com/global/prof/outdoor-luminaires/sports-and-area-floodlighting/area-and-recreational-floodlighting/philips-tempo-he/LP_CF_BVP18X_EU/family/page/5"
+      },
+      {
+        "title": "Edion Peace Wing Stadium Hiroshima | Signify Company Website",
+        "url": "https://www.signify.com/global/case-studies/edion-peace-wing-hiroshima-japan"
+      },
+      {
+        "title": "Philips Contractor-grade InstantFit (UL Type-A) T8 | 9429154 | Signify",
+        "url": "https://www.signify.com/global/prof/led-lamps-and-tubes/led-tubes/philips-contractor-grade-instantfit-ul-type-a-t8/LP_CF_9429154_EU/family"
+      },
+      {
+        "title": "Philips Tempo HE (Page 3) | BVP18X | Signify",
+        "url": "https://www.signify.com/global/prof/outdoor-luminaires/sports-and-area-floodlighting/area-and-recreational-floodlighting/philips-tempo-he/LP_CF_BVP18X_EU/family/page/3"
+      },
+      {
+        "title": "Philips GreenPerform Waterproof G3 | WT198C | Signify",
+        "url": "https://www.signify.com/global/prof/indoor-luminaires/waterproof-and-cleanroom/waterproof-battens/philips-greenperform-waterproof-g3/LP_CF_WT198C_EU/family"
+      },
+      {
+        "title": "Philips GreenPerform Teardrop G3 | CR388CG3 | Signify",
+        "url": "https://www.signify.com/global/prof/indoor-luminaires/waterproof-and-cleanroom/cleanroom/philips-greenperform-teardrop-g3/LP_CF_CR388CG3_EU/family"
+      },
+      {
+        "title": "Philips GreenPerform Highbay Rectangular | BY570 | Signify Egypt",
+        "url": "https://www.signify.com/en-eg/prof/indoor-luminaires/high-bay-and-low-bay/high-bay/philips-greenperform-highbay-rectangular/LP_CF_BY570_EU/family"
+      },
+      {
+        "title": "Visual comfort | Signify",
+        "url": "https://www.signify.com/en-gb/blog/innovation/unlocking-the-science-behind-signifys-eye-care-innovations-for-the-home"
+      }
+    ]
+  },
+  {
+    "id": "Q023",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "厂商发现",
+    "query": "site:ams-osram.com LED PWM flicker camera dimming",
+    "candidates": [
+      {
+        "title": "www.osram-os.com",
+        "url": "https://look.ams-osram.com/m/4b674d090e531e34/original/SOLERIQ-S-family-application-note.pdf"
+      },
+      {
+        "title": "AS1163",
+        "url": "https://look.ams-osram.com/m/30b3ff9b4cc83ae/original/AS1163-PWM-settings-multiple-driving-options.pdf"
+      },
+      {
+        "title": "TMD3719",
+        "url": "https://look.ams-osram.com/m/310a321cc594ac15/original/TMD3719-DS000748.pdf"
+      },
+      {
+        "title": "ams OSRAM Group",
+        "url": "https://look.ams-osram.com/m/55b7d6f3a5b019a6/original/TCS3408-AN000614.pdf"
+      },
+      {
+        "title": "ams high-sensitivity optical sensor eliminates flicker artifacts to deliver vibrant and distortion-free smartphone camera images and videos | ams OSRAM",
+        "url": "https://ams-osram.com/news/press-releases/ams-high-sensitivity-optical-sensor-eliminates-flicker-artifacts-to-deliver-vibrant-and-distortion-free-smartphone-camera-images-and-videos"
+      },
+      {
+        "title": "ams AS1163_QF_EVM_KT_OSP Evaluation kit Kits | ams OSRAM",
+        "url": "https://ams-osram.com/products/boards-kits-accessories/kits/ams-as1163-qf-evm-kt-osp-evaluation-kit"
+      },
+      {
+        "title": "ams AS1163B Automotive 6-output Stand-Alone Intelligent LED Driver IC LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/products/drivers/led-drivers/ams-as1163b-automotive-6-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams AS3688 Lighting Management Unit LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/products/drivers/led-drivers/ams-as3688-lighting-management-unit"
+      },
+      {
+        "title": "ams AS1163 Automotive 9-output Stand-Alone Intelligent LED Driver IC LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/products/drivers/led-drivers/ams-as1163-automotive-9-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams AS7211 IoT Smart Daylighting Manager Ambient light, Color, Spectral & Proximity Sensors | ams OSRAM",
+        "url": "https://ams-osram.com/products/sensor-solutions/ambient-light-color-spectral-proximity-sensors/ams-as7211-iot-smart-daylighting-manager"
+      },
+      {
+        "title": "ams AS3689 Lighting Management Unit LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/products/drivers/led-drivers/ams-as3689-lighting-management-unit"
+      },
+      {
+        "title": "ams AS7220 CCT and Lumen Maintenance Manager Ambient light, Color, Spectral & Proximity Sensors | ams OSRAM",
+        "url": "https://ams-osram.com/products/sensor-solutions/ambient-light-color-spectral-proximity-sensors/ams-as7220-cct-and-lumen-maintenance-manager"
+      },
+      {
+        "title": "OSCONIQ™ P 3737 (2W) | ams OSRAM",
+        "url": "https://ams-osram.com/products/product-families/osconiq-p-3737-2w"
+      },
+      {
+        "title": "ams TCS3448 Spectral Color Sensor Ambient light, Color, Spectral & Proximity Sensors | ams OSRAM",
+        "url": "https://ams-osram.com/products/sensor-solutions/ambient-light-color-spectral-proximity-sensors/ams-tcs3448-spectral-color-sensor"
+      },
+      {
+        "title": "ams TCS3408 Color Sensor Ambient light, Color, Spectral & Proximity Sensors | ams OSRAM",
+        "url": "https://ams-osram.com/products/sensor-solutions/ambient-light-color-spectral-proximity-sensors/ams-tcs3408-color-sensor"
+      },
+      {
+        "title": "ams AS7221 CCT Tuning Smart Lighting Manager Ambient light, Color, Spectral & Proximity Sensors | ams OSRAM",
+        "url": "https://ams-osram.com/products/sensor-solutions/ambient-light-color-spectral-proximity-sensors/ams-as7221-cct-tuning-smart-lighting-manager"
+      }
+    ]
+  },
+  {
+    "id": "Q024",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "机构发现",
+    "query": "site:cie.co.at temporal light modulation measurement spectral TN 012",
+    "candidates": [
+      {
+        "title": "Guidance on the Measurement of Temporal Light Modulation of Light Sources and Lighting Systems | CIE",
+        "url": "https://cie.co.at/publications/guidance-measurement-temporal-light-modulation-light-sources-and-lighting-systems"
+      },
+      {
+        "title": "CIE TN 012:2021",
+        "url": "https://files.cie.co.at/CIE_TN_012_2021.pdf"
+      },
+      {
+        "title": "Division 2 Publications | CIE",
+        "url": "https://www.cie.co.at/technical-work/divisions/division2/division-publication"
+      },
+      {
+        "title": "Technical Notes | CIE",
+        "url": "https://cie.co.at/publications/technical-notes"
+      },
+      {
+        "title": "Measurement of Temporal Light Modulation of Light Sources and Lighting Systems | CIE",
+        "url": "https://cie.co.at/technicalcommittees/measurement-temporal-light-modulation-light-sources-and-lighting-systems"
+      },
+      {
+        "title": "CIE Publications - Premium Source for Knowledge on Light and Lighting | CIE",
+        "url": "https://cie.co.at/publications"
+      },
+      {
+        "title": "New CIE Technical Note Published \"A Comprehensive Checklist For Reporting Light Characteristics in Laboratory-based Human Studies Using Light as an Intervention\" | CIE",
+        "url": "https://cie.co.at/news/new-cie-technical-note-published-comprehensive-checklist-reporting-light-characteristics"
+      },
+      {
+        "title": "CIE Expert Tutorial and Symposium on the Measurement of Temporal Light Modulation | CIE",
+        "url": "https://cie.co.at/news/cie-expert-tutorial-and-symposium-measurement-temporal-light-modulation"
+      },
+      {
+        "title": "DR 6-52 | CIE",
+        "url": "https://cie.co.at/reporter/dr-6-52"
+      },
+      {
+        "title": "Division 2 Technical Committees | CIE",
+        "url": "https://cie.co.at/technical-work/divisions/division2/technical-committees"
+      },
+      {
+        "title": "Proceedings of the CIE symposium on the advances in measurement of temporal light modulation, October 11, 2022, Athens, Greece | CIE",
+        "url": "https://www.cie.co.at/publications/proceedings-cie-symposium-advances-measurement-temporal-light-modulation-october-11"
+      },
+      {
+        "title": "RF-02 | CIE",
+        "url": "https://www.cie.co.at/researchforum/rf-02"
+      },
+      {
+        "title": "Division 2 Publications | CIE",
+        "url": "https://cie.co.at/technical-work/divisions/division2/division-publication"
+      }
+    ]
+  },
+  {
+    "id": "Q025",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "机构发现",
+    "query": "site:energy.gov temporal light modulation LED fluorescent lamps 2026",
+    "candidates": [
+      {
+        "title": "Flicker Research | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/flicker-research"
+      },
+      {
+        "title": "Effects of Temporal Light Modulation on",
+        "url": "https://www.energy.gov/cmei/ssl/articles/effects-temporal-light-modulation-individuals-sensitive-pattern-glare"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/cmei/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/eere/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures"
+      },
+      {
+        "title": "Flicker Basics | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/flicker-basics"
+      },
+      {
+        "title": "Effects of Temporal Light Modulation on",
+        "url": "https://www.energy.gov/eere/ssl/articles/effects-temporal-light-modulation-individuals-sensitive-pattern-glare"
+      },
+      {
+        "title": "Lighting Quality | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/lighting-quality"
+      },
+      {
+        "title": "Purchasing Energy-Efficient Fluorescent Lighting | Department of Energy",
+        "url": "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-fluorescent-lighting"
+      },
+      {
+        "title": "Metrics and Test Methods | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/metrics-and-test-methods"
+      },
+      {
+        "title": "Understanding LED Color-Tunable Products | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/understanding-led-color-tunable-products"
+      },
+      {
+        "title": "General Service Lamps | Department of Energy",
+        "url": "https://stage.energy.gov/cmei/buildings/general-service-lamps"
+      },
+      {
+        "title": "Purchasing Energy-Efficient Exterior Lighting | Department of Energy",
+        "url": "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-exterior-lighting"
+      },
+      {
+        "title": "Emerging Lighting Science | Department of Energy",
+        "url": "https://www.energy.gov/cmei/buildings/articles/emerging-lighting-science"
+      },
+      {
+        "title": "General Service Lamps | Department of Energy",
+        "url": "https://www.energy.gov/cmei/buildings/general-service-lamps"
+      },
+      {
+        "title": "Tunable Lighting Classroom Studies | Department of Energy",
+        "url": "https://www.energy.gov/cmei/ssl/tunable-lighting-classroom-studies"
+      },
+      {
+        "title": "Purchasing Energy-Efficient Light Bulbs | Department of Energy",
+        "url": "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-light-bulbs"
+      }
+    ]
+  },
+  {
+    "id": "Q026",
+    "date": "2026-09-16",
+    "topic": "模拟",
+    "channel": "机构发现",
+    "query": "site:emva.org 1288 quantum efficiency saturation noise",
+    "candidates": [
+      {
+        "title": "EMVA 1288, Release 4.0 Linear",
+        "url": "https://www.emva.org/wp-content/uploads/EMVA1288Linear_4.0Release.pdf"
+      },
+      {
+        "title": "EMVA 1288, Release 3.1rc2",
+        "url": "https://www.emva.org/wp-content/uploads/EMVA1288-3.1rc2.pdf"
+      },
+      {
+        "title": "EMVA 1288, Release 4.0 General",
+        "url": "https://www.emva.org/wp-content/uploads/EMVA1288General_4.0Release.pdf"
+      },
+      {
+        "title": "EMVA 1288, Release 3.1rc2",
+        "url": "https://www.emva.org/wp-content/uploads/EMVA1288-3.1a.pdf"
+      },
+      {
+        "title": "EMVA 1288, Release 4.0 General",
+        "url": "https://www.emva.org/wp-content/uploads/EMVA1288-General-4.0ReleaseCandidate.pdf"
+      },
+      {
+        "title": "Standard for Characterization of Image Sensors and Cameras",
+        "url": "https://www.emva.org/wp-content/uploads/EMVA1288-3.0.pdf"
+      },
+      {
+        "title": "Downloads – EMVA",
+        "url": "https://www.emva.org/standards-technology/emva-1288/emva-standard-1288-downloads-2/"
+      },
+      {
+        "title": "Introduction – EMVA",
+        "url": "https://www.emva.org/standards-technology/emva-1288/emva-standard-1288/"
+      },
+      {
+        "title": "News – EMVA",
+        "url": "https://www.emva.org/standards-technology/emva-1288/1288news/"
+      },
+      {
+        "title": "EMVA 1288 – EMVA",
+        "url": "https://www.emva.org/standards-technology/emva-1288/"
+      },
+      {
+        "title": "Webinar series on EMVA1288 Release 4.0 – EMVA",
+        "url": "https://www.emva.org/news-media/media/webinars/emva1288-release-4-0/"
+      },
+      {
+        "title": "EMVA1288 – release candidate 2 of version 3.1 published – EMVA",
+        "url": "https://www.emva.org/news/emva1288-release-candidate-2-of-version-3-1-published/"
+      },
+      {
+        "title": "New Release 4.0 of EMVA 1288 Standard for Camera Characterization in Effect – EMVA",
+        "url": "https://www.emva.org/news/new-release-4-0-of-emva-1288-standard-for-camera-characterization-in-effect/"
+      },
+      {
+        "title": "New Release 4.0 of EMVA 1288 Standard for Camera Characterization – EMVA",
+        "url": "https://www.emva.org/press/new-release-4-0-of-emva-1288-standard-for-camera-characterization/"
+      },
+      {
+        "title": "EMVA 1288 | “Why is an image sensor not perfect? Or – what effects degrade the signal of a camera?” – EMVA",
+        "url": "https://www.emva.org/news-media/media/webinars/emva-1288-why-is-an-image-sensor-not-perfect-or-what-effects-degrade-the-signal-of-a-camera/"
+      },
+      {
+        "title": "Upcoming webinar series on EMVA1288 Release 4.0 – EMVA",
+        "url": "https://www.emva.org/news/upcoming-webinar-series-on-emva1288-release-4-0/"
+      },
+      {
+        "title": "Certfication – EMVA",
+        "url": "https://www.emva.org/standards-technology/emva-1288/emva-1288-certfication-2/"
+      },
+      {
+        "title": "EMVA 1288 – Release 3.1 is effective! – EMVA",
+        "url": "https://www.emva.org/news/emva-1288-release-3-1-is-effective/"
+      },
+      {
+        "title": "citeturn62search11 [wordlim: 200] Published: 9.7 years ago; Crawled: 2 weeks ago; All new documents are available at the EMVA website",
+        "url": "https://www.emva.org/standards-technology/emva-1288/emva-standard-1288-downloads/"
+      }
+    ]
+  },
+  {
+    "id": "Q027",
+    "date": "2026-09-16",
+    "topic": "模拟",
+    "channel": "机构发现",
+    "query": "site:vsl.nl mettlm results waveform dataset",
+    "candidates": [
+      {
+        "title": "Results - VSL",
+        "url": "https://www.vsl.nl/en/mettlm/results/"
+      },
+      {
+        "title": "FINAL PUBLISHABLE REPORT",
+        "url": "https://www.vsl.nl/wp-content/uploads/2025/06/20NRM01_Final_Publishable_Report.pdf"
+      },
+      {
+        "title": "Project",
+        "url": "https://www.vsl.nl/en/mettlm/project/"
+      },
+      {
+        "title": "20NRM01 MetTLM",
+        "url": "https://www.vsl.nl/wp-content/uploads/2025/06/20NRM01_MetTLM_M27_Publishable_Summary_accepted.pdf"
+      },
+      {
+        "title": "MetTLM",
+        "url": "https://www.vsl.nl/en/mettlm/"
+      },
+      {
+        "title": "EMRP-template (document)",
+        "url": "https://www.vsl.nl/wp-content/uploads/2025/06/20NRM01_Publishable_Summary_M36.pdf"
+      },
+      {
+        "title": "Events",
+        "url": "https://www.vsl.nl/en/mettlm/events/"
+      },
+      {
+        "title": "Partners - VSL",
+        "url": "https://www.vsl.nl/en/mettlm/partners/"
+      },
+      {
+        "title": "Digital Multimeter 6.5 - Round 6 - VSL",
+        "url": "https://www.vsl.nl/project/digital-multimeter-6-5-round-6/"
+      }
+    ]
+  },
+  {
+    "id": "Q028",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "引文扩展一",
+    "query": "\"Optical Lock-in Spectrometry\" temporal light modulation pdf",
+    "candidates": [
+      {
+        "title": "Optical Lock-in Spectrometry Reveals Useful Spectral Features of Temporal Light Modulation in Several Light Source Technologies: LEUKOS: Vol 19 , No 2 - Get Access",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/15502724.2022.2077754"
+      },
+      {
+        "title": "Optical Lock-in Spectrometry Reveals Useful Spectral Features of Temporal Light Modulation in Several Light Source Technologies: LEUKOS: Vol 19, No 2",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/15502724.2022.2077754"
+      },
+      {
+        "title": "(PDF) A Fiber-Optic Array Spectrometer with Parallel Multichannel Optical Lock-in Detection and its Application to In Situ Lighting Measurements",
+        "url": "https://www.researchgate.net/publication/366053660_A_Fiber-Optic_Array_Spectrometer_with_Parallel_Multichannel_Optical_Lock-in_Detection_and_its_Application_to_In_Situ_Lighting_Measurements"
+      },
+      {
+        "title": "technique has been developed to provide lock-in detection in a parallel and multichannel fashion for all the spectral output channels. It relies on phase and quadrature modulation applied at the entra",
+        "url": "https://files.cie.co.at/x050_2023/Abstract_booklet_2023_20230912.pdf"
+      },
+      {
+        "title": "(PDF) A Fiber-Optic Array Spectrometer with Parallel Multichannel Optical Lock-in Detection and its Application to In Situ Lighting Measurements",
+        "url": "https://www.researchgate.net/publication/368774454_A_Fiber-Optic_Array_Spectrometer_with_Parallel_Multichannel_Optical_Lock-in_Detection_and_its_Application_to_In_Situ_Lighting_Measurements"
+      },
+      {
+        "title": "Search Results | Scholarly Articles, Journals, and E-Books | EBSCOhost",
+        "url": "https://openurl.ebsco.com/results?bquery=DE+%22OPTICAL+modulation%22&limiters=RV%3AY&link_origin=&searchDescription=OPTICAL+modulation&sid=ebsco%3Aocu%3Arecord"
+      },
+      {
+        "title": "Archive ouverte HAL",
+        "url": "https://cv.hal.science/christophe-martinsons"
+      },
+      {
+        "title": "(PDF) IMPLEMENTING LOCK-IN DETECTION IN PHOTOMETRY AND SPECTRORADIOMETRY USING TEMPORAL LIGHT MODULATION",
+        "url": "https://www.researchgate.net/publication/364479291_IMPLEMENTING_LOCK-IN_DETECTION_IN_PHOTOMETRY_AND_SPECTRORADIOMETRY_USING_TEMPORAL_LIGHT_MODULATION"
+      },
+      {
+        "title": "(PDF) Implementing lock-in detection in photometry and spectroradiometry using temporal light modulation",
+        "url": "https://www.researchgate.net/publication/364353925_Implementing_lock-in_detection_in_photometry_and_spectroradiometry_using_temporal_light_modulation"
+      },
+      {
+        "title": "Search Results - \"Picard, Nicolas\" :: Library Catalog",
+        "url": "https://iris.sena.edu.co/EDS/Search?lookfor=%22Picard%2C+Nicolas%22&type=Author"
+      },
+      {
+        "title": "(PDF) 320-Channel Dual Phase Lock-in Optical Spectrometer",
+        "url": "https://www.researchgate.net/publication/1943558_320-Channel_Dual_Phase_Lock-in_Optical_Spectrometer"
+      },
+      {
+        "title": "A Fiber-Optic Array Spectrometer with Parallel Multichannel Optical Lock-in Detection and its Application to In Situ Lighting Measurements | Request PDF",
+        "url": "https://www.researchgate.net/publication/368494008_A_Fiber-Optic_Array_Spectrometer_with_Parallel_Multichannel_Optical_Lock-in_Detection_and_its_Application_to_In_Situ_Lighting_Measurements"
+      },
+      {
+        "title": "(PDF) Untangling light in noisy luminous environments",
+        "url": "https://www.researchgate.net/publication/383052756_Untangling_light_in_noisy_luminous_environments"
+      }
+    ]
+  },
+  {
+    "id": "Q029",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "引文扩展一",
+    "query": "\"Characterizing the temporal light modulation\" LED PNNL",
+    "candidates": [
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps - S Safranek, J Kelly, A Orman, M Royer, A Wilkerson, L Irvin, 2026",
+        "url": "https://journals.sagepub.com/doi/10.1177/14771535261430362"
+      },
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps - S Safranek, J Kelly, A Orman, M Royer, A Wilkerson, L Irvin, 2026",
+        "url": "https://journals.sagepub.com/doi/full/10.1177/14771535261430362"
+      },
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps - S Safranek, J Kelly, A Orman, M Royer, A Wilkerson, L Irvin, 2026",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/14771535261430362"
+      },
+      {
+        "title": "Andrea Wilkerson's research works | Pacific Northwest National Laboratory, Richland (PNNL) and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/Andrea-Wilkerson-2157212231"
+      },
+      {
+        "title": "Characterizing the temporal light modulation of the LED products replacing linear fluorescent lamps | Request PDF",
+        "url": "https://www.researchgate.net/publication/403804637_Characterizing_the_temporal_light_modulation_of_the_LED_products_replacing_linear_fluorescent_lamps"
+      },
+      {
+        "title": "Lighting Research & Technology - Volume 0, Number 0",
+        "url": "https://journals.sagepub.com/toc/lrtd/0/0?pageSize=10&sortBy=relevancy&startPage=2"
+      },
+      {
+        "title": "Lia IRVIN | Associate Scientist | Bachelor of Science | Pacific Northwest National Laboratory, Richland | PNNL | Electricity Infrastructure and Buildings Division | Research profile",
+        "url": "https://www.researchgate.net/profile/Lia-Irvin"
+      },
+      {
+        "title": "Sarah SAFRANEK | Lighting Resarch Engineer | Master of Science | Pacific Northwest National Laboratory, Richland | PNNL | Research profile",
+        "url": "https://www.researchgate.net/profile/Sarah-Safranek-2"
+      },
+      {
+        "title": "Lighting Research & Technology - Volume 0, Number 0",
+        "url": "https://journals.sagepub.com/toc/lrtd/0/0?pageSize=10&sortBy=cited&startPage=3"
+      },
+      {
+        "title": "Lighting Research & Technology - Volume 0, Number 0",
+        "url": "https://journals.sagepub.com/toc/lrt/0/0?pageSize=20&sortBy=FullEpubDateField&startPage=0"
+      },
+      {
+        "title": "Temporal light modulation: Data processing and metric calculations | Request PDF",
+        "url": "https://www.researchgate.net/publication/371715324_Temporal_light_modulation_Data_processing_and_metric_calculations"
+      },
+      {
+        "title": "Flicker: A review of temporal light modulation stimulus, responses, and measures",
+        "url": "https://www.energy.gov/sites/default/files/2022-08/ssl-miller-etal-2022-LRT-flicker-review-tlm-stimulus-response.pdf"
+      },
+      {
+        "title": "Temporal Light Modulation: A Phantom Array",
+        "url": "https://www.energy.gov/eere/ssl/articles/temporal-light-modulation-phantom-array-visibility-measure"
+      },
+      {
+        "title": "Temporal light modulation: A phantom array visibility measure",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/14771535241239611"
+      }
+    ]
+  },
+  {
+    "id": "Q030",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "引文扩展一",
+    "query": "\"Rolling shutter imaging on the electric grid\"",
+    "candidates": [
+      {
+        "title": "Rolling Shutter Imaging on the Electric Grid",
+        "url": "https://www.marksheinin.com/rollingshutter"
+      },
+      {
+        "title": "Rolling Shutter Imaging on The Electric Grid",
+        "url": "https://webee.technion.ac.il/people/yoav/publications/Mark%20-%20Rolling%20Shutter%20Imaging%20on%20The%20Electric%20Grid%202018.pdf"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid - Weizmann Institute of Science",
+        "url": "https://weizmann.elsevierpure.com/en/publications/rolling-shutter-imaging-on-the-electric-grid/"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid - Technion - Israel Institute of Technology",
+        "url": "https://cris.technion.ac.il/en/publications/rolling-shutter-imaging-on-the-electric-grid-2"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid - Weizmann Institute of Science",
+        "url": "https://weizmann.elsevierpure.com/en/publications/rolling-shutter-imaging-on-the-electric-grid"
+      },
+      {
+        "title": "Research | personal",
+        "url": "https://www.marksheinin.com/"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid",
+        "url": "https://eurekamag.com/research/105/050/105050412.php"
+      },
+      {
+        "title": "dblp: Rolling shutter imaging on the electric grid.",
+        "url": "https://dblp.uni-trier.de/rec/conf/iccp/SheininSK18.html"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid | Request PDF",
+        "url": "https://www.researchgate.net/publication/325495369_Rolling_shutter_imaging_on_the_electric_grid"
+      },
+      {
+        "title": "Rolling Shutter Imaging on The Electric Grid",
+        "url": "https://www.marksheinin.com/_files/ugd/a41a28_54b7c4e8d42749008586e7ace717bcf2.pdf?index=true"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid - Israeli Research Community Portal",
+        "url": "https://cris.iucc.ac.il/en/publications/rolling-shutter-imaging-on-the-electric-grid-2"
+      },
+      {
+        "title": "Rolling shutter imaging on the electric grid - Fingerprint - Weizmann Institute of Science",
+        "url": "https://weizmann.elsevierpure.com/en/publications/rolling-shutter-imaging-on-the-electric-grid/fingerprints/"
+      },
+      {
+        "title": "DEVELOPMENT OF METHODS OF REMOVING DEFECTS IN IMAGES OF POWER FACILITIES OBTAINED IN THE PROCESS OF REMOTE MONITORING USING UAV | Control, Navigation and Communication Systems. Academic Journal",
+        "url": "https://journals.nupp.edu.ua/sunz/en/article/view/1190"
+      },
+      {
+        "title": "\"Seeing\" Electric Network Frequency From Events",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Seeing_Electric_Network_Frequency_From_Events_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "dblp: ICCP 2018",
+        "url": "https://dblp.org/db/conf/iccp/iccp2018.html"
+      },
+      {
+        "title": "Tuesday, June 24",
+        "url": "https://cvpr2018.thecvf.com/files/CVPR_2018_Pocket_Guide_Main_Conference_Final_merged.pdf"
+      },
+      {
+        "title": "RnGCam: High-speed video from rolling & global shutter measurements",
+        "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Tandi_RnGCam_High-speed_video_from_rolling__global_shutter_measurements_ICCV_2025_paper.pdf"
+      },
+      {
+        "title": "[1] Chau-Wai Wong, Adi Hajj-Ahmad, and",
+        "url": "https://openreview.net/pdf/83b76a511a001ced7478b6dd7b93f299855de956.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q031",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "引文扩展一",
+    "query": "\"Computational Imaging on the Electric Grid\" \"2019\"",
+    "candidates": [
+      {
+        "title": "Computational Imaging on the Electric Grid | Request PDF",
+        "url": "https://www.researchgate.net/publication/331515219_Computational_Imaging_on_the_Electric_Grid"
+      },
+      {
+        "title": "Computational Imaging on the Electric Grid",
+        "url": "https://openalex.org/W2918212426"
+      },
+      {
+        "title": "Research | personal",
+        "url": "https://www.marksheinin.com/"
+      },
+      {
+        "title": "Computational Imaging on the Electric Grid | Request PDF",
+        "url": "https://www.researchgate.net/publication/320971144_Computational_Imaging_on_the_Electric_Grid"
+      },
+      {
+        "title": "Kyros Kutulakos' Home Page",
+        "url": "https://www.cs.toronto.edu/~kyros/"
+      },
+      {
+        "title": "US20210274085A1 - Computational imaging of the electric grid - Google Patents",
+        "url": "https://patents.google.com/patent/US20210274085A1/en"
+      },
+      {
+        "title": "(PDF) Hypertemporal Imaging of NYC Grid Dynamics: Short paper",
+        "url": "https://www.researchgate.net/publication/309643533_Hypertemporal_Imaging_of_NYC_Grid_Dynamics_Short_paper"
+      },
+      {
+        "title": "Mark Sheinin",
+        "url": "https://www.csauthors.net/mark-sheinin/"
+      },
+      {
+        "title": "U.S. Patent Application for COMPUTATIONAL IMAGING OF THE ELECTRIC GRID Patent Application (Application #20210274085 issued September 2, 2021) - Justia Patents Search",
+        "url": "https://patents.justia.com/patent/20210274085"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "\"Seeing\" Electric Network Frequency From Events",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Seeing_Electric_Network_Frequency_From_Events_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "Mark SHEININ | PostDoc Position | PhD | Carnegie Mellon University, Pittsburgh | CMU | Robotics Institute | Research profile",
+        "url": "https://www.researchgate.net/profile/Mark-Sheinin-2"
+      },
+      {
+        "title": "Yoav Y. Schechner — papers and venues",
+        "url": "https://cs-conference-ranking.org/author/yoav-y-schechner"
+      },
+      {
+        "title": "Celebrating the winners of the Dean’s Research Excellence Awards | Faculty of Arts & Science",
+        "url": "https://www.artsci.utoronto.ca/news/celebrating-winners-dean-s-research-excellence-awards"
+      },
+      {
+        "title": "Published as a conference paper at SIGBOVIK 2020",
+        "url": "https://sigbovik.org/2020/proceedings.pdf"
+      },
+      {
+        "title": "38. M. Alterman, Y. Swirski and Y. Y. Schechner, *Triangulation in random refractive distortions*, Proc. IEEE ICCP - Int. Conference on Computational Photography (2013).",
+        "url": "https://webee.technion.ac.il/Sites/People/yoav/cv.pdf"
+      },
+      {
+        "title": "GridInSight: Monitoring Electricity Using Visible Lights",
+        "url": "https://www.alexlwyen.com/papers/shah2019GridInSight.pdf"
+      },
+      {
+        "title": "Generalized Event Cameras",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sundar_Generalized_Event_Cameras_CVPR_2024_paper.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q032",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "引文扩展一",
+    "query": "\"flicker removal\" \"dataset\" -BurstDeflicker -Flickerformer -reddit",
+    "candidates": [
+      {
+        "title": "GitHub - qulishen/BurstDeflicker · GitHub",
+        "url": "https://github.com/qulishen/BurstDeflicker"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/4e60c211b3aec6cf8e4866893931efa6-Abstract-Datasets_and_Benchmarks_Track.html"
+      },
+      {
+        "title": "GitHub - qulishen/Flickerformer: The official code for the paper \"It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal\". · GitHub",
+        "url": "https://github.com/qulishen/Flickerformer"
+      },
+      {
+        "title": "dblp: BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes.",
+        "url": "https://dblp1.uni-trier.de/rec/conf/nips/QuLZLLZZY25.html"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://arxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes - proceedings.com",
+        "url": "https://www.proceedings.com/085713-1821.html"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf"
+      },
+      {
+        "title": "Shihao Zhou",
+        "url": "https://joshyzhou.github.io/"
+      },
+      {
+        "title": "Paper page - BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://huggingface.co/papers/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/overview/2510.09996"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://openreview.net/pdf/83b76a511a001ced7478b6dd7b93f299855de956.pdf"
+      },
+      {
+        "title": "BurstDeflicker:動的シーンにおけるフリッカ除去のためのベンチマークデータセット〖JST機械翻訳〗 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+        "url": "https://jglobal.jst.go.jp/public/202502201065383340"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://qulishen.top/project/BurstDeflicker.html"
+      },
+      {
+        "title": "qulishen (Lishen Qu) · GitHub",
+        "url": "https://github.com/qulishen"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://arxiv.org/abs/2606.29845"
+      },
+      {
+        "title": "Blind Video Deflickering by Neural Filtering with a Flawed Atlas",
+        "url": "https://arxiv.org/abs/2303.08120"
+      },
+      {
+        "title": "RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement",
+        "url": "https://arxiv.org/abs/2509.24644"
+      }
+    ]
+  },
+  {
+    "id": "Q033",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "引文扩展一",
+    "query": "\"flicker-banding\" dataset RIFLE MIRAGE Bricker DeViD",
+    "candidates": [
+      {
+        "title": "GitHub - ZZH-qwq/BRACE · GitHub",
+        "url": "https://github.com/ZZH-qwq/BRACE"
+      },
+      {
+        "title": "dblp: Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding.",
+        "url": "https://dblp.uni-trier.de/rec/journals/corr/abs-2606-29845.html"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://arxiv.org/abs/2606.29845"
+      },
+      {
+        "title": "BRACEへのブリック:フリッカバンディングのためのブラケット曝露RAWデータセットと回復モデル〖JST機械翻訳〗 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+        "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202602215395620320"
+      },
+      {
+        "title": "GitHub - libozhu03/RIFLE · GitHub",
+        "url": "https://github.com/libozhu03/RIFLE"
+      },
+      {
+        "title": "(PDF) Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://www.researchgate.net/publication/408237180_Bricker_to_BRACE_A_Bracket_Exposure_RAW_Dataset_and_Restoration_Model_for_Flicker-Banding"
+      },
+      {
+        "title": "Top arXiv papers",
+        "url": "https://scirate.com/?date=2026-07-06&page=126&range=56"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202602215395620320"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding | alphaXiv",
+        "url": "https://www.alphaxiv.org/replicate/2606.29845v1"
+      },
+      {
+        "title": "Top arXiv papers",
+        "url": "https://scirate.com/?date=2026-07-05&page=110&range=31"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding | alphaXiv",
+        "url": "https://www.alphaxiv.org/replicate/2606.29845"
+      },
+      {
+        "title": "BRACE: Bracketed RAW Flicker-Banding Removal | Academic Research",
+        "url": "https://zzh-qwq.github.io/BRACE/"
+      },
+      {
+        "title": "[Literature Review] Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://www.themoonlight.io/en/review/bricker-to-brace-a-bracket-exposure-raw-dataset-and-restoration-model-for-flicker-banding"
+      },
+      {
+        "title": "VDFP: Video Deflickering with Flicker-banding Priors",
+        "url": "https://arxiv.org/abs/2605.21079"
+      },
+      {
+        "title": "Under review as a conference paper at ICLR 2026",
+        "url": "https://openreview.net/pdf/8f040030240a0385addacc3272585de58482b001.pdf"
+      },
+      {
+        "title": "Combined Flicker-banding and Moir´e Removal",
+        "url": "https://www.znakschoola.ru/?_=%2Fpdf%2F2602.01559%23UE7DkG0PaBHZOakR54g1Wl8%3D"
+      },
+      {
+        "title": "Under review as a conference paper at ICLR 2026",
+        "url": "https://openreview.net/pdf/e25499996bea0235030cbff181121322a19f6f88.pdf"
+      },
+      {
+        "title": "Under review as a conference paper at ICLR 2026",
+        "url": "https://openreview.net/pdf?id=LPFoqBacji"
+      },
+      {
+        "title": "RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement",
+        "url": "https://arxiv.org/abs/2509.24644"
+      },
+      {
+        "title": "Combined Flicker-banding and Moire Removal for Screen-Captured Images",
+        "url": "https://arxiv.org/abs/2602.01559"
+      }
+    ]
+  },
+  {
+    "id": "Q034",
+    "date": "2026-09-16",
+    "topic": "成因",
+    "channel": "学术发现",
+    "query": "\"video deflickering\" \"scale-time\" \"tonal stabilization\"",
+    "candidates": [
+      {
+        "title": "(PDF) Motion Driven Tonal Stabilization",
+        "url": "https://www.researchgate.net/publication/278619669_Motion_Driven_Tonal_Stabilization"
+      },
+      {
+        "title": "5.2. Related Work                                                                 45",
+        "url": "https://oriel.github.io/pdf/frigo2016_thesis.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q035",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "厂商追踪",
+    "query": "site:photron.com deflicker flicker correction lighting PFV",
+    "candidates": [
+      {
+        "title": "PFV4_Users_Manual_Ver4400eng",
+        "url": "https://photron.com/wp-content/uploads/2025/04/PFV4_Users_Manual_Ver4400eng.pdf"
+      },
+      {
+        "title": "PFV | Photron",
+        "url": "https://photron.com/pfv/"
+      },
+      {
+        "title": "Photron Support | Photron",
+        "url": "https://photron.com/photron-support/"
+      },
+      {
+        "title": "FASTCAM_Mini_UX50_100_HW_Manual_Rev409eng",
+        "url": "https://photron.com/wp-content/uploads/2024/11/FASTCAM_Mini_UX50_100_HW_Manual_Rev409eng.pdf"
+      },
+      {
+        "title": "FASTCAM_SA5&SA5RV_HW_Manual_Rev213eng",
+        "url": "https://photron.com/wp-content/uploads/2024/12/FASTCAM_SA5SA5RV_HW_Manual_Rev213eng.pdf"
+      },
+      {
+        "title": "FASTCAM_FirstStepGuide_Rev417eng",
+        "url": "https://photron.com/wp-content/uploads/2024/12/FASTCAM_FirstStepGuide_Rev417eng.pdf"
+      },
+      {
+        "title": "PFV4_Releasenotes_Ver4600eng",
+        "url": "https://photron.com/wp-content/uploads/2026/02/PFV4_Releasenote_Ver4600en.pdf"
+      },
+      {
+        "title": "Resources | Photron",
+        "url": "https://photron.com/resources/"
+      },
+      {
+        "title": "Product Range | Photron",
+        "url": "https://photron.com/product-range/"
+      },
+      {
+        "title": "Orion | Photron",
+        "url": "https://photron.com/orion/"
+      },
+      {
+        "title": "Contact Photron | Photron",
+        "url": "https://photron.com/es/contact-photron/"
+      },
+      {
+        "title": "Product Range | Photron",
+        "url": "https://photron.com/de/product-range/"
+      },
+      {
+        "title": "Photron | High-Speed Cameras for Slow Motion Analysis",
+        "url": "https://photron.com/de/"
+      },
+      {
+        "title": "Laser Illumination | Photron",
+        "url": "https://photron.com/laserillumination/"
+      },
+      {
+        "title": "FASTCAM NOVA S | Photron",
+        "url": "https://photron.com/fastcam-nova-s/"
+      },
+      {
+        "title": "FASTCAM NOVA R | Photron",
+        "url": "https://photron.com/fastcam-nova-r/"
+      }
+    ]
+  },
+  {
+    "id": "Q036",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "引文扩展二",
+    "query": "\"FlickerFix\" dataset github",
+    "candidates": [
+      {
+        "title": "[0.4.22] Server / Singleplayer world not loading after updating from 0.3.22 · Issue #1264 · AllTheMods/ATM-7 · GitHub",
+        "url": "https://github.com/AllTheMods/ATM-7/issues/1264"
+      },
+      {
+        "title": "cf-exclude-include.json · GitHub",
+        "url": "https://gist.github.com/caycehouse/afc9bf5f0f03a0082c5956f3463974cb"
+      },
+      {
+        "title": "crash-2025-03-01_15.08.19-client.txt · GitHub",
+        "url": "https://gist.github.com/IACTU/aaf98f5d6b0f5ab7c2d1b78ab523cf00"
+      },
+      {
+        "title": "gist:c38525f4a672ff580a50acc6796baa5f · GitHub",
+        "url": "https://gist.github.com/Thrystan01204/c38525f4a672ff580a50acc6796baa5f"
+      }
+    ]
+  },
+  {
+    "id": "Q037",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "引文扩展二",
+    "query": "\"DiffuFlicker\" dataset github",
+    "candidates": [
+      {
+        "title": "DiffuFlicker: Diffusion-based LED Traffic Light Flicker Removal",
+        "url": "https://diffuflicker.github.io/"
+      },
+      {
+        "title": "DiffuFlicker: Diffusion-Based LED Traffic Light Flicker Removal in Dashcam Videos",
+        "url": "https://eurekamag.com/research/109/670/109670890.php"
+      },
+      {
+        "title": "dblp: DiffuFlicker: Diffusion-Based LED Traffic Light Flicker Removal in Dashcam Videos.",
+        "url": "https://dblp1.uni-trier.de/rec/conf/icpr/KimLP26.html"
+      },
+      {
+        "title": "VCL Lab - International Conference",
+        "url": "https://sites.google.com/view/vcl-lab/publications/international-conference"
+      },
+      {
+        "title": "In Kyu Park",
+        "url": "https://www.csauthors.net/in-kyu-park/"
+      },
+      {
+        "title": "ICPR 2026: Program of conference | ICPR2026website",
+        "url": "https://icpr2026.org/acceptedPapers.html"
+      },
+      {
+        "title": "ICPR 2026: list of accepted papers by track | ICPR2026website",
+        "url": "https://icpr2026.org/acceptedPapersTrack.html"
+      },
+      {
+        "title": "dblp: Juwon Lee (disambiguation)",
+        "url": "https://dblp1.uni-trier.de/pid/88/7074.html"
+      },
+      {
+        "title": "Poster Session 1 | ICPR2026website",
+        "url": "https://icpr2026.org/sessions/poster1/"
+      },
+      {
+        "title": "In Kyu Park's research works | Inha University, Incheon and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/In-Kyu-Park-2105055266"
+      },
+      {
+        "title": "Pattern Recognition: 28th International Conference, ICPR 2026, Lyon, France, August 17–22, 2026, Proceedings, Part III | Springer Nature Link",
+        "url": "https://link.springer.com/book/10.1007/978-3-032-31654-7"
+      },
+      {
+        "title": "Pattern Recognition - 28th International Conference, ICPR 2026, Lyon, France, August 17-22, 2026, Proceedings, Part III - researchr publication",
+        "url": "https://researchr.org/publication/icpr-2026-3"
+      }
+    ]
+  },
+  {
+    "id": "Q038",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "引文扩展二",
+    "query": "\"Light Flickering Guided Reflection Removal\"",
+    "candidates": [
+      {
+        "title": "Light Flickering Guided Reflection Removal | Request PDF",
+        "url": "https://www.researchgate.net/publication/380129246_Light_Flickering_Guided_Reflection_Removal"
+      },
+      {
+        "title": "论文发表 | 马雷课题组 - 北京大学",
+        "url": "https://maleilab.cn/publications.html"
+      },
+      {
+        "title": "Yakun Chang's research works | Beijing Jiaotong University, Beijing (NJTU) and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/Yakun-Chang-2312236985"
+      },
+      {
+        "title": "Wan, Renjie, Shi, Boxin, Li, Haoliang, Duan, Ling-Yu, Kot, Alex C. (2021) Face Image Reflection Removal. International Journal of Computer Vision, 129 (2) 385-399 doi:10.1007/s11263-020-01372-5",
+        "url": "https://www.mindat.org/reference.php?id=13452501"
+      },
+      {
+        "title": "Noname manuscript No.",
+        "url": "https://www.jdl.link/doc/2011/20241219_Hong_IJCV24.pdf"
+      },
+      {
+        "title": "ORCID",
+        "url": "https://orcid.org/0000-0003-2772-217X"
+      },
+      {
+        "title": "Search Results | Scholarly Articles, Journals, and E-Books | EBSCOhost",
+        "url": "https://openurl.ebsco.com/results?bquery=AU+Shi%2C+Boxin&page=1&sid=ebsco%3Aocu_results%3Acache"
+      },
+      {
+        "title": "Search Results - \"Shi, Boxin\" :: Library Catalog",
+        "url": "https://iris.sena.edu.co/EDS/Search?lookfor=%22Shi%2C+Boxin%22&type=Author"
+      },
+      {
+        "title": "Keith Price Bibliography Reflection Removal",
+        "url": "https://www.visionbib.com/bibliography/shapefrom391rere1.html"
+      },
+      {
+        "title": "Search Results | Scholarly Articles, Journals, and E-Books | EBSCOhost",
+        "url": "https://openurl.ebsco.com/c/t4a2lo/results?bquery=AU+Huang%2C+Tiejun&link_origin=&searchDescription=Huang%2C+Tiejun&sid=ebsco%3Aocu%3Arecord"
+      },
+      {
+        "title": "基于分层先验引导的反射分离方法研究",
+        "url": "https://idm.pku.edu.cn/virtual_attach_file.vsb?afc=jMmlwDM8CPL4fRMX47aolrVol78M4Q%2FRLmNZMzv4ozAVUNL0gihFp2hmCIa0U1ybLkyiU1yPMl-4U4L4oRNDMzN4LlUYnzC8M4UYMlUDUzVFolUZMzMRUlrFMl7ioRUJv2nto4OYg_IxXJShm_1JJJqIA3qnto1t9SbaQ2CeoDTNpShXptQ0g47aL4U0Lm7DMkbw62K8c&e=.pdf&nid=2164&oid=1632373898&tid=1034"
+      },
+      {
+        "title": "北京交通大学教师名录",
+        "url": "https://faculty.bjtu.edu.cn/10152/"
+      },
+      {
+        "title": "Search Results | Scholarly Articles, Journals, and E-Books | EBSCOhost",
+        "url": "https://openurl.ebsco.com/c/t4a2lo/results?bquery=AU+Shi%2C+Boxin&link_origin=&searchDescription=Shi%2C+Boxin&sid=ebsco%3Aocu%3Arecord"
+      },
+      {
+        "title": "Noname manuscript No.",
+        "url": "https://assets.ctfassets.net/yreyglvi5sud/3kfav7Otv7Z5VDzBZbmfpb/24ca28e4cebcb79e90d370bb9f6cd652/Hong_IJCV24.pdf"
+      },
+      {
+        "title": "Search Results - \"Ma, Tiejun\" :: Library Catalog",
+        "url": "https://iris.sena.edu.co/EDS/Search?lookfor=%22Ma%2C+Tiejun%22&type=Author"
+      }
+    ]
+  },
+  {
+    "id": "Q039",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "引文扩展二",
+    "query": "\"Light Source Separation and Intrinsic Image Decomposition under AC Illumination\"",
+    "candidates": [
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.html"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination - Okayama University",
+        "url": "https://okayama.elsevierpure.com/en/publications/light-source-separation-and-intrinsic-image-decomposition-under-a"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/CVPR2023?day=all"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination | Request PDF",
+        "url": "https://www.researchgate.net/publication/373313962_Light_Source_Separation_and_Intrinsic_Image_Decomposition_under_AC_Illumination"
+      },
+      {
+        "title": "CVPR 2023 开源访问库 - 计算机视觉基金会开放获取",
+        "url": "https://openaccess.thecvf.cn/CVPR2023?day=2023-06-20"
+      },
+      {
+        "title": "CVPR 2023 开源访问库 - 计算机视觉基金会开放获取",
+        "url": "https://openaccess.thecvf.com.cn/CVPR2023?day=2023-06-20"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition",
+        "url": "https://cvpr.thecvf.com/media/cvpr-2023/Slides/21420.pdf"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202302285805994462"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/public/202302285805994462"
+      },
+      {
+        "title": "川原 僚 (Ryo Kawahara) - マイポータル - researchmap",
+        "url": "https://researchmap.jp/kawahara_ryo"
+      },
+      {
+        "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2023, Vancouver, BC, Canada, June 17-24, 2023 - researchr publication",
+        "url": "https://researchr.org/publication/cvpr-2023"
+      },
+      {
+        "title": "dblp: Yusaku Yoshida",
+        "url": "https://dblp.org/pid/11/1553.html"
+      },
+      {
+        "title": "dblp: Takahiro Okabe",
+        "url": "https://dblp.org/pid/83/431"
+      }
+    ]
+  },
+  {
+    "id": "Q040",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "引文扩展二",
+    "query": "\"ChromaFlash\" rolling shutter",
+    "candidates": [
+      {
+        "title": "ChromaFlash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras | Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+        "url": "https://doi.org/10.1145/3678582"
+      },
+      {
+        "title": "GitHub - chai-toronto/chromaflash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras · GitHub",
+        "url": "https://github.com/chai-toronto/chromaflash/"
+      },
+      {
+        "title": "Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Verma_Lumosaic_Hyperspectral_Video_via_Active_Illumination_and_Coded-Exposure_Pixels_CVPR_2026_paper.pdf"
+      },
+      {
+        "title": "University of Toronto's CHAI Lab · GitHub",
+        "url": "https://github.com/chai-toronto"
+      },
+      {
+        "title": "Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Novikov_Color-Encoded_Illumination_for_High-Speed_Volumetric_Scene_Reconstruction_CVPR_2026_paper.pdf"
+      },
+      {
+        "title": "dblp: Ian Ruffolo",
+        "url": "https://dblp.org/pid/387/3725.html"
+      },
+      {
+        "title": "dblp: Ian Ruffolo",
+        "url": "https://dblp1.uni-trier.de/pid/387/3725.html"
+      },
+      {
+        "title": "Research — Toronto Computational Imaging Group",
+        "url": "https://tcig.ca/research"
+      },
+      {
+        "title": "Kiriakos N. Kutulakos",
+        "url": "https://www.csauthors.net/kiriakos-n-kutulakos/"
+      },
+      {
+        "title": "dblp: David B. Lindell",
+        "url": "https://dblp1.uni-trier.de/pid/170/2608.html?view=by-type"
+      },
+      {
+        "title": "dblp: Dhruv Verma",
+        "url": "https://dblp.org/pid/271/8106.html"
+      },
+      {
+        "title": "ChromaFlash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras | Request PDF",
+        "url": "https://www.researchgate.net/publication/383896776_ChromaFlash_Snapshot_Hyperspectral_Imaging_Using_Rolling_Shutter_Cameras"
+      },
+      {
+        "title": "Active Hyperspectral Imaging Using an Event Camera",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Active_Hyperspectral_Imaging_Using_an_Event_Camera_CVPR_2025_paper.pdf"
+      },
+      {
+        "title": "Enabling Wide Adoption of Hyperspectral Imaging | Proceedings of the 12th ACM Multimedia Systems Conference",
+        "url": "https://doi.org/10.1145/3458305.3478465"
+      },
+      {
+        "title": "ORCID",
+        "url": "https://orcid.org/0000-0002-9986-3345"
+      },
+      {
+        "title": "ChromaFlash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras",
+        "url": "https://dhruv-verma.com/docs/ChromaFlash_ACM_IMWUT_2024.pdf"
+      },
+      {
+        "title": "1783.1-152533",
+        "url": "https://repository.hkust.edu.hk/ir/bitstream/1783.1-152533/1/1783.1-152533.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q041",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "引文扩展二",
+    "query": "\"Seeing\" \"ENF\" \"Neuromorphic\" events",
+    "candidates": [
+      {
+        "title": "\"Seeing\" ENF From Neuromorphic Events: Modeling and Robust Estimation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38593011/"
+      },
+      {
+        "title": "\"Seeing\" ENF From Neuromorphic Events: Modeling and Robust Estimation | JoVE Visualize",
+        "url": "https://visualize.jove.com/38593011-seeing-enf-from-neuromorphic-events-modeling-and-robust-estimation"
+      },
+      {
+        "title": "\"Seeing\" Electric Network Frequency From Events",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Seeing_Electric_Network_Frequency_From_Events_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "“Seeing” ENF from Neuromorphic Events: Modeling and Robust Estimation",
+        "url": "https://xlx-creater.github.io/Improved_E-ENF/"
+      },
+      {
+        "title": "“Seeing” ENF From Neuromorphic Events: Modeling and Robust Estimation | Request PDF",
+        "url": "https://www.researchgate.net/publication/379694783_seeing_ENF_From_Neuromorphic_Events_Modeling_and_Robust_Estimation"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Seeing_Electric_Network_Frequency_From_Events_CVPR_2023_paper.html"
+      },
+      {
+        "title": "\"Seeing'' Electric Network Frequency from Events",
+        "url": "https://arxiv.org/abs/2305.02597"
+      },
+      {
+        "title": "Guang Hua 0001 - researchr alias",
+        "url": "https://researchr.org/alias/guang-hua-0001"
+      },
+      {
+        "title": "GitHub - xlx-creater/Improved_E-ENF · GitHub",
+        "url": "https://github.com/xlx-creater/Improved_E-ENF"
+      },
+      {
+        "title": "“Seeing” ENF From Neuromorphic Events: Modeling and Robust Estimation",
+        "url": "https://openalex.org/W4394596445"
+      },
+      {
+        "title": "Lexuan XU | Wuhan University, Wuhan | WHU | Department of Electronic Engineering | Research profile",
+        "url": "https://www.researchgate.net/profile/Lexuan-Xu-2"
+      },
+      {
+        "title": "dblp: Lexuan Xu",
+        "url": "https://dblp.org/pid/355/1696.html"
+      },
+      {
+        "title": "武汉大学 余磊--主页--教师博客",
+        "url": "https://jszy.whu.edu.cn/ly/zh_CN/more/430961/jsjjgd/index.htm"
+      },
+      {
+        "title": "“Seeing” Electric Network Frequency from Events",
+        "url": "https://xlx-creater.github.io/E-ENF/"
+      },
+      {
+        "title": "Published as a conference paper at ICLR 2025",
+        "url": "https://openreview.net/pdf?id=BqtoARyz7Y"
+      },
+      {
+        "title": "Mohsen Hatami1, Lhamo Dorje1, Xiaohua Li1, and Yu Chen1",
+        "url": "https://d197for5662m48.cloudfront.net/documents/publicationstatus/264145/preprint_pdf/fc30bd59d95caea0c6b18b4792074ba5.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q042",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "学术发现",
+    "query": "\"DiffSynth\" \"deflickering\" dataset",
+    "candidates": [
+      {
+        "title": "GitHub - ruiyiw/DiffSynth-Studio · GitHub",
+        "url": "https://github.com/ruiyiw/DiffSynth-Studio"
+      },
+      {
+        "title": "GitHub - kyoungjunpark/DiffSynth-Studio: DiffSynth-Studio · GitHub",
+        "url": "https://github.com/kyoungjunpark/DiffSynth-Studio"
+      },
+      {
+        "title": "DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis",
+        "url": "https://arxiv.org/abs/2308.03463"
+      },
+      {
+        "title": "DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis | Papers With Code",
+        "url": "https://paperswithcode.com/paper/diffsynth-latent-in-iteration-deflickering"
+      },
+      {
+        "title": "GitHub - EndersOwner/DiffSynth-Studio-Ascend: Enjoy the magic of Diffusion models on Ascend NPU! · GitHub",
+        "url": "https://github.com/EndersOwner/DiffSynth-Studio-Ascend"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio: Enjoy the magic of Diffusion models! · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio?from=aiug.cn"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio at futuretoolai.com · GitHub",
+        "url": "https://github.com/modelscope/diffsynth-studio?ref=futuretoolai.com"
+      },
+      {
+        "title": "modelscope/DiffSynth-Studio — Shadowgraph",
+        "url": "https://shadowgraph.io/modelscope/DiffSynth-Studio"
+      },
+      {
+        "title": "DiffSynth Studio v1.2 · modelscope/DiffSynth-Studio Wiki · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio/wiki/DiffSynth-Studio-v1.2"
+      },
+      {
+        "title": "DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis",
+        "url": "https://chywang.github.io/papers/ecml2024.pdf"
+      },
+      {
+        "title": "Paper page - DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis",
+        "url": "https://huggingface.co/papers/2308.03463"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio at afd101f3452c9ecae0c87b79adfa2e22d65ffdc3 · GitHub",
+        "url": "https://ccn.web.tr/web-api/iframe-proxy?url=https%3A%2F%2Fgithub.com%2Fmodelscope%2FDiffSynth-Studio%2Ftree%2Fafd101f3452c9ecae0c87b79adfa2e22d65ffdc3"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio at aitoolnet.com · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio?ref=aitoolnet.com"
+      },
+      {
+        "title": "GitHub - yifanlu0227/DiffSynth-Studio-InfiniCube: Video generation Stage of InfiniCube, implemented in DiffSynth-Studio · GitHub",
+        "url": "https://github.com/yifanlu0227/DiffSynth-Studio-InfiniCube"
+      },
+      {
+        "title": "GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024W/PBDL/papers/Lv_GPT4Motion_Scripting_Physical_Motions_in_Text-to-Video_Generation_via_Blender-Oriented_GPT_CVPRW_2024_paper.pdf"
+      },
+      {
+        "title": "Under review as a conference paper at ICLR 2026",
+        "url": "https://openreview.net/pdf/229c3bd7c55aa52c507466fc3c369473b7b904bf.pdf"
+      },
+      {
+        "title": "A Comprehensive Survey on Text-to-Video Generation",
+        "url": "https://cje.ejournal.org.cn/article/pdf/preview/10.23919/cje.2024.00.151.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q043",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "收束追踪三",
+    "query": "\"FlickerFix\" \"DiffuFlicker\" traffic light dataset",
+    "candidates": [
+      {
+        "title": "DiffuFlicker: Diffusion-based LED Traffic Light Flicker Removal",
+        "url": "https://diffuflicker.github.io/"
+      },
+      {
+        "title": "In Kyu Park's research works | Inha University, Incheon and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/In-Kyu-Park-2105055266"
+      }
+    ]
+  },
+  {
+    "id": "Q044",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "收束追踪三",
+    "query": "\"BurstDeflicker\" \"RIFLE\" \"Bricker\" benchmark",
+    "candidates": [
+      {
+        "title": "(PDF) Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://www.researchgate.net/publication/408237180_Bricker_to_BRACE_A_Bracket_Exposure_RAW_Dataset_and_Restoration_Model_for_Flicker-Banding"
+      }
+    ]
+  },
+  {
+    "id": "Q045",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "收束追踪三",
+    "query": "\"Measurement of temporal light modulation using a hyperspectral camera\" cited",
+    "candidates": [
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - IOPscience",
+        "url": "https://doi.org/10.1088/1361-6501/ae16c7"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - Aalto University's research portal",
+        "url": "https://research.aalto.fi/en/publications/measurement-of-temporal-light-modulation-using-a-hyperspectral-ca/"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - VTT's Research Information Portal",
+        "url": "https://cris.vtt.fi/en/publications/measurement-of-temporal-light-modulation-using-a-hyperspectral-ca/"
+      },
+      {
+        "title": "This is an electronic reprint of the original article.",
+        "url": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/06bdffed-924e-4cda-beb2-4655d43bfcf7/content"
+      },
+      {
+        "title": "ハイパースペクトルカメラを用いた時間的光変調の測定〖JST機械翻訳〗 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+        "url": "https://jglobal.jst.go.jp/public/202602215088670105"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera",
+        "url": "https://aaltodoc.aalto.fi/items/e1b2f67f-8ca1-46af-aa7d-056eee343d73"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202602215088670105"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/public/202602215088670105"
+      },
+      {
+        "title": "Erkki Ikonen's research works | Aalto University, Espoo and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/Erkki-Ikonen-7161445"
+      },
+      {
+        "title": "Superconducting Qubits and Circuit QED (KVANTTI) | Aalto University",
+        "url": "https://www.aalto.fi/en/department-of-applied-physics/superconducting-qubits-and-circuit-qed-kvantti"
+      },
+      {
+        "title": "ORCID",
+        "url": "https://orcid.org/0000-0003-0529-299X"
+      },
+      {
+        "title": "(PDF) Measurement of temporal light modulation using a hyperspectral camera",
+        "url": "https://www.researchgate.net/publication/396843981_Measurement_of_temporal_light_modulation_using_a_hyperspectral_camera"
+      },
+      {
+        "title": "Petri Kärhä's research works | Aalto University, Espoo and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/Petri-Kaerhae-35099692"
+      },
+      {
+        "title": "Measurements of temporally",
+        "url": "https://aaltodoc.aalto.fi/bitstreams/169dbc09-fe6c-481f-9d9f-0a6d7bbe56c5/download"
+      }
+    ]
+  },
+  {
+    "id": "Q046",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "收束追踪三",
+    "query": "\"Light Source Separation and Intrinsic Image Decomposition\" dataset code",
+    "candidates": [
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "Intrinsic Image Decomposition | Papers With Code",
+        "url": "https://paperswithcode.com/task/intrinsic-image-decomposition/codeless?page=2"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.html"
+      },
+      {
+        "title": "ai-conferences/CVPR2023 · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/ai-conferences/CVPR2023/viewer/default/train?p=3"
+      },
+      {
+        "title": "CVPR-2023-24-Papers/sections/2023/main/physics-based-vision-and-shape-from-x.md at main · DmitryRyumin/CVPR-2023-24-Papers · GitHub",
+        "url": "https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/physics-based-vision-and-shape-from-x.md"
+      },
+      {
+        "title": "川原 僚(情報学研究科 情報学専攻知能メディア講座) | 京都大学 教育研究活動データベース",
+        "url": "https://kdb.iimc.kyoto-u.ac.jp/profile/ja.e6ede07679a8a1cf.html"
+      },
+      {
+        "title": "Yusaku Yoshida",
+        "url": "https://www.csauthors.net/yusaku-yoshida/"
+      },
+      {
+        "title": "Takahiro OKABE",
+        "url": "https://www.cc.okayama-u.ac.jp/vi/okabe.jp.html"
+      },
+      {
+        "title": "Kawahara, Ryo(Graduate School of Informatics, Department of Informatics) | Activity Database on Education and Research, Kyoto University",
+        "url": "https://kdb.iimc.kyoto-u.ac.jp/profile/en.e6ede07679a8a1cf.html"
+      },
+      {
+        "title": "dblp: Yusaku Yoshida",
+        "url": "https://dblp.org/pid/11/1553.html"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination - Okayama University",
+        "url": "https://okayama.elsevierpure.com/en/publications/light-source-separation-and-intrinsic-image-decomposition-under-a"
+      },
+      {
+        "title": "Tuesday, June 24",
+        "url": "https://media.icml.cc/Conferences/CVPR2023/CVPR_2023_MainConference_ProgramGuide.pdf"
+      },
+      {
+        "title": "2023 IEEE/CVF Conference on",
+        "url": "https://www.proceedings.com/content/070/070184webtoc.pdf"
+      },
+      {
+        "title": "川原 僚 (Ryo Kawahara) - マイポータル - researchmap",
+        "url": "https://researchmap.jp/kawahara_ryo"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202302285805994462"
+      }
+    ]
+  },
+  {
+    "id": "Q047",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "收束追踪三",
+    "query": "\"AS1163\" \"dithering\" flicker dataset",
+    "candidates": [
+      {
+        "title": "AS1163",
+        "url": "https://look.ams-osram.com/m/30b3ff9b4cc83ae/original/AS1163-PWM-settings-multiple-driving-options.pdf"
+      },
+      {
+        "title": "## 6.",
+        "url": "https://look.ams-osram.com/m/4a02844067225c07/original/AS1163-SAID-Standalone-intelligent-driver.pdf"
+      },
+      {
+        "title": "ams AS1163 Automotive 9-output Stand-Alone Intelligent LED Driver IC LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/products/drivers/led-drivers/ams-as1163-automotive-9-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams OSRAM AS1163 | EBV Elektronik",
+        "url": "https://my.avnet.com/ebv/products/new-products/npi/2025/ams-osram-as1163/"
+      },
+      {
+        "title": "To",
+        "url": "https://www.mouser.lt/datasheet/2/588/AS1163_DS001101_1_00-3569753.pdf"
+      },
+      {
+        "title": "AS1163 & AS1163B Automotive LED Driver ICs - ams OSRAM | Mouser",
+        "url": "https://www.mouser.com/new/ams-osram/ams-osram-as1163-as1163b-ics/"
+      },
+      {
+        "title": "AS1163/AS1163B LED Driver ICs - ams OSRAM | DigiKey",
+        "url": "https://www.digikey.com/en/product-highlight/a/ams/as1163-as1163b-led-driver-ic"
+      },
+      {
+        "title": "ams AS1163 Automotive 9-output Stand-Alone Intelligent LED Driver IC LED Drivers | 艾迈斯欧司朗 ams OSRAM",
+        "url": "https://ams-osram.cn/products/drivers/led-drivers/ams-as1163-automotive-9-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams AS1163B Automotive 6-output Stand-Alone Intelligent LED Driver IC LED Drivers | 艾迈斯欧司朗 ams OSRAM",
+        "url": "https://ams-osram.cn/products/drivers/led-drivers/ams-as1163b-automotive-6-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams AS1163B Automotive 6-output Stand-Alone Intelligent LED Driver IC LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/de/products/drivers/led-drivers/ams-as1163b-automotive-6-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams AS1163B Automotive 6-output Stand-Alone Intelligent LED Driver IC LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/ja/products/drivers/led-drivers/ams-as1163b-automotive-6-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "ams AS1163 Automotive 9-output Stand-Alone Intelligent LED Driver IC LED Drivers | ams OSRAM",
+        "url": "https://ams-osram.com/ja/products/drivers/led-drivers/ams-as1163-automotive-9-output-stand-alone-intelligent-led-driver-ic"
+      },
+      {
+        "title": "GitHub - ams-OSRAM/OSP_aotop: The landing page for the Open System Protocol (OSP) on Arduino with top-level sketches and documentation. · GitHub",
+        "url": "https://github.com/ams-OSRAM/OSP_aotop"
+      }
+    ]
+  },
+  {
+    "id": "Q048",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "相关任务补查",
+    "query": "\"FastBlend\" video deflickering arxiv ModelScope",
+    "candidates": [
+      {
+        "title": "FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier",
+        "url": "https://arxiv.org/abs/2311.09265"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio: Enjoy the magic of Diffusion models! · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio?spm=a2c6h.13046898.publish-article.18.4cc76ffaDnFUnR"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio: Enjoy the magic of Diffusion models! · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio?from=aiug.cn"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio at aitoolnet.com · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio?ref=aitoolnet.com"
+      },
+      {
+        "title": "modelscope/DiffSynth-Studio — Shadowgraph",
+        "url": "https://shadowgraph.io/modelscope/DiffSynth-Studio"
+      },
+      {
+        "title": "GitHub - Konisberg/modelscope-DiffSynth-Studio: Enjoy the magic of Diffusion models! · GitHub",
+        "url": "https://github.com/Konisberg/modelscope-DiffSynth-Studio"
+      },
+      {
+        "title": "DiffSynth-Studio/README.md at main · modelscope/DiffSynth-Studio · GitHub",
+        "url": "https://github.com/modelscope/DiffSynth-Studio/blob/main/README.md"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio at futuretoolai.com · GitHub",
+        "url": "https://github.com/modelscope/diffsynth-studio?ref=futuretoolai.com"
+      },
+      {
+        "title": "GitHub - 6block/DiffSynth-Studio · GitHub",
+        "url": "https://github.com/6block/DiffSynth-Studio"
+      },
+      {
+        "title": "FastBlend: Enhancing Video Stylization Consistency via Model-Free Patch Blending | IJCAI",
+        "url": "https://www.ijcai.org/proceedings/2025/1119"
+      },
+      {
+        "title": "GitHub - yfpeng1234/DSS: Enjoy the magic of Diffusion models! · GitHub",
+        "url": "https://github.com/yfpeng1234/DSS"
+      },
+      {
+        "title": "FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier | alphaXiv",
+        "url": "https://www.alphaxiv.org/abs/2311.09265"
+      },
+      {
+        "title": "GitHub - modelscope/DiffSynth-Studio at afd101f3452c9ecae0c87b79adfa2e22d65ffdc3 · GitHub",
+        "url": "https://ccn.web.tr/web-api/iframe-proxy?url=https%3A%2F%2Fgithub.com%2Fmodelscope%2FDiffSynth-Studio%2Ftree%2Fafd101f3452c9ecae0c87b79adfa2e22d65ffdc3"
+      },
+      {
+        "title": "Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Efficient_Video_Face_Enhancement_with_Enhanced_Spatial-Temporal_Consistency_CVPR_2025_paper.pdf"
+      },
+      {
+        "title": "FastBlend: Enhancing Video Stylization Consistency via Model-Free Patch Blending",
+        "url": "https://chywang.github.io/papers/ijcai2025c.pdf"
+      },
+      {
+        "title": "How to remove the flicker in your video?",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1heuwue"
+      }
+    ]
+  },
+  {
+    "id": "Q049",
+    "date": "2026-09-16",
+    "topic": "快门",
+    "channel": "补充路径",
+    "query": "site:scholar.google.com \"rolling shutter\" \"flicker\"",
+    "candidates": []
+  },
+  {
+    "id": "Q050",
+    "date": "2026-09-16",
+    "topic": "成因",
+    "channel": "收束追踪四",
+    "query": "physical illumination flicker correction dataset rolling shutter -site:reddit.com",
+    "candidates": [
+      {
+        "title": "Rolling Shutter Rectification Dataset",
+        "url": "https://www.cvl.isy.liu.se/en/research/datasets/rs-dataset/"
+      },
+      {
+        "title": "GitHub - AyushJam/iset-lfm: LED Flicker Modeling with ISET · GitHub",
+        "url": "https://github.com/AyushJam/iset-lfm"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/4e60c211b3aec6cf8e4866893931efa6-Abstract-Datasets_and_Benchmarks_Track.html"
+      },
+      {
+        "title": "Rolling Shutter Rectification Dataset",
+        "url": "https://www.cvl.isy.liu.se/research/datasets/rs-dataset/"
+      },
+      {
+        "title": "Paper page - BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://huggingface.co/papers/2510.09996"
+      },
+      {
+        "title": "GitHub - zzh-tech/RSCD: [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes · GitHub",
+        "url": "https://github.com/zzh-tech/RSCD"
+      },
+      {
+        "title": "Rolling Shutter Bundle Adjustment Dataset",
+        "url": "https://www.cvl.isy.liu.se/en/research/datasets/rsba-dataset/"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://arxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding",
+        "url": "https://arxiv.org/abs/2606.29845"
+      },
+      {
+        "title": "BRACE: Bracketed RAW Flicker-Banding Removal | Academic Research",
+        "url": "https://zzh-qwq.github.io/BRACE/"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/overview/2510.09996"
+      },
+      {
+        "title": "Rolling Shutter Bundle Adjustment Dataset",
+        "url": "https://www.cvl.isy.liu.se/research/datasets/rsba-dataset/"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes | alphaXiv",
+        "url": "https://www.alphaxiv.org/abs/2510.09996"
+      },
+      {
+        "title": "MSE analysis for SRGAN-PBAFT technique.",
+        "url": "https://plos.figshare.com/articles/dataset/MSE_analysis_for_SRGAN-PBAFT_technique_/29049435"
+      },
+      {
+        "title": "VDFP: Video Deflickering with Flicker-banding Priors",
+        "url": "https://arxiv.org/abs/2605.21079"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf"
+      },
+      {
+        "title": "EvShutter: Transforming Events for Unconstrained Rolling Shutter Correction",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Erbach_EvShutter_Transforming_Events_for_Unconstrained_Rolling_Shutter_Correction_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "Learning Adaptive Warping for Real-World Rolling Shutter Correction",
+        "url": "https://arxiv.org/abs/2204.13886"
+      },
+      {
+        "title": "22-PID5305653-copyright",
+        "url": "https://www.cs.toronto.edu/~kyros/pubs/18.iccp.rolling-ac.pdf"
+      },
+      {
+        "title": "Figure 3 and Section 4 text",
+        "url": "https://webee.technion.ac.il/people/yoav/publications/Mark%20-%20Rolling%20Shutter%20Imaging%20on%20The%20Electric%20Grid%202018.pdf"
+      },
+      {
+        "title": "FLICKER DETECTION CIRCUIT FOR IMAGING SENSORS THAT EMPLOY ROLLING SHUTTERS - European Patent Office - EP 2356811 B1",
+        "url": "https://data.epo.org/publication-server/rest/v1.2/publication-dates/20140917/patents/EP2356811NWB1/document.pdf"
+      },
+      {
+        "title": "Rolling shutter",
+        "url": "https://en.wikipedia.org/wiki/Rolling_shutter"
+      }
+    ]
+  },
+  {
+    "id": "Q051",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "收束追踪四",
+    "query": "LED flicker radiance simulation dataset light groups",
+    "candidates": [
+      {
+        "title": "GitHub - AyushJam/iset-lfm: LED Flicker Modeling with ISET · GitHub",
+        "url": "https://github.com/AyushJam/iset-lfm"
+      },
+      {
+        "title": "ISET-LFM: A Physics-based Simulation Framework and Dataset for LED Flicker in Automotive Imaging",
+        "url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/38/16/AVM-105"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/ei/articles/38/16/AVM-105"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems - ScienceDire",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352340926004737"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems | LBL ETA Pub",
+        "url": "https://eta-publications.lbl.gov/publications/dataset-describing-two-reference"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/ei/articles/38/16"
+      },
+      {
+        "title": "IS&T | Library",
+        "url": "https://library.imaging.org/articles?keywords=Physics-Based+Simulation&search="
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems | Building & ",
+        "url": "https://bies.lbl.gov/publications/dataset-describing-two-reference"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems",
+        "url": "https://escholarship.org/uc/item/03z1h0g7"
+      },
+      {
+        "title": "ISET-LFM: A Physics-based Simulation Framework and Dataset for LED Flicker in Automotive Imaging",
+        "url": "https://eurekamag.com/research/105/987/105987582.php"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42293446/"
+      },
+      {
+        "title": "Reference Models for Spectral Lighting and Daylight Simulations | Zenodo",
+        "url": "https://zenodo.org/records/20344638"
+      },
+      {
+        "title": "Dryad | Data: iGluSnFR wide-field imaging responses to 2-72 Hz flicker",
+        "url": "https://datadryad.org/dataset/doi%3A10.5061/dryad.vdncjsz42"
+      },
+      {
+        "title": "List of file formats for luminaire radiometric data",
+        "url": "https://en.wikipedia.org/wiki/List_of_file_formats_for_luminaire_radiometric_data"
+      },
+      {
+        "title": "Standard illuminant",
+        "url": "https://en.wikipedia.org/wiki/Standard_illuminant"
+      },
+      {
+        "title": "Radiance (software)",
+        "url": "https://en.wikipedia.org/wiki/Radiance_%28software%29"
+      },
+      {
+        "title": "Flicker (light)",
+        "url": "https://en.wikipedia.org/wiki/Flicker_%28light%29"
+      },
+      {
+        "title": "A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis",
+        "url": "https://arxiv.org/abs/2409.08947"
+      },
+      {
+        "title": "Attention Guided Low-light Image Enhancement with a Large Scale Low-light Simulation Dataset",
+        "url": "https://arxiv.org/abs/1908.00682"
+      },
+      {
+        "title": "Flickering Light Research",
+        "url": "https://www.reddit.com/r/Lighting/comments/1h00w0j"
+      },
+      {
+        "title": "Power-line flicker",
+        "url": "https://en.wikipedia.org/wiki/Power-line_flicker"
+      },
+      {
+        "title": "citeturn94search20 [wordlim: 200] Crawled: 6 months ago; * FlickerSim open source flicker measurement simulator",
+        "url": "https://www.solcept.ch/en/tools/flickersim/"
+      },
+      {
+        "title": "Visible light communication",
+        "url": "https://en.wikipedia.org/wiki/Visible_light_communication"
+      },
+      {
+        "title": "Mitigating flicker noise in high-precision photometry. I -- Characterization of the noise structure, impact on the inferred transit parameters, and predictions ",
+        "url": "https://arxiv.org/abs/2003.07707"
+      },
+      {
+        "title": "Efficient Flicker-Free FEC Codes using Knuth's Balancing Algorithm for VLC",
+        "url": "https://arxiv.org/abs/1908.05798"
+      },
+      {
+        "title": "[Question] How would you begin simulating the intensity of a flickering light or flame as a 1 dimensional array of intensity values?",
+        "url": "https://www.reddit.com/r/Simulated/comments/g8ywsy"
+      },
+      {
+        "title": "PWM Flicker from Reading Lights",
+        "url": "https://www.reddit.com/r/ScreenSensitive/comments/1sy75ge/pwm_flicker_from_reading_lights/"
+      }
+    ]
+  },
+  {
+    "id": "Q052",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "收束追踪四",
+    "query": "\"Rolling Shutter Imaging on the Electric Grid\" \"dataset\"",
+    "candidates": [
+      {
+        "title": "Mark Sheinin",
+        "url": "https://www.csauthors.net/mark-sheinin/"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "Tuesday, June 24",
+        "url": "https://cvpr2018.thecvf.com/files/CVPR_2018_Pocket_Guide_Main_Conference_Final_merged.pdf"
+      },
+      {
+        "title": "Kiriakos N. Kutulakos",
+        "url": "https://www.csauthors.net/kiriakos-n-kutulakos/"
+      },
+      {
+        "title": "(PDF) BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+        "url": "https://www.researchgate.net/publication/396458298_BurstDeflicker_A_Benchmark_Dataset_for_Flicker_Removal_in_Dynamic_Scenes"
+      },
+      {
+        "title": "(PDF) \"Seeing'' Electric Network Frequency from Events",
+        "url": "https://www.researchgate.net/publication/370524437_Seeing%27%27_Electric_Network_Frequency_from_Events"
+      },
+      {
+        "title": "“Seeing” Electric Network Frequency from Events",
+        "url": "https://xlx-creater.github.io/E-ENF/"
+      },
+      {
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker",
+        "url": "https://thrlvemurket.com/?_=%2Fpdf%2F2510.09996%232LHwtQTrZ4XkLaecG94sHNc%3D"
+      },
+      {
+        "title": "Degeneracies in rolling shutter SfM",
+        "url": "https://eurekamag.com/research/107/962/107962588.php"
+      },
+      {
+        "title": "Rolling shutter motion deblurring",
+        "url": "https://www.researchgate.net/publication/308813786_Rolling_shutter_motion_deblurring"
+      },
+      {
+        "title": "CVPR 2017 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/CVPR2017"
+      },
+      {
+        "title": "Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect",
+        "url": "https://www.readkong.com/page/invisible-perturbations-physical-adversarial-examples-6283554"
+      },
+      {
+        "title": "(PDF) A super resolution generative adversarial networks and partition-based adaptive filtering technique for detect and remove flickers in digital color images",
+        "url": "https://www.researchgate.net/publication/391671733_A_super_resolution_generative_adversarial_networks_and_partition-based_adaptive_filtering_technique_for_detect_and_remove_flickers_in_digital_color_images"
+      },
+      {
+        "title": "This paper appears at CVPR 2021",
+        "url": "https://pages.cs.wisc.edu/~chatterjee/papers/cvpr21-invis-perturb.pdf"
+      },
+      {
+        "title": "Video from Stills: Lensless Imaging with Rolling Shutter | Request PDF",
+        "url": "https://www.researchgate.net/publication/334070549_Video_from_Stills_Lensless_Imaging_with_Rolling_Shutter"
+      },
+      {
+        "title": "CVPR2017",
+        "url": "https://cvpr2017.thecvf.com/program/main_conference"
+      }
+    ]
+  },
+  {
+    "id": "Q053",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "收束追踪四",
+    "query": "\"hyperspectral\" \"temporal light modulation\" dataset",
+    "candidates": [
+      {
+        "title": "This is an electronic reprint of the original article.",
+        "url": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/06bdffed-924e-4cda-beb2-4655d43bfcf7/content"
+      },
+      {
+        "title": "Superconducting Qubits and Circuit QED - Aalto University's research portal",
+        "url": "https://research.aalto.fi/en/organisations/superconducting-qubits-and-circuit-qed/"
+      },
+      {
+        "title": "Ville Mantela | Aalto-yliopisto",
+        "url": "https://www.aalto.fi/fi/ihmiset/ville-mantela"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - IOPscience",
+        "url": "https://doi.org/10.1088/1361-6501/ae16c7"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera",
+        "url": "https://aaltodoc.aalto.fi/items/e1b2f67f-8ca1-46af-aa7d-056eee343d73"
+      },
+      {
+        "title": "ハイパースペクトルカメラを用いた時間的光変調の測定〖JST機械翻訳〗 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター",
+        "url": "https://jglobal.jst.go.jp/public/202602215088670105"
+      },
+      {
+        "title": "Petri Kärhä | Aalto University",
+        "url": "https://www.aalto.fi/en/people/petri-karha"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - Aalto University's research portal",
+        "url": "https://research.aalto.fi/en/publications/measurement-of-temporal-light-modulation-using-a-hyperspectral-ca/"
+      },
+      {
+        "title": "Petri Kärhä | Aalto-yliopisto",
+        "url": "https://www.aalto.fi/fi/ihmiset/petri-karha"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202602215088670105"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/public/202602215088670105"
+      },
+      {
+        "title": "Ville Mantela | Aalto-universitetet",
+        "url": "https://www.aalto.fi/sv/personer/ville-mantela"
+      },
+      {
+        "title": "Measurement of temporal light modulation using a hyperspectral camera - VTT's Research Information Portal",
+        "url": "https://cris.vtt.fi/en/publications/measurement-of-temporal-light-modulation-using-a-hyperspectral-ca/"
+      },
+      {
+        "title": "Measurements of temporally",
+        "url": "https://aaltodoc.aalto.fi/bitstreams/169dbc09-fe6c-481f-9d9f-0a6d7bbe56c5/download"
+      },
+      {
+        "title": "20NRM01 MetTLM",
+        "url": "https://www.vsl.nl/wp-content/uploads/2025/06/20NRM01_MetTLM_M27_Publishable_Summary_accepted.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q054",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "收束追踪四",
+    "query": "\"FlickerFix\" \"flicker\" \"2026\"",
+    "candidates": [
+      {
+        "title": "KCI 국내학술지 인용색인 정보 포털입니다.",
+        "url": "https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=001531&volIsseId=VOL000190444"
+      },
+      {
+        "title": "In Kyu Park's research works | Inha University, Incheon and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/In-Kyu-Park-2105055266"
+      },
+      {
+        "title": "www.palmopensource.com - The PalmOS WebOS Open Source Portal - Details: Flickerfix DA",
+        "url": "https://palmopensource.com/palmdb.php?more=462"
+      },
+      {
+        "title": "550+ Catchy Electrolysis Business Name Ideas [2026]",
+        "url": "https://grindsuccess.com/electrolysis-business-name-ideas/"
+      },
+      {
+        "title": "Aperture in Motion: How f-stops Shape Animation Photography | Frame & Focal",
+        "url": "https://frameandfocal.com/shooting-techniques/animation-simple-lesson-aperture-photography"
+      },
+      {
+        "title": "6,143+ Video Business Name Ideas & Generator",
+        "url": "https://namefatso.com/blog/video-business-name-ideas"
+      },
+      {
+        "title": "500+ Catchy Video Editing YouTube Channel Name Ideas | PodQuake",
+        "url": "https://podquake.com/video-editing-youtube-channel-name-ideas"
+      }
+    ]
+  },
+  {
+    "id": "Q055",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "收束追踪四",
+    "query": "\"DiffuFlicker\" \"Bricker\" \"dataset\"",
+    "candidates": []
+  },
+  {
+    "id": "Q056",
+    "date": "2026-09-16",
+    "topic": "驱动",
+    "channel": "收束追踪五",
+    "query": "\"flicker\" \"LED\" \"waveform dataset\" calibration",
+    "candidates": [
+      {
+        "title": "Lamps Version 2 1 Draft Comment Matrix WORKING.xls",
+        "url": "https://www.energystar.gov/sites/default/files/Lamps%20Version%202%201%20Draft%20-%20Comment%20Summary%20and%20Response.pdf"
+      },
+      {
+        "title": "Temporal Light Modulation Guide | PDF | Computers",
+        "url": "https://www.scribd.com/document/608954675/CIE-TN-012-2021"
+      },
+      {
+        "title": "Optimization of Convolutional Neural Networks for Classifying Power Quality Disturbances Using Wavelet Synchrosqueezed Transform | IIETA",
+        "url": "https://iieta.org/journals/ts/paper/10.18280/ts.410205"
+      },
+      {
+        "title": "ENERGY STAR Lamp Program Requirements: Partner Commitments",
+        "url": "https://studylib.net/doc/26044117/energy-star-lamps-v2.1-final-specification-1"
+      },
+      {
+        "title": "Nexus 1500 manual - Electro Industries",
+        "url": "https://paperzz.com/doc/8371839/nexus-1500-manual---electro-industries"
+      },
+      {
+        "title": "Using synthetic data for pretraining partial discharge detection in overhead transmission lines | Scientific Reports",
+        "url": "https://www.nature.com/articles/s41598-025-32642-2"
+      },
+      {
+        "title": "DOI: 10.25039/TN.012.2021",
+        "url": "https://www.cms.cnc-cie.ca/images/documents/TNandPS/CIE_TN012_2021.pdf"
+      },
+      {
+        "title": "Nexus 1500+ Power Quality Meter User Manual",
+        "url": "https://manualzilla.com/doc/5982394/nexus-1500--power-quality-meter-user-manual"
+      },
+      {
+        "title": "Document 404265",
+        "url": "https://abcdocz.com/doc/404265/"
+      },
+      {
+        "title": "Frontiers | Rod and Cone Coupling Modulates Photopic ERG Responses in the Mouse Retina",
+        "url": "https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2020.566712/full"
+      },
+      {
+        "title": "Gough's Tech Zone | Reversing the mindless enslavement of humans by technology. | Page 131",
+        "url": "https://goughlui.com/page/131/"
+      },
+      {
+        "title": "A real-time multimodal framework for driver behavior recognition using transformer and reinforcement learning | Journal of Big Data | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1186/s40537-026-01463-z"
+      },
+      {
+        "title": "User Manual - software",
+        "url": "https://doczz.net/doc/1786811/user-manual"
+      },
+      {
+        "title": "Change Log — jwst 3.1.0.dev88+gae1002582 documentation",
+        "url": "https://st-jwst.readthedocs.io/en/latest/jwst/changes.html"
+      },
+      {
+        "title": "PWM Flicker from Reading Lights",
+        "url": "https://www.reddit.com/r/ScreenSensitive/comments/1sy75ge/pwm_flicker_from_reading_lights/"
+      }
+    ]
+  },
+  {
+    "id": "Q057",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "收束追踪五",
+    "query": "\"full-spectral lighting\" \"reference models\" temporal flicker",
+    "candidates": [
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems - ScienceDire",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352340926004737"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems | Building & ",
+        "url": "https://bies.lbl.gov/publications/dataset-describing-two-reference"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems | LBL ETA Pub",
+        "url": "https://eta-publications.lbl.gov/publications/dataset-describing-two-reference"
+      },
+      {
+        "title": "Reference Models for Spectral Lighting and Daylight Simulations | Zenodo",
+        "url": "https://zenodo.org/records/20344638"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42293446/"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems",
+        "url": "https://escholarship.org/uc/item/03z1h0g7"
+      },
+      {
+        "title": "Energy Technologies Area | LBL ETA Publications",
+        "url": "https://eta-publications.lbl.gov/organization/energy-technologies-area"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems | Request PDF",
+        "url": "https://www.researchgate.net/publication/405697879_Dataset_describing_two_reference_models_for_full-spectral_lighting_and_daylight_simulations_together_with_implementations_for_two_software_systems"
+      },
+      {
+        "title": "Building & Industrial Energy Systems Division | LBL ETA Publications",
+        "url": "https://eta-publications.lbl.gov/organization/building-industrial-energy-systems"
+      },
+      {
+        "title": "Dataset describing two reference models for full-spectral lighting and daylight simulations together with implementations for two software systems",
+        "url": "https://openalex.org/W7163021866"
+      },
+      {
+        "title": "Publications | Energy Technologies Area",
+        "url": "https://eta.lbl.gov/publications"
+      },
+      {
+        "title": "Publications | Building & Industrial Energy Systems Division",
+        "url": "https://bies.lbl.gov/publications"
+      }
+    ]
+  },
+  {
+    "id": "Q058",
+    "date": "2026-09-16",
+    "topic": "论文",
+    "channel": "收束追踪五",
+    "query": "\"FlickerFix\" \"DiffuFlicker\" \"dataset\" PWM",
+    "candidates": [
+      {
+        "title": "In Kyu Park's research works | Inha University, Incheon and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/In-Kyu-Park-2105055266"
+      }
+    ]
+  },
+  {
+    "id": "Q059",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "收束追踪六",
+    "query": "\"spectral\" \"temporal light modulation\" \"dataset\" camera",
+    "candidates": [
+      {
+        "title": "US12526900B1 – Identifying, recording, encoding, and reproducing electromagnetic radiation | Patsnap Eureka",
+        "url": "https://eureka.patsnap.com/patent/US12526900B1"
+      },
+      {
+        "title": "Project",
+        "url": "https://www.vsl.nl/en/mettlm/project/"
+      },
+      {
+        "title": "Results - VSL",
+        "url": "https://www.vsl.nl/en/mettlm/results/"
+      },
+      {
+        "title": "20NRM01 MetTLM",
+        "url": "https://www.euramet.org/download?cHash=115d3bfcd6620a960636e52e0c4ff9c5&tx_eurametfiles_download%5Baction%5D=download&tx_eurametfiles_download%5Bcontroller%5D=File&tx_eurametfiles_download%5Bfiles%5D=43571&tx_eurametfiles_download%5Bidentifier%5D=%252Fdocs%252FEMRP%252FJRP%252FJRP_Summaries_2020%252FNormative%252F20NRM01_Publishable_Summary.pdf"
+      },
+      {
+        "title": "Petri Kärhä - Aalto-yliopiston tutkimusportaaliin",
+        "url": "https://research.aalto.fi/fi/persons/petri-k%C3%A4rh%C3%A4"
+      },
+      {
+        "title": "US12526900B1 - Identifying, recording, encoding, and reproducing electromagnetic radiation - Google Patents",
+        "url": "https://patents.google.com/patent/US12526900B1"
+      },
+      {
+        "title": "Visibility and annoyance of the phantom array effect varies with age and history of migraine - NJ Miller, L Irvin, M Royer, C Strachan, 2024",
+        "url": "https://journals.sagepub.com/doi/10.1177/14771535241288783"
+      },
+      {
+        "title": "Metrology for temporal light modulation",
+        "url": "https://www.euramet.org/project-20nrm01"
+      },
+      {
+        "title": "Anders Thorseth - Welcome to DTU Research Database",
+        "url": "https://orbit.dtu.dk/en/persons/anders-thorseth/"
+      },
+      {
+        "title": "Temporal Light Modulation Guide | PDF | Computers",
+        "url": "https://www.scribd.com/document/608954675/CIE-TN-012-2021"
+      },
+      {
+        "title": "Archive ouverte HAL",
+        "url": "https://cv.hal.science/christophe-martinsons"
+      },
+      {
+        "title": "Metrology for temporal light modulation",
+        "url": "https://www.euramet.org/research-innovation/search-research-projects/details/project/metrology-for-temporal-light-modulation"
+      },
+      {
+        "title": "SSI to CRI Converter — studio LED estimator | Studio LED Shootout",
+        "url": "https://www.ledshootout.com/tools/ssi-to-cri-converter"
+      },
+      {
+        "title": "20NRM01 MetTLM",
+        "url": "https://www.vsl.nl/wp-content/uploads/2025/06/20NRM01_MetTLM_M27_Publishable_Summary_accepted.pdf"
+      },
+      {
+        "title": "FINAL PUBLISHABLE REPORT",
+        "url": "https://www.vsl.nl/wp-content/uploads/2025/06/20NRM01_Final_Publishable_Report.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q060",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "收束追踪六",
+    "query": "\"ISET-LFM\" \"BurstDeflicker\" \"flicker\" dataset",
+    "candidates": []
+  },
+  {
+    "id": "Q061",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "收束追踪六",
+    "query": "\"AC illumination\" \"light source separation\" dataset flicker",
+    "candidates": [
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "川原 僚(情報学研究科 情報学専攻知能メディア講座) | 京都大学 教育研究活動データベース",
+        "url": "https://kdb.iimc.kyoto-u.ac.jp/profile/ja.e6ede07679a8a1cf.html"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.html"
+      },
+      {
+        "title": "Yusaku Yoshida",
+        "url": "https://www.csauthors.net/yusaku-yoshida/"
+      },
+      {
+        "title": "VISAPP_2020_219_CR.dvi",
+        "url": "https://www.scitepress.org/Papers/2020/91508/91508.pdf"
+      },
+      {
+        "title": "2023 IEEE/CVF Conference",
+        "url": "https://shpylgoreih.fr/documents/CVPR_2023_Table_of_Contents.pdf"
+      },
+      {
+        "title": "dblp: Yusaku Yoshida",
+        "url": "https://dblp.org/pid/11/1553.html"
+      },
+      {
+        "title": "Computational Imaging on the Electric Grid - Technion - Israel Institute of Technology",
+        "url": "https://cris.technion.ac.il/en/publications/computational-imaging-on-the-electric-grid-3/"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition",
+        "url": "https://cvpr.thecvf.com/media/cvpr-2023/Slides/21420.pdf"
+      },
+      {
+        "title": "Takahiro OKABE",
+        "url": "https://www.cc.okayama-u.ac.jp/vi/okabe.jp.html"
+      },
+      {
+        "title": "NMF vs. ICA for Light Source Separation under AC Illumination - VISIGRAPP 2020",
+        "url": "https://www.insticc.org/node/TechnicalProgram/visigrapp/2020/presentationDetails/91508"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination - Okayama University",
+        "url": "https://okayama.elsevierpure.com/en/publications/light-source-separation-and-intrinsic-image-decomposition-under-a"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/public/202302285805994462"
+      },
+      {
+        "title": "川原 僚 (Ryo Kawahara) - マイポータル - researchmap",
+        "url": "https://researchmap.jp/kawahara_ryo"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination | Article Information | J-GLOBAL",
+        "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202302285805994462"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decompositio...",
+        "url": "https://bytez.com/docs/cvpr/21420/paper"
+      }
+    ]
+  },
+  {
+    "id": "Q062",
+    "date": "2026-09-16",
+    "topic": "数据",
+    "channel": "最终收束复核",
+    "query": "\"FlickerFix: Flicker Removal\" \"dataset\"",
+    "candidates": [
+      {
+        "title": "FlickerFix: Flicker Removal for LED Traffic Lights in Dashcam Videos",
+        "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003275652"
+      },
+      {
+        "title": "Sujin Kim et al.: FlickerFix: Flicker Removal for LED Traffic Lights in Dashcam Videos 1187",
+        "url": "https://www.kibme.org/resources/journal/20251222144147743.pdf"
+      },
+      {
+        "title": "DBPIA-NURIMEDIA",
+        "url": "https://ksbe-jbe.org/xml/47509/47509.pdf"
+      },
+      {
+        "title": "FlickerFix: Flicker Removal for LED Traffic Lights in Dashcam Videos - 방송공학회 논문지 - 한국방송∙미디어공학회 - KISS",
+        "url": "https://kiss.kstudy.com/DetailOa/Ar?key=54671807"
+      },
+      {
+        "title": "FlickerFix: Flicker Removal for LED Traffic Lights in Dashcam Videos - 방송공학회논문지 : 논문 | DBpia",
+        "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12501343"
+      },
+      {
+        "title": "FlickerFix: Flicker Removal for LED Traffic Lights in Dashcam Videos | 논문 | 디지털집현전",
+        "url": "https://k-knowledge.kr/srch/read.jsp?id=280611691"
+      },
+      {
+        "title": "Journal of Broadcast Engineering",
+        "url": "https://ksbe-jbe.org/_common/do.php?a=current&aidx=47509&b=11&bidx=4290"
+      },
+      {
+        "title": "In Kyu Park's research works | Inha University, Incheon and other places",
+        "url": "https://www.researchgate.net/scientific-contributions/In-Kyu-Park-2105055266"
+      }
+    ]
+  },
+  {
+    "id": "Q063",
+    "date": "2026-09-16",
+    "topic": "材质",
+    "channel": "最终收束复核",
+    "query": "\"Light source separation\" \"AC illumination\" 2020 2023 dataset",
+    "candidates": [
+      {
+        "title": "川原 僚(情報学研究科 情報学専攻知能メディア講座) | 京都大学 教育研究活動データベース",
+        "url": "https://kdb.iimc.kyoto-u.ac.jp/profile/ja.e6ede07679a8a1cf.html"
+      },
+      {
+        "title": "CVPR 2023 开源访问库 - 计算机视觉基金会开放获取",
+        "url": "https://openaccess.thecvf.cn/CVPR2023?day=2023-06-20"
+      },
+      {
+        "title": "Yusaku Yoshida",
+        "url": "https://www.csauthors.net/yusaku-yoshida/"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.html"
+      },
+      {
+        "title": "CVPR 2023 Open Access Repository",
+        "url": "https://openaccess.thecvf.com/CVPR2023?day=all"
+      },
+      {
+        "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf"
+      },
+      {
+        "title": "2023 IEEE/CVF Conference",
+        "url": "https://shpylgoreih.fr/documents/CVPR_2023_Table_of_Contents.pdf"
+      },
+      {
+        "title": "ai-conferences/CVPR2023 · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/ai-conferences/CVPR2023/viewer/default/train?p=3"
+      },
+      {
+        "title": "dblp: Yusaku Yoshida",
+        "url": "https://dblp.org/pid/11/1553.html"
+      },
+      {
+        "title": "Tuesday, June 24",
+        "url": "https://media.icml.cc/Conferences/CVPR2023/CVPR_2023_MainConference_ProgramGuide.pdf"
+      },
+      {
+        "title": "Takahiro OKABE",
+        "url": "https://www.cc.okayama-u.ac.jp/vi/okabe.jp.html"
+      },
+      {
+        "title": "Ryo Matsuoka",
+        "url": "https://www.csauthors.net/ryo-matsuoka/"
+      },
+      {
+        "title": "川原 僚 (Ryo Kawahara) - マイポータル - researchmap",
+        "url": "https://researchmap.jp/kawahara_ryo"
+      },
+      {
+        "title": "dblp: VISIGRAPP 2020: VISAPP",
+        "url": "https://dblp.uni-trier.de/db/conf/visapp/visapp2020-1.html"
+      },
+      {
+        "title": "dblp: VISIGRAPP 2020: VISAPP",
+        "url": "https://dblp.org/db/conf/visapp/visapp2020-1.html"
+      },
+      {
+        "title": "VISAPP_2020_219_CR.dvi",
+        "url": "https://www.scitepress.org/PublishedPapers/2020/91508/91508.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q064",
+    "date": "2026-09-16",
+    "topic": "光谱",
+    "channel": "最终收束复核",
+    "query": "\"Reference Models for Spectral Lighting\" \"temporal\"",
+    "candidates": [
+      {
+        "title": "(PDF) Modeling Wavelength-dependent BRDFs as Factored Tensors for Real-time Spectral Rendering.",
+        "url": "https://www.researchgate.net/publication/220868819_Modeling_Wavelength-dependent_BRDFs_as_Factored_Tensors_for_Real-time_Spectral_Rendering"
+      },
+      {
+        "title": "IEA SHC || SHC Reports",
+        "url": "https://pubs.iea-shc.org/reports"
+      },
+      {
+        "title": "(PDF) IEA SHC Task 61 / EBC Annex 77 Subtask C3 “Spectral sky models for advanced daylight simulations”",
+        "url": "https://www.researchgate.net/publication/359108553_IEA_SHC_Task_61_EBC_Annex_77_Subtask_C3_Spectral_sky_models_for_advanced_daylight_simulations"
+      },
+      {
+        "title": "(PDF) Spectral Rendering with Daylight: A Comparison of Two Spectral Daylight Simulation Platforms",
+        "url": "https://www.researchgate.net/publication/335700239_Spectral_Rendering_with_Daylight_A_Comparison_of_Two_Spectral_Daylight_Simulation_Platforms"
+      },
+      {
+        "title": "(PDF) A framework to generate local spectral skies for spectral daylight simulations",
+        "url": "https://www.researchgate.net/publication/376153439_A_framework_to_generate_local_spectral_skies_for_spectral_daylight_simulations"
+      },
+      {
+        "title": "Building, room and user level simulation workflows. Building level is... | Download Scientific Diagram",
+        "url": "https://www.researchgate.net/figure/Building-room-and-user-level-simulation-workflows-Building-level-is-more-suitable-for_fig2_366516856"
+      },
+      {
+        "title": "(PDF) Assessing the Accuracy of Multispectral Simulation Tools for Predicting Non-Visual Lighting Metrics in Sports Hall Building",
+        "url": "https://www.researchgate.net/publication/410591006_Assessing_the_Accuracy_of_Multispectral_Simulation_Tools_for_Predicting_Non-Visual_Lighting_Metrics_in_Sports_Hall_Building?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJpbnN0aXR1dGlvbiIsInByZXZpb3VzUGFnZSI6bnVsbCwic3ViUGFnZSI6bnVsbH19"
+      },
+      {
+        "title": "The Physics of Color: Emulating Sodium Vapour Lights in Digital | ReelMind",
+        "url": "https://reelmind.ai/blog/the-physics-of-color-emulating-sodium-vapour-lights-in-digital-cinematography"
+      },
+      {
+        "title": "Simulations of non-image-forming effects of light in building design: A literature review - M Gkaintatzi-Masouti, J van Duijnhoven, MPJ Aarts, 2023",
+        "url": "https://journals.sagepub.com/doi/10.1177/14771535221142812"
+      },
+      {
+        "title": "Daily arXiv Papers - 2025-12-24",
+        "url": "https://blog.yueqianlin.com/daily-publication/251224/"
+      },
+      {
+        "title": "U.S. Patent for Systems and methods for AI-gating photonic emission control for multimodal applications Patent (Patent # 12,635,045 issued May 19, 2026) - Justi",
+        "url": "https://patents.justia.com/patent/12635045"
+      },
+      {
+        "title": "(PDF) LED Degradation Monitoring Using a Multi-Channel Spectral Sensor",
+        "url": "https://www.researchgate.net/publication/379058809_LED_degradation_monitoring_using_a_multi-channel_spectral_sensor"
+      }
+    ]
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "seedQuery": "BurstDeflicker",
+    "searchUrl": "https://api.openalex.org/works?search=BurstDeflicker&per-page=3&filter=to_publication_date%3A2026-09-16",
+    "candidates": [
+      {
+        "id": "https://openalex.org/W7196971910",
+        "doi": "https://doi.org/10.52202/085713-1821",
+        "title": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes"
+      },
+      {
+        "id": "https://openalex.org/W7140953635",
+        "doi": null,
+        "title": "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal"
+      }
+    ],
+    "citing": [],
+    "selectedId": "W7196971910",
+    "selectedTitle": "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes",
+    "citingUrl": "https://api.openalex.org/works?filter=cites%3AW7196971910%2Cto_publication_date%3A2026-09-16&per-page=100",
+    "citingTotal": 0
+  },
+  {
+    "seedQuery": "ISET-LFM",
+    "searchUrl": "https://api.openalex.org/works?search=ISET-LFM&per-page=3&filter=to_publication_date%3A2026-09-16",
+    "candidates": [
+      {
+        "id": "https://openalex.org/W7133199137",
+        "doi": "https://doi.org/10.2352/ei.2026.38.16.avm-105",
+        "title": "ISET-LFM: A Physics-based Simulation Framework and Dataset for LED Flicker in Automotive Imaging"
+      },
+      {
+        "id": "https://openalex.org/W7125907332",
+        "doi": "https://doi.org/10.25740/wd776hn7919",
+        "title": "ISET-LFM: A Physics-based Synthetic Radiance Dataset for LED Flicker Mitigation in Automotive Imaging"
+      },
+      {
+        "id": "https://openalex.org/W2085151729",
+        "doi": "https://doi.org/10.2991/iset-15.2015.39",
+        "title": "2-D DOA Estimation of LFM Signals Based on Sparse Representation in Fractional Fourier Domain"
+      }
+    ],
+    "citing": [],
+    "selectedId": "W7133199137",
+    "selectedTitle": "ISET-LFM: A Physics-based Simulation Framework and Dataset for LED Flicker in Automotive Imaging",
+    "citingUrl": "https://api.openalex.org/works?filter=cites%3AW7133199137%2Cto_publication_date%3A2026-09-16&per-page=100",
+    "citingTotal": 0
+  },
+  {
+    "seedQuery": "Computational Imaging on the Electric Grid",
+    "searchUrl": "https://api.openalex.org/works?search=Computational+Imaging+on+the+Electric+Grid&per-page=3&filter=to_publication_date%3A2026-09-16",
+    "candidates": [
+      {
+        "id": "https://openalex.org/W2749252755",
+        "doi": "https://doi.org/10.1109/cvpr.2017.254",
+        "title": "Computational Imaging on the Electric Grid"
+      },
+      {
+        "id": "https://openalex.org/W3116578724",
+        "doi": "https://doi.org/10.1021/acs.chemrev.0c00767",
+        "title": "Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization"
+      },
+      {
+        "id": "https://openalex.org/W2918212426",
+        "doi": "https://doi.org/10.1109/tpami.2019.2903035",
+        "title": "Computational Imaging on the Electric Grid"
+      }
+    ],
+    "citing": [
+      {
+        "id": "https://openalex.org/W2799192307",
+        "doi": "https://doi.org/10.1109/cvpr.2018.00182",
+        "title": "A High-Quality Denoising Dataset for Smartphone Cameras"
+      },
+      {
+        "id": "https://openalex.org/W3189845786",
+        "doi": "https://doi.org/10.1109/tpami.2021.3103114",
+        "title": "Physics-based Noise Modeling for Extreme Low-light Photography"
+      },
+      {
+        "id": "https://openalex.org/W3114414588",
+        "doi": "https://doi.org/10.1109/tste.2020.3047137",
+        "title": "A Multi-Step Unified Reinforcement Learning Method for Automatic Generation Control in Multi-Area Interconnected Power Grid"
+      },
+      {
+        "id": "https://openalex.org/W4280524478",
+        "doi": "https://doi.org/10.1109/jproc.2022.3175070",
+        "title": "Massively Digitized Power Grid: Opportunities and Challenges of Use-Inspired AI"
+      },
+      {
+        "id": "https://openalex.org/W2940576870",
+        "doi": "https://doi.org/10.1109/peci.2019.8698780",
+        "title": "Spectral Clustering for Customer Phase Identification Using AMI Voltage Timeseries"
+      },
+      {
+        "id": "https://openalex.org/W2749252755",
+        "doi": "https://doi.org/10.1109/cvpr.2017.254",
+        "title": "Computational Imaging on the Electric Grid"
+      },
+      {
+        "id": "https://openalex.org/W3005465447",
+        "doi": "https://doi.org/10.1109/pvsc40753.2019.8980833",
+        "title": "Identifying Common Errors in Distribution System Models"
+      },
+      {
+        "id": "https://openalex.org/W3138207065",
+        "doi": "https://doi.org/10.1109/oajpe.2021.3067632",
+        "title": "Assessment of Measurement-Based Phase Identification Methods"
+      },
+      {
+        "id": "https://openalex.org/W3034100437",
+        "doi": "https://doi.org/10.1049/iet-stg.2019.0280",
+        "title": "Phase identification using co‐association matrix ensemble clustering"
+      },
+      {
+        "id": "https://openalex.org/W4386047803",
+        "doi": "https://doi.org/10.1109/cvpr52729.2023.01728",
+        "title": "“Seeing” Electric Network Frequency from Events"
+      },
+      {
+        "id": "https://openalex.org/W4395669080",
+        "doi": "https://doi.org/10.1007/s11263-024-02073-z",
+        "title": "Light Flickering Guided Reflection Removal"
+      },
+      {
+        "id": "https://openalex.org/W4402727042",
+        "doi": "https://doi.org/10.1109/cvpr52733.2024.02362",
+        "title": "Generalized Event Cameras"
+      },
+      {
+        "id": "https://openalex.org/W4394596445",
+        "doi": "https://doi.org/10.1109/tpami.2024.3386813",
+        "title": "“Seeing” ENF From Neuromorphic Events: Modeling and Robust Estimation"
+      },
+      {
+        "id": "https://openalex.org/W2894897083",
+        "doi": "https://doi.org/10.1007/978-3-030-01219-9_4",
+        "title": "Coded Two-Bucket Cameras for Computer Vision"
+      },
+      {
+        "id": "https://openalex.org/W2895076274",
+        "doi": "https://doi.org/10.1007/978-3-030-01267-0_32",
+        "title": "Revisiting Autofocus for Smartphone Cameras"
+      },
+      {
+        "id": "https://openalex.org/W2954149779",
+        "doi": "https://doi.org/10.1109/cvpr.2019.01261",
+        "title": "Dichromatic Model Based Temporal Color Constancy for AC Light Sources"
+      },
+      {
+        "id": "https://openalex.org/W2806597708",
+        "doi": "https://doi.org/10.1109/iccphot.2018.8368472",
+        "title": "Rolling shutter imaging on the electric grid"
+      },
+      {
+        "id": "https://openalex.org/W2808599922",
+        "doi": "https://doi.org/10.1109/tcsvt.2018.2846695",
+        "title": "Light Invariant Video Imaging for Improved Performance of Convolution Neural Networks"
+      },
+      {
+        "id": "https://openalex.org/W4411031222",
+        "doi": "https://doi.org/10.1145/3742892",
+        "title": "Noise-Coded Illumination for Forensic and Photometric Video Analysis"
+      },
+      {
+        "id": "https://openalex.org/W3188080448",
+        "doi": "https://doi.org/10.1109/tip.2021.3100550",
+        "title": "Deep Dichromatic Model Estimation Under AC Light Sources"
+      },
+      {
+        "id": "https://openalex.org/W3096856316",
+        "doi": "https://doi.org/10.1007/978-3-030-58536-5_1",
+        "title": "Diffraction Line Imaging"
+      },
+      {
+        "id": "https://openalex.org/W4390872463",
+        "doi": "https://doi.org/10.1109/iccv51070.2023.00975",
+        "title": "Panoramas from Photons"
+      },
+      {
+        "id": "https://openalex.org/W4210539710",
+        "doi": "https://doi.org/10.1109/access.2022.3147252",
+        "title": "Deep Spatio-Temporal Illuminant Estimation Under Time-Varying AC Lights"
+      },
+      {
+        "id": "https://openalex.org/W4323020811",
+        "doi": "https://doi.org/10.1109/access.2023.3249779",
+        "title": "Deep Highlight Removal Using Temporal Dark Prior in High-Speed Domain"
+      },
+      {
+        "id": "https://openalex.org/W4376132485",
+        "doi": "https://doi.org/10.1038/s41598-023-34450-y",
+        "title": "Building performance simulations can inform IoT privacy leaks in buildings"
+      },
+      {
+        "id": "https://openalex.org/W4390874294",
+        "doi": "https://doi.org/10.1109/iccv51070.2023.00990",
+        "title": "SpinCam: High-Speed Imaging via a Rotating Point-Spread Function"
+      },
+      {
+        "id": "https://openalex.org/W4386065576",
+        "doi": "https://doi.org/10.1109/cvpr52729.2023.00555",
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination"
+      },
+      {
+        "id": "https://openalex.org/W4310984692",
+        "doi": "https://doi.org/10.1145/3563357.3564062",
+        "title": "EffiSenseSee"
+      },
+      {
+        "id": "https://openalex.org/W2945203313",
+        "doi": "https://doi.org/10.1016/j.neucom.2019.05.047",
+        "title": "Complementary coded aperture set for compressive high-resolution imaging"
+      },
+      {
+        "id": "https://openalex.org/W2770152813",
+        "doi": "https://doi.org/10.1109/iccvw.2017.348",
+        "title": "LIT: A System and Benchmark for Light Understanding"
+      },
+      {
+        "id": "https://openalex.org/W2798903514",
+        "doi": "https://doi.org/10.1109/cvpr.2018.00670",
+        "title": "Seeing Temporal Modulation of Lights from Standard Cameras"
+      },
+      {
+        "id": "https://openalex.org/W2799933475",
+        "doi": "https://doi.org/10.1145/3194480.3194495",
+        "title": "Automated Encoding of Clinical Guidelines into Computer-interpretable Format"
+      },
+      {
+        "id": "https://openalex.org/W3116680808",
+        "doi": "https://doi.org/10.1109/ictc49870.2020.9289168",
+        "title": "Dichromatic Model Based Highlight Removal via Deep Learning"
+      },
+      {
+        "id": "https://openalex.org/W4383500980",
+        "doi": "https://doi.org/10.1007/s11042-023-15758-3",
+        "title": "Deep intrinsic image decomposition under colored AC light sources"
+      },
+      {
+        "id": "https://openalex.org/W3188504681",
+        "doi": "https://doi.org/10.48550/arxiv.2108.02158",
+        "title": "Physics-based Noise Modeling for Extreme Low-light Photography"
+      },
+      {
+        "id": "https://openalex.org/W2914168382",
+        "doi": "https://doi.org/10.15760/etd.6567",
+        "title": "Spectral Clustering for Electrical Phase Identification Using Advanced Metering Infrastructure Voltage Time Series"
+      },
+      {
+        "id": "https://openalex.org/W2972314146",
+        "doi": "https://doi.org/10.3390/rs13081426",
+        "title": "The Urban Observatory: A Multi-Modal Imaging Platform for the Study of Dynamics in Complex Urban Systems"
+      },
+      {
+        "id": "https://openalex.org/W4312433533",
+        "doi": "https://doi.org/10.1007/978-3-031-20071-7_28",
+        "title": "Tomography of Turbulence Strength Based on Scintillation Imaging"
+      },
+      {
+        "id": "https://openalex.org/W4367280310",
+        "doi": "https://doi.org/10.1109/access.2023.3271114",
+        "title": "Joint Deep Estimation of Intrinsic and Dichromatic Image Decomposition"
+      },
+      {
+        "id": "https://openalex.org/W4411403347",
+        "doi": "https://doi.org/10.1145/3729500",
+        "title": "Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks"
+      },
+      {
+        "id": "https://openalex.org/W7165169975",
+        "doi": "https://doi.org/10.1145/3744256.3812553",
+        "title": "Lights, Camera, Voltage: Inferring Electric Grid Voltage Using Image-Based Sensing"
+      }
+    ],
+    "selectedId": "W2749252755",
+    "selectedTitle": "Computational Imaging on the Electric Grid",
+    "citingUrl": "https://api.openalex.org/works?filter=cites%3AW2749252755%2Cto_publication_date%3A2026-09-16&per-page=100",
+    "citingTotal": 41
+  },
+  {
+    "seedQuery": "Rolling shutter imaging on the electric grid",
+    "searchUrl": "https://api.openalex.org/works?search=Rolling+shutter+imaging+on+the+electric+grid&per-page=3&filter=to_publication_date%3A2026-09-16",
+    "candidates": [
+      {
+        "id": "https://openalex.org/W2806597708",
+        "doi": "https://doi.org/10.1109/iccphot.2018.8368472",
+        "title": "Rolling shutter imaging on the electric grid"
+      },
+      {
+        "id": "https://openalex.org/W2801146085",
+        "doi": "https://doi.org/10.1109/icassp.2018.8461717",
+        "title": "Invisible Geo-Location Signature in A Single Image"
+      },
+      {
+        "id": "https://openalex.org/W3200805546",
+        "doi": "https://doi.org/10.1038/s41928-021-00644-3",
+        "title": "High-sensitivity high-resolution X-ray imaging with soft-sintered metal halide perovskites"
+      }
+    ],
+    "citing": [
+      {
+        "id": "https://openalex.org/W4312251386",
+        "doi": "https://doi.org/10.1109/cvpr52688.2022.01584",
+        "title": "Dual-Shutter Optical Vibration Sensing"
+      },
+      {
+        "id": "https://openalex.org/W4386047803",
+        "doi": "https://doi.org/10.1109/cvpr52729.2023.01728",
+        "title": "“Seeing” Electric Network Frequency from Events"
+      },
+      {
+        "id": "https://openalex.org/W4313546702",
+        "doi": "https://doi.org/10.1109/tip.2022.3231748",
+        "title": "DeflickerCycleGAN: Learning to Detect and Remove Flickers in a Single Image"
+      },
+      {
+        "id": "https://openalex.org/W4394596445",
+        "doi": "https://doi.org/10.1109/tpami.2024.3386813",
+        "title": "“Seeing” ENF From Neuromorphic Events: Modeling and Robust Estimation"
+      },
+      {
+        "id": "https://openalex.org/W3096856316",
+        "doi": "https://doi.org/10.1007/978-3-030-58536-5_1",
+        "title": "Diffraction Line Imaging"
+      },
+      {
+        "id": "https://openalex.org/W4402350183",
+        "doi": "https://doi.org/10.1145/3678582",
+        "title": "ChromaFlash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras"
+      },
+      {
+        "id": "https://openalex.org/W4390017969",
+        "doi": "https://doi.org/10.1109/tpami.2023.3344650",
+        "title": "Dual-Shutter Optical Vibration Sensing"
+      },
+      {
+        "id": "https://openalex.org/W4410294399",
+        "doi": "https://doi.org/10.1371/journal.pone.0317758",
+        "title": "A super resolution generative adversarial networks and partition-based adaptive filtering technique for detect and remove flickers in digital color images"
+      },
+      {
+        "id": "https://openalex.org/W2947790605",
+        "doi": "https://doi.org/10.1109/iccphot.2019.8747341",
+        "title": "Video from Stills: Lensless Imaging with Rolling Shutter"
+      },
+      {
+        "id": "https://openalex.org/W4386065576",
+        "doi": "https://doi.org/10.1109/cvpr52729.2023.00555",
+        "title": "Light Source Separation and Intrinsic Image Decomposition under AC Illumination"
+      },
+      {
+        "id": "https://openalex.org/W4401749917",
+        "doi": "https://doi.org/10.1109/isbi56570.2024.10635711",
+        "title": "Real-Time Video Enhancement for the Removal of Surgical Lighting Artifacts in Computer-Assisted Orthopedic Surgery"
+      },
+      {
+        "id": "https://openalex.org/W4408286571",
+        "doi": "https://doi.org/10.1364/ol.558864",
+        "title": "Cepstrum-based interferometric microscopy with rolling-shutter cameras"
+      },
+      {
+        "id": "https://openalex.org/W2918212426",
+        "doi": "https://doi.org/10.1109/tpami.2019.2903035",
+        "title": "Computational Imaging on the Electric Grid"
+      },
+      {
+        "id": "https://openalex.org/W2899188305",
+        "doi": "https://doi.org/10.26906/sunz.2018.4.008",
+        "title": "РАЗРАБОТКА МЕТОДОВ УДАЛЕНИЯ ДЕФЕКТОВ НА ИЗОБРАЖЕНИЯХ ЭНЕРГООБЪЕКТОВ, ПОЛУЧЕННЫХ В ПРОЦЕССЕ ДИСТАНЦИОННОГО МОНИТОРИНГА С ПОМОЩЬЮ БПЛА"
+      },
+      {
+        "id": "https://openalex.org/W2972314146",
+        "doi": "https://doi.org/10.3390/rs13081426",
+        "title": "The Urban Observatory: A Multi-Modal Imaging Platform for the Study of Dynamics in Complex Urban Systems"
+      },
+      {
+        "id": "https://openalex.org/W3104005505",
+        "doi": null,
+        "title": "Lensless Computational Imaging using Random Optics"
+      },
+      {
+        "id": "https://openalex.org/W3106736359",
+        "doi": "https://doi.org/10.1109/cvpr46437.2021.01443",
+        "title": "Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect"
+      },
+      {
+        "id": "https://openalex.org/W4416725470",
+        "doi": "https://doi.org/10.23919/oceans59106.2025.11245136",
+        "title": "Seaborne 3D Cloud Sensing Using Photography from Free-Drifting Floats"
+      },
+      {
+        "id": "https://openalex.org/W7131226435",
+        "doi": "https://doi.org/10.1109/vcip67698.2025.11396900",
+        "title": "Self-supervised Image Flicker Removal for Rolling-shutter Cameras"
+      },
+      {
+        "id": "https://openalex.org/W7160187234",
+        "doi": "https://doi.org/10.1109/iccv51701.2025.00826",
+        "title": "RnGCam: High-Speed Video from Rolling & Global Shutter Measurements"
+      },
+      {
+        "id": "https://openalex.org/W7165169975",
+        "doi": "https://doi.org/10.1145/3744256.3812553",
+        "title": "Lights, Camera, Voltage: Inferring Electric Grid Voltage Using Image-Based Sensing"
+      }
+    ],
+    "selectedId": "W2806597708",
+    "selectedTitle": "Rolling shutter imaging on the electric grid",
+    "citingUrl": "https://api.openalex.org/works?filter=cites%3AW2806597708%2Cto_publication_date%3A2026-09-16&per-page=100",
+    "citingTotal": 21
+  },
+  {
+    "seedQuery": "RIFLE Removal Image Flicker Banding",
+    "searchUrl": "https://api.openalex.org/works?search=RIFLE+Removal+Image+Flicker+Banding&per-page=3&filter=to_publication_date%3A2026-09-16",
+    "candidates": [
+      {
+        "id": "https://openalex.org/W4415853386",
+        "doi": "https://doi.org/10.48550/arxiv.2509.24644",
+        "title": "RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement"
+      },
+      {
+        "id": "https://openalex.org/W1965218733",
+        "doi": "https://doi.org/10.1136/bjo.17.11.641",
+        "title": "THE INTRA-OCULAR COLOUR-FILTERS OF VERTEBRATES"
+      },
+      {
+        "id": "https://openalex.org/W2602768412",
+        "doi": "https://doi.org/10.3389/fnhum.2017.00150",
+        "title": "Systems, Subjects, Sessions: To What Extent Do These Factors Influence EEG Data?"
+      }
+    ],
+    "citing": [],
+    "selectedId": "W4415853386",
+    "selectedTitle": "RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement",
+    "citingUrl": "https://api.openalex.org/works?filter=cites%3AW4415853386%2Cto_publication_date%3A2026-09-16&per-page=100",
+    "citingTotal": 0
+  },
+  {
+    "seedQuery": "A review of IEEE P2020 flicker metrics",
+    "searchUrl": "https://api.openalex.org/works?search=A+review+of+IEEE+P2020+flicker+metrics&per-page=3&filter=to_publication_date%3A2026-09-16",
+    "candidates": [
+      {
+        "id": "https://openalex.org/W4226315943",
+        "doi": "https://doi.org/10.2352/ei.2022.34.16.avm-108",
+        "title": "A review of IEEE P2020 flicker metrics"
+      },
+      {
+        "id": "https://openalex.org/W4404345633",
+        "doi": "https://doi.org/10.48550/arxiv.2411.00729",
+        "title": "Autobiasing Event Cameras"
+      },
+      {
+        "id": "https://openalex.org/W7125948754",
+        "doi": "https://doi.org/10.1080/00038628.2026.2617416",
+        "title": "Lighting distribution in school classrooms: A pilot study"
+      }
+    ],
+    "citing": [
+      {
+        "id": "https://openalex.org/W7117303377",
+        "doi": "https://doi.org/10.5909/jbe.2025.30.7.1185",
+        "title": "FlickerFix: Flicker Removal for LED Traffic Lights in Dashcam Videos"
+      },
+      {
+        "id": "https://openalex.org/W7172249613",
+        "doi": "https://doi.org/10.1007/978-3-032-31654-7_13",
+        "title": "DiffuFlicker: Diffusion-Based LED Traffic Light Flicker Removal in Dashcam Videos"
+      }
+    ],
+    "selectedId": "W4226315943",
+    "selectedTitle": "A review of IEEE P2020 flicker metrics",
+    "citingUrl": "https://api.openalex.org/works?filter=cites%3AW4226315943%2Cto_publication_date%3A2026-09-16&per-page=100",
+    "citingTotal": 2
+  }
+]

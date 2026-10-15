@@ -1,0 +1,25 @@
+{
+  "name": "camera-research-docs",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.33.2",
+  "engines": { "node": ">=22" },
+  "pnpm": { "onlyBuiltDependencies": ["esbuild"] },
+  "scripts": {
+    "docs:dev": "node scripts/run.mjs dev",
+    "docs:build": "node scripts/run.mjs build",
+    "docs:build:public": "node scripts/run.mjs build --public",
+    "docs:build:subpath": "node scripts/run.mjs build --subpath",
+    "docs:preview": "node scripts/run.mjs preview",
+    "docs:preview:subpath": "node scripts/run.mjs preview --subpath",
+    "docs:check": "node scripts/check.mjs",
+    "docs:test": "node --test scripts/catalog.test.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.29",
+    "gray-matter": "4.0.3",
+    "markdown-it-mathjax3": "4.3.2",
+    "vitepress": "1.6.4",
+    "vue": "3.5.13"
+  }
+}

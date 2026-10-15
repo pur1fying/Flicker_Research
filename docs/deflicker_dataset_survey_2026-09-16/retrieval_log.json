@@ -1,0 +1,536 @@
+{
+  "checked_date": "2026-09-16",
+  "note": "Direct local retrieval log. Some failed direct requests were read with the search tool or replaced by an official alternative. Full dataset archives were not audited.",
+  "requests": [
+    {
+      "id": "burstdeflicker",
+      "requested_url": "https://arxiv.org/pdf/2510.09996",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "id": "bricker",
+      "requested_url": "https://arxiv.org/pdf/2606.29845",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: /pdf/2606.29845 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "id": "flickerformer",
+      "requested_url": "https://arxiv.org/pdf/2603.22794",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "id": "rifle",
+      "requested_url": "https://arxiv.org/pdf/2509.24644",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "id": "clear_mirage",
+      "requested_url": "https://arxiv.org/pdf/2602.01559",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2602.01559",
+      "bytes": 9457843,
+      "sha256": "ccd3a78166d39170bed9cbdbbb53287379afefeb1e71e68461924732ce62e0e3",
+      "pages": 10,
+      "text_chars": 54397
+    },
+    {
+      "id": "vdfp",
+      "requested_url": "https://arxiv.org/pdf/2605.21079",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2605.21079",
+      "bytes": 19965489,
+      "sha256": "3347a64b8eac01b64b62a4ccdd039e1e5512ca3e6487c486d2128b8edbe2a5c5",
+      "pages": 18,
+      "text_chars": 64399
+    },
+    {
+      "id": "all_in_one",
+      "requested_url": "https://arxiv.org/pdf/2303.08120",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2303.08120",
+      "bytes": 15719510,
+      "sha256": "158e170d7b9782f3731235e7b9afea7217ad492d31abd3db8e39c055eb6d480a",
+      "pages": 10,
+      "text_chars": 54627
+    },
+    {
+      "id": "blazebvd",
+      "requested_url": "https://arxiv.org/pdf/2403.06243",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "id": "wacv2024",
+      "requested_url": "https://openaccess.thecvf.com/content/WACV2024/papers/Fulari_Unsupervised_Model-Based_Learning_for_Simultaneous_Video_Deflickering_and_Deblotching_WACV_2024_paper.pdf",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/WACV2024/papers/Fulari_Unsupervised_Model-Based_Learning_for_Simultaneous_Video_Deflickering_and_Deblotching_WACV_2024_paper.pdf",
+      "bytes": 7754956,
+      "sha256": "29e19bd0d9b3a83bbe0ce9e2e83688bd0530e79bba04144e4e140db9b1a464ef",
+      "pages": 9,
+      "text_chars": 55796
+    },
+    {
+      "id": "acam",
+      "requested_url": "https://www.cs.utoronto.ca/~kyros/pubs/17.cvpr.acam.pdf",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.cs.utoronto.ca/~kyros/pubs/17.cvpr.acam.pdf",
+      "bytes": 1363095,
+      "sha256": "58bdd64a7ccfb5953d44982c4945392b9a5fb6aa9f0e290bc86f7dd0bc9b918e",
+      "pages": 10,
+      "text_chars": 63980
+    },
+    {
+      "id": "iset_readme",
+      "requested_url": "https://raw.githubusercontent.com/AyushJam/iset-lfm/main/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/AyushJam/iset-lfm/main/README.md",
+      "bytes": 5608,
+      "sha256": "b9fd9e648807ba08d1a1ce3ba4ad2b8d840024cbce484d5226c7a41b7eec1f74",
+      "text_chars": 5548
+    },
+    {
+      "id": "iset_dataset",
+      "requested_url": "https://purl.stanford.edu/wd776hn7919",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://purl.stanford.edu/wd776hn7919",
+      "bytes": 28128,
+      "sha256": "5d844133b1d01bb861bb3fcf544d04fc74f5c4603b8bec44413e4e8ac5fba17f",
+      "text_chars": 3510
+    },
+    {
+      "id": "bricker_readme",
+      "requested_url": "https://raw.githubusercontent.com/ZZH-qwq/BRACE/main/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ZZH-qwq/BRACE/main/README.md",
+      "bytes": 5211,
+      "sha256": "234e842953a1ece58d67bc97884c8b490fdd90628dacb1febca59f3a501c4dc8",
+      "text_chars": 5133
+    },
+    {
+      "id": "burst_readme",
+      "requested_url": "https://raw.githubusercontent.com/qulishen/BurstDeflicker/main/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/qulishen/BurstDeflicker/main/README.md",
+      "bytes": 4440,
+      "sha256": "6339cd2a3a0c6a623abe5cb4f1df44c987381f1c45489b6dc80dbe937a84e46f",
+      "text_chars": 4151
+    },
+    {
+      "id": "efr_readme",
+      "requested_url": "https://raw.githubusercontent.com/ziweiWWANG/EFR/master/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ziweiWWANG/EFR/master/README.md",
+      "bytes": 4957,
+      "sha256": "c20fc6f71da0b9e885991d4a7f943079c9bb83e78b441eee1a1873fb6623b0a3",
+      "text_chars": 4957
+    },
+    {
+      "id": "doe_review",
+      "requested_url": "https://www.energy.gov/eere/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.energy.gov/cmei/ssl/articles/flicker-review-temporal-light-modulation-stimulus-responses-and-measures",
+      "bytes": 2447269,
+      "sha256": "ab5a44d42a623f609bc8e0ba327649ee2c76cbabf28b30cce3701e28f19fb625",
+      "pages": 34,
+      "text_chars": 95160
+    },
+    {
+      "id": "doe_basics",
+      "requested_url": "https://www.energy.gov/cmei/ssl/flicker-basics",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.energy.gov/cmei/ssl/flicker-basics",
+      "bytes": 116354,
+      "sha256": "c00249240353054fd74419f353c87f3369508fad0e287ade6006f90d5b2bfa22",
+      "text_chars": 4787
+    },
+    {
+      "id": "blender_motion",
+      "requested_url": "https://docs.blender.org/manual/en/4.3/render/cycles/render_settings/motion_blur.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/manual/en/4.3/render/cycles/render_settings/motion_blur.html",
+      "bytes": 404588,
+      "sha256": "3c492d0065aae8f22d1f86ee1d35ed950546d653cd0bbb2592012c7f3ec7a16b",
+      "text_chars": 1838
+    },
+    {
+      "id": "blender_passes",
+      "requested_url": "https://docs.blender.org/manual/en/4.3/render/layers/passes.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/manual/en/4.3/render/layers/passes.html",
+      "bytes": 412453,
+      "sha256": "a92b49020534cc01072b10693ae077e67dd01629130733074f2a20b7704c8129",
+      "text_chars": 9285
+    },
+    {
+      "id": "blender_lights",
+      "requested_url": "https://docs.blender.org/manual/en/4.3/render/lights/light_object.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/manual/en/4.3/render/lights/light_object.html",
+      "bytes": 410613,
+      "sha256": "999ec7c3426198c612b4ed3f2744de05a06be1dfbaed793a30b71bece0629b2d",
+      "text_chars": 8295
+    },
+    {
+      "id": "blender_color",
+      "requested_url": "https://docs.blender.org/manual/en/4.3/render/color_management.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/manual/en/4.3/render/color_management.html",
+      "bytes": 413775,
+      "sha256": "29d682aaaa3eacfb597de602887f2f016d8ce2ec842bd37c401d6145f5391e78",
+      "text_chars": 13675
+    },
+    {
+      "id": "blender_principled",
+      "requested_url": "https://docs.blender.org/manual/en/4.3/render/shader_nodes/shader/principled.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/manual/en/4.3/render/shader_nodes/shader/principled.html",
+      "bytes": 422027,
+      "sha256": "e9ed01ebf5977d9fd494989dece322fad07dea498fba667475d47861359a26ce",
+      "text_chars": 9448
+    },
+    {
+      "id": "mitsuba_variants",
+      "requested_url": "https://mitsuba.readthedocs.io/en/latest/src/key_topics/variants.html",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='mitsuba.readthedocs.io', port=443): Max retries exceeded with url: /en/latest/src/key_topics/variants.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "id": "flickervidset",
+      "requested_url": "https://database.mmsp-kn.de/flickervidset-database.html",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='database.mmsp-kn.de', port=443): Max retries exceeded with url: /flickervidset-database.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "id": "burst_html",
+      "requested_url": "https://arxiv.org/html/2510.09996",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: /html/2510.09996 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "id": "bricker_html",
+      "requested_url": "https://arxiv.org/html/2606.29845",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.29845",
+      "bytes": 413392,
+      "sha256": "3a8a6386b51946ffaa5a57f232e2a8c903e7ce005c195bde4babf662c5cb6737",
+      "text_chars": 62712
+    },
+    {
+      "id": "rifle_html",
+      "requested_url": "https://arxiv.org/html/2509.24644v4",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2509.24644v4",
+      "bytes": 201055,
+      "sha256": "b0d2ef7e482f219d19e5008d03c89fb98f9e3d32f0bea6f5bfb9f4029ad47447",
+      "text_chars": 38634
+    },
+    {
+      "id": "flickerformer_html",
+      "requested_url": "https://arxiv.org/html/2603.22794",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2603.22794",
+      "bytes": 302322,
+      "sha256": "7a856ba53dbd90bd29dd514b63c10d5f10f77d09c50e1f5acc5f9f05d6a6fe0d",
+      "text_chars": 58575
+    },
+    {
+      "id": "burst_pdf_official",
+      "requested_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/4e60c211b3aec6cf8e4866893931efa6-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "bytes": 15144608,
+      "sha256": "fe27a9605c27a714e0c00e53690da12526d559c0b9f9dc1271c562530b8adc22",
+      "pages": 22,
+      "text_chars": 82997
+    },
+    {
+      "id": "blaze_pdf_official",
+      "requested_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02526.pdf",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02526.pdf",
+      "bytes": 3903051,
+      "sha256": "054ba18db7c1af91ec3384d3756206140dbb2687c8e41ca999177e0f9a47d0ab",
+      "pages": 17,
+      "text_chars": 49258
+    },
+    {
+      "id": "rifle_readme",
+      "requested_url": "https://raw.githubusercontent.com/libozhu03/RIFLE/main/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/libozhu03/RIFLE/main/README.md",
+      "bytes": 9007,
+      "sha256": "d6756e84533b33264a2e30ba242302c77c312a56e50df26cc8c420ce6c7b338f",
+      "text_chars": 8927
+    },
+    {
+      "id": "clear_readme",
+      "requested_url": "https://raw.githubusercontent.com/libozhu03/CLEAR/main/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 404,
+      "final_url": "https://raw.githubusercontent.com/libozhu03/CLEAR/main/README.md",
+      "bytes": 14,
+      "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/libozhu03/CLEAR/main/README.md"
+    },
+    {
+      "id": "vdfp_readme",
+      "requested_url": "https://raw.githubusercontent.com/ZhiyiZZhou/VDFP/main/README.md",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ZhiyiZZhou/VDFP/main/README.md",
+      "bytes": 4771,
+      "sha256": "a7e4798b03b3c2fe4d3a0bff3ce463e09df779d0a7fb83730f400965474e31ee",
+      "text_chars": 4701
+    },
+    {
+      "id": "dfcg_tree",
+      "requested_url": "https://api.github.com/repos/YChenL/DFCG/git/trees/main?recursive=1",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://api.github.com/repos/YChenL/DFCG/git/trees/main?recursive=1",
+      "bytes": 7383,
+      "sha256": "945cc23658a0639eed30b8a896c4f487e41c0c2109d4a106ef4999c03f42b68e",
+      "text_chars": 7383
+    },
+    {
+      "id": "iset_paper",
+      "requested_url": "https://library.imaging.org/ei/articles/38/16/AVM-105",
+      "retrieved_date": "2026-09-16",
+      "error": "HTTPSConnectionPool(host='library.imaging.org', port=443): Max retries exceeded with url: /ei/articles/38/16/AVM-105 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "id": "sensor_spectra",
+      "requested_url": "https://www.gujinwei.org/research/camspec/db.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.gujinwei.org/research/camspec/db.html",
+      "bytes": 4198,
+      "sha256": "28e9a27ffb1482d03f985b3d2303445e415b6467e1b00fb723191ab27fbbdeed",
+      "text_chars": 2074
+    },
+    {
+      "id": "cie_led",
+      "requested_url": "https://cie.co.at/datatable/relative-spectral-power-distributions-illuminants-representing-typical-led-lamps",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://cie.co.at/datatable/relative-spectral-power-distributions-illuminants-representing-typical-led-lamps",
+      "bytes": 63729,
+      "sha256": "db3d96f2d11ba0a0b9ce3389766d5d7e228ee3cce6ba17a72135958eb276d6f9",
+      "text_chars": 684
+    },
+    {
+      "id": "mitsuba_sensors",
+      "requested_url": "https://mitsuba.readthedocs.io/en/latest/src/generated/plugins_sensors.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://mitsuba.readthedocs.io/en/latest/src/generated/plugins_sensors.html",
+      "bytes": 91009,
+      "sha256": "b935d79d870f732691caf5d18c320cf9bbdbc1c7903c05455fd4ef51448a81d8",
+      "text_chars": 17178
+    },
+    {
+      "id": "pbrt_spectra",
+      "requested_url": "https://pbr-book.org/4ed/Radiometry,_Spectra,_and_Color/Representing_Spectral_Distributions",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://pbr-book.org/4ed/Radiometry,_Spectra,_and_Color/Representing_Spectral_Distributions",
+      "bytes": 157953,
+      "sha256": "074c75786c0d6c4d72516252d7797d3c0013409a8623977728d1a2d6805e36e7",
+      "text_chars": 41281
+    },
+    {
+      "id": "delight_project",
+      "requested_url": "https://www.dgp.toronto.edu/ACam/",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.dgp.toronto.edu/ACam/",
+      "bytes": 5394,
+      "sha256": "7402caa23e7720d5b1b599fd229e71aa8e7b0ce45abc9642f75c3e40b1e3c6b7",
+      "text_chars": 2250
+    },
+    {
+      "id": "delight_supp",
+      "requested_url": "https://webee.technion.ac.il/Sites/People/yoav/publications/supplement_ACam_docCVPR.pdf",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://webee.technion.ac.il/Sites/People/yoav/publications/supplement_ACam_docCVPR.pdf",
+      "bytes": 1449866,
+      "sha256": "4d5567b47420210c385eb1aacfbaa8dea344911f80e55583397ce7d1cc5386cf",
+      "pages": 6,
+      "text_chars": 18604
+    },
+    {
+      "id": "iset_paper_pdf",
+      "requested_url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/38/16/AVM-105",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/38/16/AVM-105",
+      "bytes": 13182864,
+      "sha256": "ae3d9e59f7817a8603430962ad475e2ed108a8e20da6d0070540f47ac793d5eb",
+      "pages": 7,
+      "text_chars": 36987
+    },
+    {
+      "id": "deegan2020",
+      "requested_url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/32/16/art00001",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/32/16/art00001",
+      "bytes": 780593,
+      "sha256": "3808356d5ec0cfa9172be91d0fd4a03f59577351dd7b46978fededbbdb0446ba",
+      "pages": 6,
+      "text_chars": 36529
+    },
+    {
+      "id": "dfcg_synth",
+      "requested_url": "https://raw.githubusercontent.com/YChenL/DFCG/main/Dataset/synthesize_data.py",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/YChenL/DFCG/main/Dataset/synthesize_data.py",
+      "bytes": 3321,
+      "sha256": "3150ee58c57bbbec65316376b6b45be0ac02b4b0820429d891fc24d792d6c736",
+      "text_chars": 3311
+    },
+    {
+      "id": "clear_project",
+      "requested_url": "https://libozhu03.github.io/CLEAR/",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://libozhu03.github.io/CLEAR/",
+      "bytes": 24173,
+      "sha256": "7aaf498490c0c0895873bd77d14423f7010d24073a3f505fe576814010fedf67",
+      "text_chars": 4944
+    },
+    {
+      "id": "plos2025",
+      "requested_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317758",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317758",
+      "bytes": 237587,
+      "sha256": "d1c86d77c683e75edba4038bbbd17447300c41aa641f89da3610d9b50284e85a",
+      "text_chars": 49439
+    },
+    {
+      "id": "blender_spectrum_code",
+      "requested_url": "https://raw.githubusercontent.com/blender/blender/v4.3.0/intern/cycles/kernel/util/spectrum.h",
+      "retrieved_date": "2026-09-16",
+      "status": 404,
+      "final_url": "https://raw.githubusercontent.com/blender/blender/v4.3.0/intern/cycles/kernel/util/spectrum.h",
+      "bytes": 14,
+      "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/blender/blender/v4.3.0/intern/cycles/kernel/util/spectrum.h"
+    },
+    {
+      "id": "blender_area_api",
+      "requested_url": "https://docs.blender.org/api/4.3/bpy.types.AreaLight.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/api/4.3/bpy.types.AreaLight.html",
+      "bytes": 312932,
+      "sha256": "37d852b37e1d5e66f18aa72a5220c8677b38c3cd961f3687f6a4ca1a443bb6b4",
+      "text_chars": 3682
+    },
+    {
+      "id": "blender_scene_api",
+      "requested_url": "https://docs.blender.org/api/4.3/bpy.types.Scene.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://docs.blender.org/api/4.3/bpy.types.Scene.html",
+      "bytes": 377168,
+      "sha256": "2b90951671732fe08c809e222e70400d51ac7ee73a174caed560bd1270b64948",
+      "text_chars": 13051
+    },
+    {
+      "id": "sony_causes",
+      "requested_url": "https://www.sony.com/electronics/support/articles/00008839",
+      "retrieved_date": "2026-09-16",
+      "status": 403,
+      "final_url": "https://www.sony.com/electronics/support/articles/00008839",
+      "bytes": 184,
+      "error": "403 Client Error: Forbidden for url: https://www.sony.com/electronics/support/articles/00008839"
+    },
+    {
+      "id": "sony_reduce",
+      "requested_url": "https://www.sony.com/electronics/support/articles/00122281",
+      "retrieved_date": "2026-09-16",
+      "status": 403,
+      "final_url": "https://www.sony.com/electronics/support/articles/00122281",
+      "bytes": 184,
+      "error": "403 Client Error: Forbidden for url: https://www.sony.com/electronics/support/articles/00122281"
+    },
+    {
+      "id": "sony_compare",
+      "requested_url": "https://helpguide.sony.net/ilc/2440/v1/zh-cn/contents/201h_anti_flicker_comparison.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://helpguide.sony.net/ilc/2440/v1/zh-cn/contents/201h_anti_flicker_comparison.html",
+      "bytes": 67381,
+      "sha256": "7ac50cec1be4fa0c49c06548a303efe4471d53bf65a5967d2a6293f2f7a8114f",
+      "text_chars": 743
+    },
+    {
+      "id": "sony_variable",
+      "requested_url": "https://helpguide.sony.net/ilc/1960/v1/zh-cn/contents/TP0002935717.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://helpguide.sony.net/ilc/1960/v1/zh-cn/contents/TP0002935717.html",
+      "bytes": 74246,
+      "sha256": "4571c4e2977786199092f74f1966c6cc55219b81ccbadb4f9d55e78a7ce94e77",
+      "text_chars": 1179
+    },
+    {
+      "id": "sony_lfm",
+      "requested_url": "https://www.sony-semicon.com/cn/technology/automotive/lfm.html",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://www.sony-semicon.com/cn/technology/automotive/lfm.html",
+      "bytes": 101606,
+      "sha256": "2a9a9ec9e67081eb629644db6d2fc291190ec32cf05044dd8db5c430784e4a8d",
+      "text_chars": 701
+    },
+    {
+      "id": "sony_hss",
+      "requested_url": "https://www.sony.com/electronics/support/articles/00280549",
+      "retrieved_date": "2026-09-16",
+      "status": 403,
+      "final_url": "https://www.sony.com/electronics/support/articles/00280549",
+      "bytes": 184,
+      "error": "403 Client Error: Forbidden for url: https://www.sony.com/electronics/support/articles/00280549"
+    },
+    {
+      "id": "sony_understanding_flicker",
+      "requested_url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/en/",
+      "retrieved_date": "2026-09-16",
+      "status": 200,
+      "final_url": "https://support.d-imaging.sony.co.jp/support/ilc/flicker/01/en/",
+      "bytes": 22329,
+      "sha256": "00932f96c0dede368ab82e21c4d9e23114e75d181320bd291a45f6a3457ea5a1",
+      "text_chars": 8731
+    }
+  ]
+}
